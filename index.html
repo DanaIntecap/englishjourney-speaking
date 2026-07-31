@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>English Journey</title>
+
+<style>
+
+body{
+  font-family:Arial,sans-serif;
+  background:#58cc02;
+  padding:20px;
+}
+
+.container{
+  max-width:700px;
+  margin:auto;
+  background:white;
+  padding:20px;
+  border-radius:20px;
+}
+
+button{
+  width:100%;
+  padding:15px;
+  margin-top:10px;
+  border:none;
+  border-radius:10px;
+  font-size:16px;
+}
+
+.blue{
+  background:#1cb0f6;
+  color:white;
+}
+
+.green{
+  background:#58cc02;
+  color:white;
+}
+
+#question,
+#answer{
+  margin-top:15px;
+  padding:15px;
+  background:#f2f2f2;
+  border-radius:10px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>English Journey Speaking Practice</h2>
+
+<button class="blue" onclick="nextQuestion()">
+Next Question
+</button>
+
+<button class="green" onclick="showAnswer()">
+Show Answer
+</button>
+
+<div id="question"></div>
+<div id="answer"></div>
+
+</div>
+
+<script>
+
+let questions = [];
+let current = null;
+
+fetch("questions.json")
+.then(response => response.json())
+.then(data => {
+
+    questions = data;
+
+    nextQuestion();
+
+})
+.catch(error => {
+
+    document.getElementById("question").innerHTML =
+    "Error loading questions.json";
+
+    console.error(error);
+
+});
+
+function nextQuestion(){
+
+    if(questions.length === 0){
+        return;
+    }
+
+    const randomIndex =
+    Math.floor(Math.random() * questions.length);
+
+    current = questions[randomIndex];
+
+    document.getElementById("question").innerHTML =
+    current.question;
+
+    document.getElementById("answer").innerHTML = "";
+
+}
+
+function showAnswer(){
+
+    if(!current) return;
+
+    document.getElementById("answer").innerHTML =
+    current.answer;
+
+}
+
+</script>
+
+</body>
+</html>
