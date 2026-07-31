@@ -65,17 +65,17 @@ background:#f2f2f2;
 border-radius:10px;
 }
 
-#speechResult{
+#speechResult,
+#expectedAnswer,
+#wordCount{
 margin-top:15px;
 padding:15px;
 background:#f2f2f2;
 border-radius:10px;
-min-height:80px;
 }
 
-#wordCount{
-margin-top:10px;
-font-weight:bold;
+#speechResult{
+min-height:80px;
 }
 
 </style>
@@ -143,6 +143,8 @@ font-weight:bold;
 <div id="speechResult">
 Your speech will appear here...
 </div>
+
+<div id="expectedAnswer"></div>
 
 <div id="wordCount"></div>
 
@@ -259,6 +261,8 @@ document.getElementById("reminder").style.display="none";
 
 document.getElementById("speechResult").innerHTML =
 "Your speech will appear here...";
+
+document.getElementById("expectedAnswer").innerHTML = "";
 
 document.getElementById("wordCount").innerHTML = "";
 
@@ -425,11 +429,13 @@ event.results[i][0].transcript + " ";
 
 }
 
-document.getElementById(
-"speechResult"
-).innerHTML =
-"<b>You said:</b><br><br>" +
+document.getElementById("speechResult").innerHTML =
+"<b>You Said:</b><br><br>" +
 transcript;
+
+document.getElementById("expectedAnswer").innerHTML =
+"<b>Expected Answer:</b><br><br>" +
+(current?.answer || "");
 
 const words =
 transcript.trim()
@@ -437,10 +443,9 @@ transcript.trim()
 .filter(Boolean)
 .length;
 
-document.getElementById(
-"wordCount"
-).innerHTML =
-"✅ Words spoken: " + words;
+document.getElementById("wordCount").innerHTML =
+"<b>Words Spoken:</b><br><br>" +
+words;
 
 };
 
