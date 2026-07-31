@@ -7,18 +7,20 @@
 
 <title>English Journey Speaking Practice</title>
 
-<!-- Corrección de Bug: Enlace de Google Fonts reparado -->
+<!-- Fuentes de Google: Antonio, Montserrat y Poppins -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 
 <style>
 
+/* Texto general con Montserrat */
 body{
-    font-family: Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     background: #0060AA;
     padding: 20px;
     margin: 0;
+    line-height: 1.6;
 }
 
 .container{
@@ -30,6 +32,7 @@ body{
     box-shadow: 0 6px 20px rgba(0,0,0,.15);
 }
 
+/* Título principal con Antonio */
 .banner{
     background: #0060AA;
     color: white;
@@ -37,11 +40,16 @@ body{
     padding: 18px;
     border-radius: 12px;
     margin-bottom: 20px;
-    /* Cambio de fuente a Montserrat y Poppins */
-    font-family: 'Montserrat', 'Poppins', sans-serif;
-    font-size: 32px;
+    font-family: 'Antonio', sans-serif;
+    font-size: 36px;
     letter-spacing: 1px;
     font-weight: 700;
+}
+
+/* Títulos con Poppins */
+h1, h2, h3 {
+    font-family: 'Poppins', sans-serif;
+    margin-top: 0;
 }
 
 .institutional-section{
@@ -53,14 +61,12 @@ body{
 }
 
 .institutional-section h1{
-    font-family: 'Montserrat', sans-serif;
     color: #0060AA;
-    margin-top: 0;
 }
 
 .institutional-section h2{
-    font-family: 'Poppins', sans-serif;
     color: #008D36;
+    margin-top: 20px;
 }
 
 .settings-box{
@@ -72,9 +78,7 @@ body{
 }
 
 .settings-box h3{
-    font-family: 'Poppins', sans-serif;
     color: #0060AA;
-    margin-top: 0;
 }
 
 button,
@@ -86,7 +90,7 @@ select{
     border: none;
     border-radius: 10px;
     box-sizing: border-box;
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 button{
@@ -99,25 +103,25 @@ button:hover {
     opacity: 0.9;
 }
 
-/* Nuevas clases de colores para botones */
+/* Colores de Botones */
 .btn-primary {
-    background: #00205b;
-    color: white;
+    background: #00205b !important;
+    color: white !important;
 }
 
 .btn-listen {
-    background: #ffed00;
-    color: #00205b; /* Texto oscuro para contraste */
+    background: #ffed00 !important;
+    color: #00205b !important;
 }
 
 .btn-record {
-    background: #38ff2d;
-    color: #00205b; /* Texto oscuro para contraste */
+    background: #38ff2d !important;
+    color: #00205b !important;
 }
 
 .btn-stop {
-    background: #f17e38;
-    color: white;
+    background: #f17e38 !important;
+    color: white !important;
 }
 
 #question,
@@ -154,7 +158,6 @@ button:hover {
 <div class="container">
 
 <div class="banner">
-    <!-- Logotipo extraído desde la imagen original de Wikipedia Commons -->
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logotipo_de_el_INTECAP.png" alt="Logo INTECAP" style="max-height: 80px; display: block; margin: 0 auto 15px auto;">
     ENGLISH JOURNEY A1.1
 </div>
@@ -245,13 +248,12 @@ Very Slow Speed
 
 </div>
 
-<h2 style="font-family:'Montserrat',sans-serif;color:#0060AA;">
+<h2 style="color:#0060AA;">
 Speaking Practice
 </h2>
 
 <select id="unit"></select>
 
-<!-- Aplicación de las nuevas clases de botones -->
 <button class="btn-listen" onclick="playQuestion()">
 🔊 Listen Question
 </button>
@@ -686,7 +688,7 @@ document
 text-align:center;
 font-size:12px;
 color:#666;
-font-family:Arial,sans-serif;
+font-family: 'Montserrat', sans-serif;
 margin-top:20px;
 ">
 
