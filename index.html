@@ -64,18 +64,20 @@ padding:15px;
 background:#f2f2f2;
 border-radius:10px;
 }
-#speechBox{
-margin-top:20px;
-}
 
 #speechResult{
 margin-top:15px;
 padding:15px;
 background:#f2f2f2;
 border-radius:10px;
-min-height:60px;
+min-height:80px;
 }
-    
+
+#wordCount{
+margin-top:10px;
+font-weight:bold;
+}
+
 </style>
 
 </head>
@@ -126,7 +128,7 @@ min-height:60px;
 
 <div id="reminder"></div>
 
-<div id="speechBox">
+<hr>
 
 <h3>🎤 Speaking Practice</h3>
 
@@ -142,7 +144,7 @@ min-height:60px;
 Your speech will appear here...
 </div>
 
-</div>
+<div id="wordCount"></div>
 
 </div>
 
@@ -150,31 +152,31 @@ Your speech will appear here...
 
 let data = [];
 let questions = [];
+let current = null;
 let recognition = null;
 
 fetch("questions.json")
 .then(response => response.json())
 .then(result => {
 
-    data = result;
+data = result;
 
-    const units =
-    [...new Set(
-        data
-        .map(x => String(x.unit || "").trim())
-        .filter(x => x !== "")
-    )];
+const units =
+[...new Set(
+data
+.map(x => String(x.unit || "").trim())
+.filter(x => x !== "")
+)];
 
-    const combo =
-    document.getElementById("unit");
+const combo =
+document.getElementById("unit");
 
-    combo.innerHTML =
-    '<option value="ALL">All Units</option>';
+combo.innerHTML =
+'<option value="ALL">All Units</option>';
 
-    units.forEach(unit => {
+units.forEach(unit => {
 
-        combo.
-innerHTML +=
+combo.innerHTML +=
 `<option value="${unit}">
 ${unit}
 </option>`;
@@ -254,6 +256,11 @@ document.getElementById("questionTranslation").style.display="none";
 document.getElementById("answer").style.display="none";
 document.getElementById("answerTranslation").style.display="none";
 document.getElementById("reminder").style.display="none";
+
+document.getElementById("speechResult").innerHTML =
+"Your speech will appear here...";
+
+document.getElementById("wordCount").innerHTML = "";
 
 }
 
@@ -386,6 +393,7 @@ div.innerHTML =
 (current.answerTranslation || "");
 
 }
+
 function startRecognition(){
 
 const SpeechRecognition =
@@ -394,7 +402,7 @@ window.webkitSpeechRecognition;
 
 if(!SpeechRecognition){
 
-alert("Speech recognition is not supported in this browser.");
+alert("Speech Recognition is not supported in this browser.");
 return;
 
 }
@@ -423,6 +431,17 @@ document.getElementById(
 "<b>You said:</b><br><br>" +
 transcript;
 
+const words =
+transcript.trim()
+.split(/\s+/)
+.filter(Boolean)
+.length;
+
+document.getElementById(
+"wordCount"
+).innerHTML =
+"✅ Words spoken: " + words;
+
 };
 
 recognition.start();
@@ -438,6 +457,7 @@ recognition.stop();
 }
 
 }
+
 </script>
 
 </body>
