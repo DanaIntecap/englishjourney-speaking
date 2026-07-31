@@ -145,3 +145,220 @@ fetch("https://intecapedu.sharepoint.com/sites/EnglishJourneyEducationalResource
     units.forEach(unit => {
 
         combo.
+innerHTML +=
+`<option value="${unit}">
+${unit}
+</option>`;
+
+});
+
+combo.addEventListener(
+"change",
+filterQuestions
+);
+
+filterQuestions();
+
+})
+.catch(error => {
+
+document.getElementById("question").style.display="block";
+
+document.getElementById("question").innerHTML =
+"Error loading questions.json";
+
+console.error(error);
+
+});
+
+function filterQuestions(){
+
+const selected =
+document.getElementById("unit").value;
+
+if(selected === "ALL"){
+
+questions = [...data];
+
+}else{
+
+questions =
+data.filter(
+x => String(x.unit || "").trim() === selected
+);
+
+}
+
+shuffle(questions);
+
+nextQuestion();
+
+}
+
+function shuffle(array){
+
+for(let i=array.length-1;i>0;i--){
+
+const j =
+Math.floor(Math.random()*(i+1));
+
+[array[i],array[j]] =
+[array[j],array[i]];
+
+}
+
+}
+
+function nextQuestion(){
+
+if(questions.length===0){
+
+filterQuestions();
+return;
+
+}
+
+current = questions.pop();
+
+document.getElementById("question").style.display="none";
+document.getElementById("questionTranslation").style.display="none";
+document.getElementById("answer").style.display="none";
+document.getElementById("answerTranslation").style.display="none";
+document.getElementById("reminder").style.display="none";
+
+}
+
+function getVoice(){
+
+const voices =
+speechSynthesis.getVoices();
+
+let voice =
+voices.find(v =>
+v.lang.includes("en-US")
+);
+
+if(!voice){
+
+voice =
+voices.find(v =>
+v.lang.startsWith("en")
+);
+
+}
+
+return voice;
+
+}
+
+function speak(text){
+
+if(!text) return;
+
+speechSynthesis.cancel();
+
+const msg =
+new SpeechSynthesisUtterance(text);
+
+msg.lang = "en-US";
+
+const voice = getVoice();
+
+if(voice){
+
+msg.voice = voice;
+
+}
+
+speechSynthesis.speak(msg);
+
+}
+
+function playQuestion(){
+
+if(current){
+
+speak(current.question);
+
+}
+
+}
+
+function playAnswer(){
+
+if(current){
+
+speak(current.answer);
+
+}
+
+}
+
+function showQuestion(){
+
+const div =
+document.getElementById("question");
+
+div.style.display="block";
+
+div.innerHTML =
+"<b>Question</b><br><br>" +
+(current.question || "");
+
+}
+
+function showQuestionTranslation(){
+
+const div =
+document.getElementById(
+"questionTranslation"
+);
+
+div.style.display="block";
+
+div.innerHTML =
+"<b>Translation</b><br><br>" +
+(current.questionTranslation || "");
+
+}
+
+function showAnswer(){
+
+const answer =
+document.getElementById("answer");
+
+const reminder =
+document.getElementById("reminder");
+
+answer.style.display="block";
+reminder.style.display="block";
+
+answer.innerHTML =
+"<b>Answer</b><br><br>" +
+(current.answer || "");
+
+reminder.innerHTML =
+"<b>Reminder</b><br><br>" +
+(current.reminder || "");
+
+}
+
+function showAnswerTranslation(){
+
+const div =
+document.getElementById(
+"answerTranslation"
+);
+
+div.style.display="block";
+
+div.innerHTML =
+"<b>Translation</b><br><br>" +
+(current.answerTranslation || "");
+
+}
+
+</script>
+
+</body>
+</html>
