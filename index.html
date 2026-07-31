@@ -466,6 +466,9 @@ recognition.stop();
 }
 
 }
+if (window.self !== window.top) {
+  document.getElementById("openStandaloneBtn").style.display = "inline-block";
+}
 document
   .getElementById("openStandaloneBtn")
   .addEventListener("click", () => {
