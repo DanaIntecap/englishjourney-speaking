@@ -357,7 +357,58 @@ div.innerHTML =
 (current.answerTranslation || "");
 
 }
+function startRecognition(){
 
+const SpeechRecognition =
+window.SpeechRecognition ||
+window.webkitSpeechRecognition;
+
+if(!SpeechRecognition){
+
+alert("Speech recognition is not supported in this browser.");
+return;
+
+}
+
+recognition =
+new SpeechRecognition();
+
+recognition.lang = "en-US";
+recognition.interimResults = true;
+recognition.continuous = true;
+
+recognition.onresult = function(event){
+
+let transcript = "";
+
+for(let i=0;i<event.results.length;i++){
+
+transcript +=
+event.results[i][0].transcript + " ";
+
+}
+
+document.getElementById(
+"speechResult"
+).innerHTML =
+"<b>You said:</b><br><br>" +
+transcript;
+
+};
+
+recognition.start();
+
+}
+
+function stopRecognition(){
+
+if(recognition){
+
+recognition.stop();
+
+}
+
+}
 </script>
 
 </body>
