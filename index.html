@@ -64,7 +64,18 @@ padding:15px;
 background:#f2f2f2;
 border-radius:10px;
 }
+#speechBox{
+margin-top:20px;
+}
 
+#speechResult{
+margin-top:15px;
+padding:15px;
+background:#f2f2f2;
+border-radius:10px;
+min-height:60px;
+}
+    
 </style>
 
 </head>
@@ -115,13 +126,31 @@ border-radius:10px;
 
 <div id="reminder"></div>
 
+<div id="speechBox">
+
+<h3>🎤 Speaking Practice</h3>
+
+<button class="blue" onclick="startRecognition()">
+🎤 Start Recording
+</button>
+
+<button class="red" onclick="stopRecognition()">
+⏹ Stop Recording
+</button>
+
+<div id="speechResult">
+Your speech will appear here...
+</div>
+
+</div>
+
 </div>
 
 <script>
 
 let data = [];
 let questions = [];
-let current = null;
+let recognition = null;
 
 fetch("questions.json")
 .then(response => response.json())
