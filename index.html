@@ -1,127 +1,104 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<title>English Journey</title>
+<title>English Journey Speaking Practice</title>
 
 <style>
 
 body{
-  font-family:Arial,sans-serif;
-  background:#58cc02;
-  padding:20px;
+font-family:Arial,sans-serif;
+background:#58cc02;
+padding:20px;
 }
 
 .container{
-  max-width:700px;
-  margin:auto;
-  background:white;
-  padding:20px;
-  border-radius:20px;
+max-width:700px;
+margin:auto;
+background:white;
+padding:20px;
+border-radius:20px;
+}
+
+button,
+select{
+width:100%;
+padding:15px;
+margin-top:10px;
+font-size:16px;
+border:none;
+border-radius:10px;
+box-sizing:border-box;
 }
 
 button{
-  width:100%;
-  padding:15px;
-  margin-top:10px;
-  border:none;
-  border-radius:10px;
-  font-size:16px;
+cursor:pointer;
 }
 
 .blue{
-  background:#1cb0f6;
-  color:white;
+background:#1cb0f6;
+color:white;
 }
 
 .green{
-  background:#58cc02;
-  color:white;
+background:#58cc02;
+color:white;
+}
+
+.red{
+background:#ff4b4b;
+color:white;
 }
 
 #question,
-#answer{
-  margin-top:15px;
-  padding:15px;
-  background:#f2f2f2;
-  border-radius:10px;
+#questionTranslation,
+#answer,
+#answerTranslation,
+#reminder{
+display:none;
+margin-top:15px;
+padding:15px;
+background:#f2f2f2;
+border-radius:10px;
 }
 
 </style>
+
 </head>
 
 <body>
 
 <div class="container">
 
-<h2>English Journey Speaking Practice</h2>
+<h2>Speaking Practice</h2>
 
-<button class="blue" onclick="nextQuestion()">
-Next Question
+<select id="unit"></select>
+
+<button class="blue" onclick="playQuestion()">
+🔊 Listen Question
+</button>
+
+<button class="green" onclick="showQuestion()">
+👀 Show Question
+</button>
+
+<button class="green" onclick="showQuestionTranslation()">
+🌎 Question Translation
 </button>
 
 <button class="green" onclick="showAnswer()">
-Show Answer
+✅ Show Answer
 </button>
 
-<div id="question"></div>
-<div id="answer"></div>
+<button class="green" onclick="showAnswerTranslation()">
+🌎 Answer Translation
+</button>
 
-</div>
+<button class="blue" onclick="playAnswer()">
+🔊 Listen Answer
+</button>
 
-<script>
-
-let questions = [];
-let current = null;
-
-fetch("questions.json")
-.then(response => response.json())
-.then(data => {
-
-    questions = data;
-
-    nextQuestion();
-
-})
-.catch(error => {
-
-    document.getElementById("question").innerHTML =
-    "Error loading questions.json";
-
-    console.error(error);
-
-});
-
-function nextQuestion(){
-
-    if(questions.length === 0){
-        return;
-    }
-
-    const randomIndex =
-    Math.floor(Math.random() * questions.length);
-
-    current = questions[randomIndex];
-
-    document.getElementById("question").innerHTML =
-    current.question;
-
-    document.getElementById("answer").innerHTML = "";
-
-}
-
-function showAnswer(){
-
-    if(!current) return;
-
-    document.getElementById("answer").innerHTML =
-    current.answer;
-
-}
-
-</script>
-
-</body>
-</html>
+<button 
