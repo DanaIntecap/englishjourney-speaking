@@ -101,4 +101,47 @@ border-radius:10px;
 🔊 Listen Answer
 </button>
 
-<button 
+<button class="red" onclick="nextQuestion()">
+➡ Next Question
+</button>
+
+<div id="question"></div>
+
+<div id="questionTranslation"></div>
+
+<div id="answer"></div>
+
+<div id="answerTranslation"></div>
+
+<div id="reminder"></div>
+
+</div>
+
+<script>
+
+let data = [];
+let questions = [];
+let current = null;
+
+fetch("https://intecapedu.sharepoint.com/sites/EnglishJourneyEducationalResources/Documentos%20compartidos/data/questions.json")
+.then(response => response.json())
+.then(result => {
+
+    data = result;
+
+    const units =
+    [...new Set(
+        data
+        .map(x => String(x.unit || "").trim())
+        .filter(x => x !== "")
+    )];
+
+    const combo =
+    document.getElementById("unit");
+
+    combo.innerHTML =
+    '<option value="ALL">All Units</option>';
+
+    units.forEach(unit => {
+
+        combo.
