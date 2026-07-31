@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
 
 <meta charset="UTF-8">
@@ -7,100 +7,117 @@
 
 <title>English Journey Speaking Practice</title>
 
+<!-- Corrección de Bug: Enlace de Google Fonts reparado -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https00;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;700&family=Poppins:wght@400;500;600&display=swap" rel="stylesheet">
+
 <style>
 
 body{
-    font-family:Arial,sans-serif;
-    background:#0060AA;
-    padding:20px;
-    margin:0;
+    font-family: Arial, sans-serif;
+    background: #0060AA;
+    padding: 20px;
+    margin: 0;
 }
 
 .container{
-    max-width:900px;
-    margin:auto;
-    background:white;
-    padding:25px;
-    border-radius:20px;
-    box-shadow:0 6px 20px rgba(0,0,0,.15);
+    max-width: 900px;
+    margin: auto;
+    background: white;
+    padding: 25px;
+    border-radius: 20px;
+    box-shadow: 0 6px 20px rgba(0,0,0,.15);
 }
 
 .banner{
-    background:#0060AA;
-    color:white;
-    text-align:center;
-    padding:18px;
-    border-radius:12px;
-    margin-bottom:20px;
-    font-family:'Antonio',sans-serif;
-    font-size:32px;
-    letter-spacing:1px;
+    background: #0060AA;
+    color: white;
+    text-align: center;
+    padding: 18px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    /* Cambio de fuente a Montserrat y Poppins */
+    font-family: 'Montserrat', 'Poppins', sans-serif;
+    font-size: 32px;
+    letter-spacing: 1px;
+    font-weight: 700;
 }
 
 .institutional-section{
-    background:#f8f9fa;
-    border-left:8px solid #0060AA;
-    padding:20px;
-    border-radius:10px;
-    margin-bottom:25px;
+    background: #f8f9fa;
+    border-left: 8px solid #0060AA;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 25px;
 }
 
 .institutional-section h1{
-    font-family:'Montserrat',sans-serif;
-    color:#0060AA;
-    margin-top:0;
+    font-family: 'Montserrat', sans-serif;
+    color: #0060AA;
+    margin-top: 0;
 }
 
 .institutional-section h2{
-    font-family:'Poppins',sans-serif;
-    color:#008D36;
+    font-family: 'Poppins', sans-serif;
+    color: #008D36;
 }
 
 .settings-box{
-    background:#f5f7fa;
-    border:1px solid #dce3ea;
-    padding:15px;
-    border-radius:10px;
-    margin-bottom:20px;
+    background: #f5f7fa;
+    border: 1px solid #dce3ea;
+    padding: 15px;
+    border-radius: 10px;
+    margin-bottom: 20px;
 }
 
 .settings-box h3{
-    font-family:'Poppins',sans-serif;
-    color:#0060AA;
-    margin-top:0;
+    font-family: 'Poppins', sans-serif;
+    color: #0060AA;
+    margin-top: 0;
 }
 
 button,
 select{
-    width:100%;
-    padding:15px;
-    margin-top:10px;
-    font-size:16px;
-    border:none;
-    border-radius:10px;
-    box-sizing:border-box;
+    width: 100%;
+    padding: 15px;
+    margin-top: 10px;
+    font-size: 16px;
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
 button{
-    cursor:pointer;
-    font-weight:600;
+    cursor: pointer;
+    font-weight: 600;
+    transition: opacity 0.2s;
 }
 
-.blue{
-    background:#0060AA;
-    color:white;
+button:hover {
+    opacity: 0.9;
 }
 
-.green{
-    background:#008D36;
-    color:white;
+/* Nuevas clases de colores para botones */
+.btn-primary {
+    background: #00205b;
+    color: white;
 }
 
-.red{
-    background:#6A261D;
-    color:white;
+.btn-listen {
+    background: #ffed00;
+    color: #00205b; /* Texto oscuro para contraste */
+}
+
+.btn-record {
+    background: #38ff2d;
+    color: #00205b; /* Texto oscuro para contraste */
+}
+
+.btn-stop {
+    background: #f17e38;
+    color: white;
 }
 
 #question,
@@ -108,24 +125,24 @@ button{
 #answer,
 #answerTranslation,
 #reminder{
-    display:none;
-    margin-top:15px;
-    padding:15px;
-    background:#f2f2f2;
-    border-radius:10px;
+    display: none;
+    margin-top: 15px;
+    padding: 15px;
+    background: #f2f2f2;
+    border-radius: 10px;
 }
 
 #speechResult,
 #expectedAnswer,
 #wordCount{
-    margin-top:15px;
-    padding:15px;
-    background:#f5f7fa;
-    border-radius:10px;
+    margin-top: 15px;
+    padding: 15px;
+    background: #f5f7fa;
+    border-radius: 10px;
 }
 
 #speechResult{
-    min-height:80px;
+    min-height: 80px;
 }
 
 </style>
@@ -137,6 +154,8 @@ button{
 <div class="container">
 
 <div class="banner">
+    <!-- Logotipo extraído desde la imagen original de Wikipedia Commons -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Logotipo_de_el_INTECAP.png" alt="Logo INTECAP" style="max-height: 80px; display: block; margin: 0 auto 15px auto;">
     ENGLISH JOURNEY A1.1
 </div>
 
@@ -226,37 +245,38 @@ Very Slow Speed
 
 </div>
 
-<h2 style="font-family:Montserrat,sans-serif;color:#0060AA;">
+<h2 style="font-family:'Montserrat',sans-serif;color:#0060AA;">
 Speaking Practice
 </h2>
 
 <select id="unit"></select>
 
-<button class="blue" onclick="playQuestion()">
+<!-- Aplicación de las nuevas clases de botones -->
+<button class="btn-listen" onclick="playQuestion()">
 🔊 Listen Question
 </button>
 
-<button class="green" onclick="showQuestion()">
+<button class="btn-primary" onclick="showQuestion()">
 👀 Show Question
 </button>
 
-<button class="green" onclick="showQuestionTranslation()">
+<button class="btn-primary" onclick="showQuestionTranslation()">
 🌎 Question Translation
 </button>
 
-<button class="green" onclick="showAnswer()">
+<button class="btn-primary" onclick="showAnswer()">
 ✅ Show Answer
 </button>
 
-<button class="green" onclick="showAnswerTranslation()">
+<button class="btn-primary" onclick="showAnswerTranslation()">
 🌎 Answer Translation
 </button>
 
-<button class="blue" onclick="playAnswer()">
+<button class="btn-listen" onclick="playAnswer()">
 🔊 Listen Answer
 </button>
 
-<button class="red" onclick="nextQuestion()">
+<button class="btn-primary" onclick="nextQuestion()">
 ➡ Next Question
 </button>
 
@@ -274,15 +294,15 @@ Speaking Practice
 
 <h3>🎤 Speaking Practice</h3>
 
-<button class="blue" onclick="startRecognition()">
+<button class="btn-record" onclick="startRecognition()">
 🎤 Start Recording
 </button>
 
-<button class="red" onclick="stopRecognition()">
+<button class="btn-stop" onclick="stopRecognition()">
 ⏹ Stop Recording
 </button>
 
-<button id="openStandaloneBtn" style="display:none;">
+<button id="openStandaloneBtn" class="btn-primary" style="display:none;">
 🚀 Open Full Screen Practice
 </button>
 
