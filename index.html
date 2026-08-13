@@ -7,7 +7,6 @@
 
 <title>English Journey Speaking Practice</title>
 
-<!-- Fuentes de Google: Antonio, Montserrat y Poppins -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -178,12 +177,10 @@ button:hover {
 
 <div class="container">
 
- <!-- 1. Logo de INTECAP (Fuera del recuadro azul) -->
-    <div class="logo-intecap">
+ <div class="logo-intecap">
         <img src="logo-intecap.png" alt="INTECAP">
     </div>
 
-    <!-- 2. Recuadro azul (Banner) -->
     <div class="banner">
         <div class="logo-center">
             <img src="logo-ingles-para-todos.png" alt="English Journey">
@@ -278,6 +275,7 @@ Very Slow Speed
 Speaking Practice
 </h2>
 
+<select id="level"></select>
 <select id="unit"></select>
 
 <button class="btn-listen" onclick="playQuestion()">
@@ -357,6 +355,22 @@ fetch("questions.json")
 
 data = result;
 
+// Extraer Niveles
+const levels =
+[...new Set(
+data
+.map(x => String(x.level || "").trim())
+.filter(x => x !== "")
+)];
+
+const comboLevel = document.getElementById("level");
+comboLevel.innerHTML = '<option value="ALL">All Levels</option>';
+
+levels.forEach(level => {
+comboLevel.innerHTML += `<option value="${level}">${level}</option>`;
+});
+
+// Extraer Unidades
 const units =
 [...new Set(
 data
@@ -364,25 +378,16 @@ data
 .filter(x => x !== "")
 )];
 
-const combo =
-document.getElementById("unit");
-
-combo.innerHTML =
-'<option value="ALL">All Units</option>';
+const comboUnit = document.getElementById("unit");
+comboUnit.innerHTML = '<option value="ALL">All Units</option>';
 
 units.forEach(unit => {
-
-combo.innerHTML +=
-`<option value="${unit}">
-${unit}
-</option>`;
-
+comboUnit.innerHTML += `<option value="${unit}">Unit ${unit}</option>`;
 });
 
-combo.addEventListener(
-"change",
-filterQuestions
-);
+// Listeners
+comboLevel.addEventListener("change", filterQuestions);
+comboUnit.addEventListener("change", filterQuestions);
 
 filterQuestions();
 
@@ -398,23 +403,18 @@ console.error(error);
 
 });
 
+// Función de filtrado actualizada (Nivel + Unidad)
 function filterQuestions(){
 
-const selected =
-document.getElementById("unit").value;
+const selectedLevel = document.getElementById("level").value;
+const selectedUnit = document.getElementById("unit").value;
 
-if(selected === "ALL"){
-
-questions = [...data];
-
-}else{
-
-questions =
-data.filter(
-x => String(x.unit || "").trim() === selected
-);
-
-}
+questions = data.filter(x => {
+    const matchLevel = (selectedLevel === "ALL") || (String(x.level || "").trim() === selectedLevel);
+    const matchUnit = (selectedUnit === "ALL") || (String(x.unit || "").trim() === selectedUnit);
+    
+    return matchLevel && matchUnit;
+});
 
 shuffle(questions);
 
@@ -440,8 +440,16 @@ function nextQuestion(){
 
 if(questions.length===0){
 
-filterQuestions();
-return;
+    document.getElementById("question").style.display="block";
+    document.getElementById("question").innerHTML = "<b>No questions match the selected filters.</b>";
+    
+    document.getElementById("questionTranslation").style.display="none";
+    document.getElementById("answer").style.display="none";
+    document.getElementById("answerTranslation").style.display="none";
+    document.getElementById("reminder").style.display="none";
+    
+    current = null;
+    return;
 
 }
 
@@ -471,258 +479,4 @@ const voices =
 speechSynthesis.getVoices()
 .filter(v => v.lang.startsWith("en"));
 
-if(voices.length === 0){
-    return null;
-}
-
-if(mode === "mixed"){
-
-    return voices[
-        Math.floor(
-            Math.random() * voices.length
-        )
-    ];
-
-}
-
-let voice =
-voices.find(v =>
-v.lang === mode
-);
-
-if(!voice){
-
-    voice =
-    voices.find(v =>
-    v.lang.startsWith("en")
-    );
-
-}
-
-return voice;
-
-}
-
-function speak(text){
-
-if(!text) return;
-
-speechSynthesis.cancel();
-
-const msg =
-new SpeechSynthesisUtterance(text);
-
-const voice =
-getVoice();
-
-const speed =
-parseFloat(
-document.getElementById("speed").value
-);
-
-if(voice){
-
-    msg.voice = voice;
-    msg.lang = voice.lang;
-
-}else{
-
-    msg.lang = "en-US";
-
-}
-
-msg.rate = speed;
-
-speechSynthesis.speak(msg);
-
-}
-
-function playQuestion(){
-
-if(current){
-
-speak(current.question);
-
-}
-
-}
-
-function playAnswer(){
-
-if(current){
-
-speak(current.answer);
-
-}
-
-}
-
-function showQuestion(){
-
-const div =
-document.getElementById("question");
-
-div.style.display="block";
-
-div.innerHTML =
-"<b>Question</b><br><br>" +
-(current.question || "");
-
-}
-
-function showQuestionTranslation(){
-
-const div =
-document.getElementById(
-"questionTranslation"
-);
-
-div.style.display="block";
-
-div.innerHTML =
-"<b>Translation</b><br><br>" +
-(current.questionTranslation || "");
-
-}
-
-function showAnswer(){
-
-const answer =
-document.getElementById("answer");
-
-const reminder =
-document.getElementById("reminder");
-
-answer.style.display="block";
-reminder.style.display="block";
-
-answer.innerHTML =
-"<b>Answer</b><br><br>" +
-(current.answer || "");
-
-reminder.innerHTML =
-"<b>Reminder</b><br><br>" +
-(current.reminder || "");
-
-}
-
-function showAnswerTranslation(){
-
-const div =
-document.getElementById(
-"answerTranslation"
-);
-
-div.style.display="block";
-
-div.innerHTML =
-"<b>Translation</b><br><br>" +
-(current.answerTranslation || "");
-
-}
-
-function startRecognition(){
-
-const SpeechRecognition =
-window.SpeechRecognition ||
-window.webkitSpeechRecognition;
-
-if(!SpeechRecognition){
-
-alert("Speech Recognition is not supported in this browser.");
-return;
-
-}
-
-recognition =
-new SpeechRecognition();
-
-const mode =
-document.getElementById("accentMode").value;
-
-recognition.lang =
-mode === "mixed"
-? "en-US"
-: mode;
-  
-recognition.interimResults = true;
-recognition.continuous = true;
-
-recognition.onresult = function(event){
-
-let transcript = "";
-
-for(let i=0;i<event.results.length;i++){
-
-transcript +=
-event.results[i][0].transcript + " ";
-
-}
-
-document.getElementById("speechResult").innerHTML =
-"<b>You Said:</b><br><br>" +
-transcript;
-
-document.getElementById("expectedAnswer").innerHTML =
-"<b>Expected Answer:</b><br><br>" +
-(current?.answer || "");
-
-const words =
-transcript.trim()
-.split(/\s+/)
-.filter(Boolean)
-.length;
-
-document.getElementById("wordCount").innerHTML =
-"<b>Words Spoken:</b><br><br>" +
-words;
-
-};
-
-recognition.start();
-
-}
-
-function stopRecognition(){
-
-if(recognition){
-
-recognition.stop();
-
-}
-
-}
-if (window.self !== window.top) {
-  document.getElementById("openStandaloneBtn").style.display = "inline-block";
-}
-document
-  .getElementById("openStandaloneBtn")
-  .addEventListener("click", () => {
-
-    window.open(
-      "https://yellow-field-0f4f9020f.7.azurestaticapps.net/",
-      "_blank"
-    );
-
-  });
-  
-</script>
-
-<hr style="margin-top:30px;">
-
-<div style="
-text-align:center;
-font-size:12px;
-color:#666;
-font-family: 'Montserrat', sans-serif;
-margin-top:20px;
-">
-
-English Journey Educational Resources © INTECAP
-
-</div>
-
-</div>
-
-</body>
-</html>
+if(voices.length === 0
