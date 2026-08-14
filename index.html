@@ -1,206 +1,21 @@
 <!DOCTYPE html>
 <html lang="es">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>English Journey Speaking Practice</title>
 
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 
-<title>English Journey Speaking Practice</title>
-
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
-
-<style>
-
-/* Texto general con Montserrat */
-body{
-    font-family: 'Montserrat', sans-serif;
-    background: #0060AA;
-    padding: 20px;
-    margin: 0;
-    line-height: 1.6;
-}
-
-.container{
-    max-width: 950px;
-    margin: auto;
-    background: white;
-    padding: 25px;
-    border-radius: 20px;
-    box-shadow: 0 6px 20px rgba(0,0,0,.15);
-}
-
-/* Área exclusiva para el Logo de INTECAP (Fondo Blanco) */
-.logo-intecap {
-    text-align: left; 
-    margin-bottom: 20px;
-    padding-bottom: 10px;
-}
-
-.logo-intecap img {
-    max-height: 45px;
-    width: auto;
-}
-
-/* Recuadro Azul para English Journey */
-.banner {
-    text-align: center;
-    background: #0060AA;
-    color: white;
-    padding: 20px;
-    border-radius: 15px;
-    margin-bottom: 25px;
-}
-
-.banner h1 {
-    font-family: 'Antonio', sans-serif;
-    font-size: 36px;
-    letter-spacing: 1px;
-    font-weight: 700;
-    margin: 10px 0 5px 0;
-}
-
-.banner h2 {
-    font-family: 'Poppins', sans-serif;
-    font-size: 20px;
-    font-weight: 500;
-    margin: 0;
-}
-
-/* Control del tamaño del Logo central dentro del Banner */
-.logo-center img {
-    max-height: 90px;
-    width: auto;
-}
-
-/* Títulos generales con Poppins */
-h1, h2, h3 {
-    font-family: 'Poppins', sans-serif;
-    margin-top: 0;
-}
-
-.institutional-section{
-    background: #f8f9fa;
-    border-left: 8px solid #0060AA;
-    padding: 20px;
-    border-radius: 10px;
-    margin-bottom: 25px;
-}
-
-.institutional-section h1{
-    color: #0060AA;
-}
-
-.institutional-section h2{
-    color: #008D36;
-    margin-top: 20px;
-}
-
-.settings-box{
-    background: #f5f7fa;
-    border: 1px solid #dce3ea;
-    padding: 15px;
-    border-radius: 10px;
-    margin-bottom: 20px;
-}
-
-.settings-box h3{
-    color: #0060AA;
-}
-
-button,
-select{
-    width: 100%;
-    padding: 15px;
-    margin-top: 10px;
-    font-size: 16px;
-    border: none;
-    border-radius: 10px;
-    box-sizing: border-box;
-    font-family: 'Montserrat', sans-serif;
-}
-
-button{
-    cursor: pointer;
-    font-weight: 600;
-    transition: opacity 0.2s;
-}
-
-button:hover {
-    opacity: 0.9;
-}
-
-button:disabled {
-    opacity: 0.5;
-    cursor: not-allowed;
-}
-
-/* Colores de Botones */
-.btn-primary {
-    background: #00205b !important;
-    color: white !important;
-}
-
-.btn-listen {
-    background: #ffed00 !important;
-    color: #00205b !important;
-}
-
-.btn-record {
-    background: #38ff2d !important;
-    color: #00205b !important;
-}
-
-.btn-stop {
-    background: #f17e38 !important;
-    color: white !important;
-}
-
-#question,
-#questionTranslation,
-#answer,
-#answerTranslation,
-#reminder{
-    display: none;
-    margin-top: 15px;
-    padding: 15px;
-    background: #f2f2f2;
-    border-radius: 10px;
-}
-
-#speechResult,
-#expectedAnswer,
-#wordCount{
-    margin-top: 15px;
-    padding: 15px;
-    background: #f5f7fa;
-    border-radius: 10px;
-}
-
-#speechResult{
-    min-height: 80px;
-}
-
-.recording {
-    animation: pulse 1s infinite;
-}
-
-@keyframes pulse {
-    0% { opacity: 1; }
-    50% { opacity: 0.6; }
-    100% { opacity: 1; }
-}
-
-</style>
-
+    <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
 
 <div class="container">
 
- <div class="logo-intecap">
+    <div class="logo-intecap">
         <img src="logo-intecap.png" alt="INTECAP">
     </div>
 
@@ -209,600 +24,93 @@ button:disabled {
             <img src="logo-ingles-para-todos.png" alt="English Journey">
         </div>
         <h1>ENGLISH JOURNEY</h1>
-        <h2>Speaking Practice for the Test</h2>
+        <h2>Speaking Practice</h2>
     </div>
 
-<div class="institutional-section">
+    <div class="institutional-section">
+        <p><strong>Skill:</strong> Speaking</p>
+        <p><strong>CEFR Level:</strong> A1.1</p>
 
-<p><strong>Skill:</strong> Speaking</p>
-<p><strong>CEFR Level:</strong> A1.1</p>
+        <p>
+        Esta actividad interactiva ha sido diseñada para apoyar el desarrollo de las habilidades
+        de comunicación oral mediante la práctica guiada, la autoevaluación y la retroalimentación inmediata.
+        </p>
 
+        <h2>Objetivo de Aprendizaje</h2>
+        <p>
+        Desarrollar confianza y fluidez en el inglés hablado al responder preguntas,
+        aplicar vocabulario de la unidad actual y comparar las respuestas propias con modelos de referencia.
+        </p>
 
-<p>
-Esta actividad interactiva ha sido diseñada para simular la sección de
-Speaking de los exámenes orales Midterm y Final del programa English Journey.
-Su propósito es apoyar el desarrollo de las habilidades de comunicación oral
-mediante la práctica guiada, la autoevaluación y la retroalimentación inmediata.
-</p>
+        <h2>Instrucciones</h2>
+        <ol>
+            <li>Escucha la pregunta primero. Se recomienda no leer el texto hasta haber comprendido el audio por completo.</li>
+            <li>Utiliza la traducción únicamente cuando sea necesario.</li>
+            <li>Piensa tu respuesta antes de comenzar a hablar.</li>
+            <li>Haz clic en <strong>🎤 Start Recording</strong>.</li>
+            <li>Responde utilizando oraciones completas.</li>
+            <li>Haz clic en <strong>⏹ Stop Recording</strong> al finalizar.</li>
+            <li>Compara tu respuesta con la respuesta sugerida.</li>
+            <li>Revisa el recordatorio proporcionado y continúa practicando.</li>
+        </ol>
 
-<h2>Objetivo de Aprendizaje</h2>
+        <h2>Criterios de Éxito</h2>
+        <ul>
+            <li>Responde utilizando oraciones completas.</li>
+            <li>Usa el vocabulario de la lección de manera apropiada.</li>
+            <li>Comunica sus ideas de forma clara y comprensible.</li>
+            <li>Mejora la pronunciación mediante la práctica repetida.</li>
+        </ul>
+    </div>
 
-<p>
-Desarrollar confianza y fluidez en el inglés hablado al responder preguntas,
-aplicar vocabulario de la unidad actual y comparar las respuestas propias con
-modelos de referencia.
-</p>
+    <div class="settings-box">
+        <h3>⚙️ Listening Settings</h3>
+        <select id="accentMode">
+            <option value="en-US">🇺🇸 American English</option>
+            <option value="en-GB">🇬🇧 British English</option>
+            <option value="mixed">🌎 Mixed Accents Challenge</option>
+        </select>
 
-<h2>Instrucciones</h2>
+        <select id="speed">
+            <option value="1">Normal Speed</option>
+            <option value="0.85">Slow Speed</option>
+            <option value="0.75">Very Slow Speed</option>
+        </select>
+    </div>
 
-<ol>
-<li>Escucha la pregunta primero. Se recomienda no leer el texto hasta haber comprendido el audio por completo.</li>
-<li>Utiliza la traducción únicamente cuando sea necesario.</li>
-<li>Piensa tu respuesta antes de comenzar a hablar.</li>
-<li>Haz clic en <strong>🎤 Start Recording</strong>.</li>
-<li>Responde utilizando oraciones completas.</li>
-<li>Haz clic en <strong>⏹ Stop Recording</strong> al finalizar.</li>
-<li>Compara tu respuesta con la respuesta sugerida.</li>
-<li>Revisa el recordatorio proporcionado y continúa practicando.</li>
-</ol>
+    <h2 style="color:#0060AA;">Speaking Practice</h2>
 
-<h2>Criterios de Éxito</h2>
+    <select id="level"></select>
+    <select id="unit"></select>
 
-<ul>
-<li>Responde utilizando oraciones completas.</li>
-<li>Usa el vocabulario de la lección de manera apropiada.</li>
-<li>Comunica sus ideas de forma clara y comprensible.</li>
-<li>Mejora la pronunciación mediante la práctica repetida.</li>
-</ul>
+    <button class="btn-listen" onclick="playQuestion()">🔊 Listen Question</button>
+    <button class="btn-primary" onclick="showQuestion()">👀 Show Question</button>
+    <button class="btn-primary" onclick="showQuestionTranslation()">🌎 Question Translation</button>
+    <button class="btn-primary" onclick="showAnswer()">✅ Show Answer</button>
+    <button class="btn-primary" onclick="showAnswerTranslation()">🌎 Answer Translation</button>
+    <button class="btn-listen" onclick="playAnswer()">🔊 Listen Answer</button>
+    <button class="btn-primary" onclick="nextQuestion()">➡ Next Question</button>
 
-</div>
+    <div id="question"></div>
+    <div id="questionTranslation"></div>
+    <div id="answer"></div>
+    <div id="answerTranslation"></div>
+    <div id="reminder"></div>
 
-<div class="settings-box">
+    <hr>
 
-<h3>⚙️ Listening Settings</h3>
+    <h3>🎤 Speaking Practice</h3>
 
-<select id="accentMode">
+    <button id="recordBtn" class="btn-record" onclick="startRecognition()">🎤 Start Recording</button>
+    <button id="stopBtn" class="btn-stop" onclick="stopRecognition()" disabled>⏹ Stop Recording</button>
 
-<option value="en-US">
-🇺🇸 American English
-</option>
-
-<option value="en-GB">
-🇬🇧 British English
-</option>
-
-<option value="mixed">
-🌎 Mixed Accents Challenge
-</option>
-
-</select>
-
-<select id="speed">
-
-<option value="1">
-Normal Speed
-</option>
-
-<option value="0.85">
-Slow Speed
-</option>
-
-<option value="0.75">
-Very Slow Speed
-</option>
-
-</select>
-
-</div>
-
-<h2 style="color:#0060AA;">
-Speaking Practice
-</h2>
-
-<select id="level"></select>
-<select id="unit"></select>
-
-<button class="btn-listen" onclick="playQuestion()">
-🔊 Listen Question
-</button>
-
-<button class="btn-primary" onclick="showQuestion()">
-👀 Show Question
-</button>
-
-<button class="btn-primary" onclick="showQuestionTranslation()">
-🌎 Question Translation
-</button>
-
-<button class="btn-primary" onclick="showAnswer()">
-✅ Show Answer
-</button>
-
-<button class="btn-primary" onclick="showAnswerTranslation()">
-🌎 Answer Translation
-</button>
-
-<button class="btn-listen" onclick="playAnswer()">
-🔊 Listen Answer
-</button>
-
-<button class="btn-primary" onclick="nextQuestion()">
-➡ Next Question
-</button>
-
-<div id="question"></div>
-
-<div id="questionTranslation"></div>
-
-<div id="answer"></div>
-
-<div id="answerTranslation"></div>
-
-<div id="reminder"></div>
-
-<hr>
-
-<h3>🎤 Speaking Practice</h3>
-
-<button id="recordBtn" class="btn-record" onclick="startRecognition()">
-🎤 Start Recording
-</button>
-
-<button id="stopBtn" class="btn-stop" onclick="stopRecognition()" disabled>
-⏹ Stop Recording
-</button>
-
-<button id="openStandaloneBtn" class="btn-primary" style="display:none;">
-🚀 Open Full Screen Practice
-</button>
-
-<div id="speechResult">
-Your speech will appear here...
-</div>
-
-<div id="expectedAnswer"></div>
-
-<div id="wordCount"></div>
+    <div id="speechResult">Your speech will appear here...</div>
+    <div id="expectedAnswer"></div>
+    <div id="wordCount"></div>
 
 </div>
 
-<script>
-
-let data = [];
-let questions = [];
-let current = null;
-let recognition = null;
-let isRecording = false;
-let availableVoices = [];
-
-fetch("questions.json")
-.then(response => response.json())
-.then(result => {
-
-data = result;
-
-// Extraer Niveles
-const levels =
-[...new Set(
-data
-.map(x => String(x.level || "").trim())
-.filter(x => x !== "")
-)];
-
-const comboLevel = document.getElementById("level");
-comboLevel.innerHTML = '<option value="ALL">All Levels</option>';
-
-levels.forEach(level => {
-comboLevel.innerHTML += `<option value="${level}">${level}</option>`;
-});
-
-// Extraer Unidades
-const units =
-[...new Set(
-data
-.map(x => String(x.unit || "").trim())
-.filter(x => x !== "")
-)];
-
-const comboUnit = document.getElementById("unit");
-comboUnit.innerHTML = '<option value="ALL">All Units</option>';
-
-units.forEach(unit => {
-comboUnit.innerHTML += `<option value="${unit}">Unit ${unit}</option>`;
-});
-
-// Listeners
-comboLevel.addEventListener("change", filterQuestions);
-comboUnit.addEventListener("change", filterQuestions);
-
-filterQuestions();
-
-})
-.catch(error => {
-
-document.getElementById("question").style.display="block";
-
-document.getElementById("question").innerHTML =
-"Error loading questions.json";
-
-console.error(error);
-
-});
-
-// Función de filtrado actualizada (Nivel + Unidad)
-function filterQuestions(){
-
-const selectedLevel = document.getElementById("level").value;
-const selectedUnit = document.getElementById("unit").value;
-
-questions = data.filter(x => {
-    const matchLevel = (selectedLevel === "ALL") || (String(x.level || "").trim() === selectedLevel);
-    const matchUnit = (selectedUnit === "ALL") || (String(x.unit || "").trim() === selectedUnit);
-    
-    return matchLevel && matchUnit;
-});
-
-shuffle(questions);
-
-nextQuestion();
-
-}
-
-function shuffle(array){
-
-for(let i=array.length-1;i>0;i--){
-
-const j =
-Math.floor(Math.random()*(i+1));
-
-[array[i],array[j]] =
-[array[j],array[i]];
-
-}
-
-}
-
-function nextQuestion(){
-
-if(questions.length===0){
-
-    document.getElementById("question").style.display="block";
-    document.getElementById("question").innerHTML = "<b>No questions match the selected filters.</b>";
-    
-    document.getElementById("questionTranslation").style.display="none";
-    document.getElementById("answer").style.display="none";
-    document.getElementById("answerTranslation").style.display="none";
-    document.getElementById("reminder").style.display="none";
-    
-    current = null;
-    return;
-
-}
-
-current = questions.pop();
-
-document.getElementById("question").style.display="none";
-document.getElementById("questionTranslation").style.display="none";
-document.getElementById("answer").style.display="none";
-document.getElementById("answerTranslation").style.display="none";
-document.getElementById("reminder").style.display="none";
-
-document.getElementById("speechResult").innerHTML =
-"Your speech will appear here...";
-
-document.getElementById("expectedAnswer").innerHTML = "";
-
-document.getElementById("wordCount").innerHTML = "";
-
-}
-
-/* ============================
-   VOCES / TEXT TO SPEECH
-   ============================ */
-
-function loadVoices(){
-    availableVoices = speechSynthesis.getVoices();
-}
-
-// Algunos navegadores cargan las voces de forma asíncrona
-if(typeof speechSynthesis !== "undefined"){
-    loadVoices();
-    speechSynthesis.onvoiceschanged = loadVoices;
-}
-
-function getVoice(){
-
-const mode =
-document.getElementById("accentMode").value;
-
-const voices =
-speechSynthesis.getVoices()
-.filter(v => v.lang.startsWith("en"));
-
-if(voices.length === 0){
-    return null;
-}
-
-let targetLang = mode;
-
-// Reto de acentos mixtos: elegir aleatoriamente entre US y GB
-if(mode === "mixed"){
-    targetLang = Math.random() < 0.5 ? "en-US" : "en-GB";
-}
-
-const matchedVoices =
-voices.filter(v => v.lang === targetLang);
-
-if(matchedVoices.length > 0){
-    return matchedVoices[Math.floor(Math.random()*matchedVoices.length)];
-}
-
-// Si no hay coincidencia exacta, usar cualquier voz en inglés disponible
-return voices[0];
-
-}
-
-function speakText(text){
-
-if(!text){
-    return;
-}
-
-if(typeof speechSynthesis === "undefined"){
-    alert("Sorry, your browser does not support text to speech.");
-    return;
-}
-
-speechSynthesis.cancel();
-
-const utterance = new SpeechSynthesisUtterance(text);
-
-const voice = getVoice();
-
-if(voice){
-    utterance.voice = voice;
-    utterance.lang = voice.lang;
-} else {
-    utterance.lang = "en-US";
-}
-
-const speedValue =
-parseFloat(document.getElementById("speed").value) || 1;
-
-utterance.rate = speedValue;
-
-speechSynthesis.speak(utterance);
-
-}
-
-function playQuestion(){
-
-if(!current){
-    return;
-}
-
-speakText(current.question);
-
-}
-
-function playAnswer(){
-
-if(!current){
-    return;
-}
-
-speakText(current.answer);
-
-}
-
-/* ============================
-   MOSTRAR / OCULTAR TEXTOS
-   ============================ */
-
-function showQuestion(){
-
-if(!current){
-    return;
-}
-
-const el = document.getElementById("question");
-
-el.innerHTML = current.question;
-el.style.display = "block";
-
-}
-
-function showQuestionTranslation(){
-
-if(!current){
-    return;
-}
-
-const el = document.getElementById("questionTranslation");
-
-el.innerHTML = current.questionTranslation || "";
-el.style.display = "block";
-
-}
-
-function showAnswer(){
-
-if(!current){
-    return;
-}
-
-const el = document.getElementById("answer");
-
-el.innerHTML = current.answer;
-el.style.display = "block";
-
-const reminderEl = document.getElementById("reminder");
-
-if(current.reminder){
-    reminderEl.innerHTML = "💡 " + current.reminder;
-    reminderEl.style.display = "block";
-} else {
-    reminderEl.style.display = "none";
-}
-
-}
-
-function showAnswerTranslation(){
-
-if(!current){
-    return;
-}
-
-const el = document.getElementById("answerTranslation");
-
-el.innerHTML = current.answerTranslation || "";
-el.style.display = "block";
-
-}
-
-/* ============================
-   RECONOCIMIENTO DE VOZ
-   ============================ */
-
-function getSpeechRecognition(){
-
-return window.SpeechRecognition || window.webkitSpeechRecognition || null;
-
-}
-
-function startRecognition(){
-
-if(!current){
-    alert("Please select a question first.");
-    return;
-}
-
-const SpeechRecognitionAPI = getSpeechRecognition();
-
-if(!SpeechRecognitionAPI){
-    alert("Sorry, your browser does not support speech recognition. Try using Google Chrome.");
-    return;
-}
-
-if(isRecording){
-    return;
-}
-
-recognition = new SpeechRecognitionAPI();
-
-recognition.lang = "en-US";
-recognition.continuous = true;
-recognition.interimResults = true;
-
-let finalTranscript = "";
-
-recognition.onstart = function(){
-
-isRecording = true;
-
-document.getElementById("recordBtn").disabled = true;
-document.getElementById("recordBtn").classList.add("recording");
-document.getElementById("stopBtn").disabled = false;
-
-document.getElementById("speechResult").innerHTML = "Listening...";
-
-};
-
-recognition.onresult = function(event){
-
-let interimTranscript = "";
-
-for(let i = event.resultIndex; i < event.results.length; i++){
-
-const transcript = event.results[i][0].transcript;
-
-if(event.results[i].isFinal){
-    finalTranscript += transcript + " ";
-} else {
-    interimTranscript += transcript;
-}
-
-}
-
-document.getElementById("speechResult").innerHTML =
-finalTranscript + '<span style="color:#999;">' + interimTranscript + '</span>';
-
-};
-
-recognition.onerror = function(event){
-
-console.error("Speech recognition error:", event.error);
-
-document.getElementById("speechResult").innerHTML =
-"Error: " + event.error + ". Please try again.";
-
-stopRecognition();
-
-};
-
-recognition.onend = function(){
-
-isRecording = false;
-
-document.getElementById("recordBtn").disabled = false;
-document.getElementById("recordBtn").classList.remove("recording");
-document.getElementById("stopBtn").disabled = true;
-
-if(finalTranscript.trim() !== ""){
-    compareWithExpectedAnswer(finalTranscript.trim());
-}
-
-};
-
-recognition.start();
-
-}
-
-function stopRecognition(){
-
-if(recognition && isRecording){
-    recognition.stop();
-}
-
-}
-
-function compareWithExpectedAnswer(spokenText){
-
-if(!current){
-    return;
-}
-
-const expectedEl = document.getElementById("expectedAnswer");
-expectedEl.innerHTML = "<strong>Suggested answer:</strong> " + current.answer;
-
-const spokenWords =
-spokenText.toLowerCase().replace(/[.,!?]/g, "").split(/\s+/).filter(w => w !== "");
-
-const expectedWords =
-current.answer.toLowerCase().replace(/[.,!?]/g, "").split(/\s+/).filter(w => w !== "");
-
-let matchCount = 0;
-
-expectedWords.forEach(word => {
-if(spokenWords.includes(word)){
-    matchCount++;
-}
-});
-
-const percentage =
-expectedWords.length > 0
-? Math.round((matchCount / expectedWords.length) * 100)
-: 0;
-
-document.getElementById("wordCount").innerHTML =
-"Words spoken: " + spokenWords.length +
-" | Match with suggested answer: " + percentage + "%";
-
-}
-
-</script>
-
-</div>
+<script src="script.js"></script>
 
 </body>
 </html>
