@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="English Journey interactive listening practice">
-    <title>English Journey Listening Practice</title>
+    <title>English Journey Speaking Practice</title>
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -12,6 +11,37 @@
     <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@400;700&family=Montserrat:wght@400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap" rel="stylesheet">
 
     <link rel="stylesheet" href="style.css">
+    
+    <style>
+        /* Un pequeño estilo extra exclusivo para que el colapsable se vea bonito */
+        details {
+            background: #f8f9fa;
+            border-left: 8px solid #0060AA;
+            padding: 15px;
+            border-radius: 10px;
+            margin-bottom: 25px;
+            cursor: pointer;
+        }
+        
+        summary {
+            font-family: 'Poppins', sans-serif;
+            font-size: 18px;
+            font-weight: 600;
+            color: #0060AA;
+            outline: none;
+        }
+        
+        .institutional-content {
+            margin-top: 15px;
+            cursor: default;
+        }
+        
+        .institutional-content h2 {
+            color: #008D36;
+            margin-top: 20px;
+            font-size: 18px;
+        }
+    </style>
 </head>
 <body>
 
@@ -26,108 +56,96 @@
             <img src="logo-ingles-para-todos.png" alt="English Journey">
         </div>
         <h1>ENGLISH JOURNEY</h1>
-        <h2>Listening Practice</h2>
+        <h2>Speaking Practice</h2>
     </div>
 
     <details>
         <summary>📖 Ver Ficha Técnica e Instrucciones de la Actividad</summary>
-
+        
         <div class="institutional-content">
-            <p><strong>Skill:</strong> Listening</p>
-            <p><strong>Niveles disponibles:</strong> A1 – A2 (según actividad seleccionada)</p>
+            <p><strong>Skill:</strong> Speaking</p>
+            <p><strong>CEFR Level:</strong> A1.1</p>
 
             <p>
-            Actividad interactiva de comprensión auditiva. El estudiante escucha una grabación las veces
-            que necesite y luego verifica su comprensión respondiendo preguntas de verdadero/falso y
-            preguntas abiertas, comparando sus respuestas con un modelo de referencia.
-            </p>
+            Actividad interactiva con preguntas aleatorias directas que el estudiante deberá escuchar y responder oralmente y comparar con un modelo de respuesta.
+             </p>
 
             <h2>Objetivo de Aprendizaje</h2>
             <p>
-            Desarrollar la comprensión auditiva del inglés mediante la escucha activa de diálogos y
-            narraciones, identificando ideas principales y detalles específicos.
+            Desarrollar confianza y fluidez en el inglés hablado al responder preguntas,
+            aplicar vocabulario de la unidad actual y comparar las respuestas propias con modelos de referencia.
             </p>
 
             <h2>Instrucciones</h2>
             <ol>
-                <li>Selecciona el nivel, sub-nivel, unidad y actividad que deseas practicar.</li>
-                <li>Escucha la grabación las veces que necesites usando el reproductor de audio.</li>
-                <li>Responde las preguntas de <strong>verdadero o falso</strong>.</li>
-                <li>Responde las <strong>preguntas abiertas</strong> con tus propias palabras; no es necesario que la ortografía sea perfecta.</li>
-                <li>Haz clic en <strong>Check answers</strong> en cada sección para verificar tus respuestas.</li>
-                <li>Revisa la respuesta modelo cuando tu respuesta no sea correcta y vuelve a intentarlo.</li>
+                <li>Escucha la pregunta primero. Se recomienda no leer el texto hasta haber comprendido el audio por completo.</li>
+                <li>Utiliza la traducción únicamente cuando sea necesario.</li>
+                <li>Piensa tu respuesta antes de comenzar a hablar.</li>
+                <li>Haz clic en <strong>🎤 Start Recording</strong>.</li>
+                <li>Responde utilizando oraciones completas.</li>
+                <li>Haz clic en <strong>⏹ Stop Recording</strong> al finalizar.</li>
+                <li>Compara tu respuesta con la respuesta sugerida.</li>
+                <li>Revisa el recordatorio proporcionado y continúa practicando.</li>
             </ol>
 
             <h2>Criterios de Éxito</h2>
             <ul>
-                <li>Identifica la idea principal y los detalles específicos del audio.</li>
-                <li>Responde las preguntas abiertas con oraciones completas cuando sea posible.</li>
-                <li>Verifica su comprensión comparando sus respuestas con el modelo sugerido.</li>
+                <li>Responde utilizando oraciones completas.</li>
+                <li>Usa el vocabulario de la lección de manera apropiada.</li>
+                <li>Comunica sus ideas de forma clara y comprensible.</li>
+                <li>Mejora la pronunciación mediante la práctica repetida.</li>
             </ul>
         </div>
     </details>
 
     <div class="settings-box">
-        <h3>🎯 Elige tu actividad</h3>
-        <select id="level-select" name="level"><option value="">Nivel</option></select>
-        <select id="sublevel-select" name="sublevel" disabled><option value="">Sub-nivel</option></select>
-        <select id="unit-select" name="unit" disabled><option value="">Unidad</option></select>
-        <select id="activity-select" name="activity" disabled><option value="">Actividad</option></select>
-        <p id="data-status" class="status" role="status" aria-live="polite">Cargando actividades…</p>
+        <h3>⚙️ Listening Settings</h3>
+        <select id="accentMode">
+            <option value="en-US">🇺🇸 American English</option>
+            <option value="en-GB">🇬🇧 British English</option>
+            <option value="mixed">🌎 Mixed Accents Challenge</option>
+        </select>
+
+        <select id="speed">
+            <option value="1">Normal Speed</option>
+            <option value="0.85">Slow Speed</option>
+            <option value="0.75">Very Slow Speed</option>
+        </select>
     </div>
 
-    <section id="activity" class="activity" hidden aria-labelledby="activity-title">
-        <div class="activity-heading">
-            <div>
-                <p id="activity-path" class="kicker"></p>
-                <h2 id="activity-title"></h2>
-                <div id="topic-list" class="chips" aria-label="Topics"></div>
-            </div>
-            <span id="listening-level" class="level-badge"></span>
-        </div>
+    <h2 style="color:#0060AA;">Speaking Practice</h2>
 
-        <figure id="picture-wrap" class="lesson-picture" hidden>
-            <img id="lesson-picture" alt="" loading="lazy">
-            <figcaption id="picture-note" hidden>Lesson image is not available yet.</figcaption>
-        </figure>
+    <select id="level"></select>
+    <select id="unit"></select>
 
-        <div class="section-block">
-            <h3>🔊 Listen</h3>
-            <p>Play the recording as many times as you need.</p>
-            <audio id="audio-player" controls preload="metadata">Your browser does not support the audio player.</audio>
-            <p id="audio-note" class="media-note" hidden></p>
-            <a id="audio-link" class="external-link" target="_blank" rel="noopener noreferrer" hidden>Open listening source</a>
-        </div>
+    <button class="btn-listen" onclick="playQuestion()">🔊 Listen Question</button>
+    <button class="btn-primary" onclick="showQuestion()">👀 Show Question</button>
+    <button class="btn-primary" onclick="showQuestionTranslation()">🌎 Question Translation</button>
+    <button class="btn-primary" onclick="showAnswer()">✅ Show Answer</button>
+    <button class="btn-primary" onclick="showAnswerTranslation()">🌎 Answer Translation</button>
+    <button class="btn-listen" onclick="playAnswer()">🔊 Listen Answer</button>
+    <button class="btn-primary" onclick="nextQuestion()">➡ Next Question</button>
 
-        <form id="tf-form" class="section-block" novalidate>
-            <h3>✅ True or false?</h3>
-            <p>Choose one answer for every statement.</p>
-            <div id="tf-questions"></div>
-            <button class="btn-primary" type="submit">Check answers</button>
-            <div id="tf-result" class="result" role="status" aria-live="polite" hidden></div>
-        </form>
+    <div id="question"></div>
+    <div id="questionTranslation"></div>
+    <div id="answer"></div>
+    <div id="answerTranslation"></div>
+    <div id="reminder"></div>
 
-        <form id="open-form" class="section-block" novalidate>
-            <h3>✍️ Answer in your own words</h3>
-            <p>Short answers are fine. Spelling and punctuation do not need to be perfect.</p>
-            <div id="open-questions"></div>
-            <button class="btn-primary" type="submit">Check answers</button>
-            <div id="open-result" class="result" role="status" aria-live="polite" hidden></div>
-        </form>
+    <hr>
 
-        <aside id="data-note" class="data-note" hidden><strong>⚠️ Instructor data note:</strong> The direct questions in this activity are duplicated from "Shopping: Past and Present" in the source workbook. Review them before classroom use.</aside>
-    </section>
+    <h3>🎤 Speaking Practice</h3>
 
-    <details>
-        <summary>🛠️ Guía del instructor: agregar audio e imágenes</summary>
-        <div class="institutional-content">
-            <p>Sube los archivos de audio a <code>assets/audio/</code> y las imágenes a <code>assets/images/</code>. En <code>listening.json</code>, usa solo el nombre del archivo en <code>audioFile</code> o <code>pictureName</code>; la app arma la ruta relativa automáticamente.</p>
-            <p>Los enlaces de audio externos en <code>audioUrl</code> siguen siendo compatibles. Algunos enlaces a páginas de lección no se pueden reproducir dentro del reproductor nativo, por eso la app también ofrece el enlace "Open listening source".</p>
-        </div>
-    </details>
+    <button id="recordBtn" class="btn-record" onclick="startRecognition()">🎤 Start Recording</button>
+    <button id="stopBtn" class="btn-stop" onclick="stopRecognition()" disabled>⏹ Stop Recording</button>
+
+    <div id="speechResult">Your speech will appear here...</div>
+    <div id="expectedAnswer"></div>
+    <div id="wordCount"></div>
 
 </div>
 
-<script src="app.js" defer></script>
+<script src="script.js"></script>
+
 </body>
 </html>
