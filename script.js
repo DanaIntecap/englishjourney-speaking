@@ -24,9 +24,14 @@ fetch("questions.json")
         comboUnit.innerHTML += `<option value="${unit}">Unit ${unit}</option>`;
     });
 
-    comboLevel.addEventListener("change", filterQuestions);
+    comboLevel.addEventListener("change", () => {
+        populateSublevels(comboLevel.value);
+        filterQuestions();
+    });
     comboUnit.addEventListener("change", filterQuestions);
+    document.getElementById("sublevel").addEventListener("change", filterQuestions);
 
+    populateSublevels("ALL");
     filterQuestions();
 })
 .catch(error => {
@@ -35,14 +40,40 @@ fetch("questions.json")
     console.error(error);
 });
 
+function populateSublevels(selectedLevel) {
+    const comboSublevel = document.getElementById("sublevel");
+    const currentSelection = comboSublevel.value || "ALL";
+
+    const source = (selectedLevel === "ALL")
+        ? data
+        : data.filter(x => String(x.level || "").trim() === selectedLevel);
+
+    const sublevels = [...new Set(source.map(x => String(x.sublevel || "").trim()).filter(x => x !== ""))]
+        .sort();
+
+    comboSublevel.innerHTML = '<option value="ALL">All Sublevels</option>';
+    sublevels.forEach(sub => {
+        comboSublevel.innerHTML += `<option value="${sub}">${sub}</option>`;
+    });
+
+    // Keep the previous selection if it's still a valid option for this level
+    if (sublevels.includes(currentSelection)) {
+        comboSublevel.value = currentSelection;
+    } else {
+        comboSublevel.value = "ALL";
+    }
+}
+
 function filterQuestions() {
     const selectedLevel = document.getElementById("level").value;
+    const selectedSublevel = document.getElementById("sublevel").value;
     const selectedUnit = document.getElementById("unit").value;
 
     questions = data.filter(x => {
         const matchLevel = (selectedLevel === "ALL") || (String(x.level || "").trim() === selectedLevel);
+        const matchSublevel = (selectedSublevel === "ALL") || (String(x.sublevel || "").trim() === selectedSublevel);
         const matchUnit = (selectedUnit === "ALL") || (String(x.unit || "").trim() === selectedUnit);
-        return matchLevel && matchUnit;
+        return matchLevel && matchSublevel && matchUnit;
     });
 
     shuffle(questions);
@@ -57,6 +88,8 @@ function shuffle(array) {
 }
 
 function nextQuestion() {
+    const badgeEl = document.getElementById("difficultyBadge");
+
     if (questions.length === 0) {
         document.getElementById("question").style.display = "block";
         document.getElementById("question").innerHTML = "<b>No questions match the selected filters.</b>";
@@ -64,6 +97,7 @@ function nextQuestion() {
         document.getElementById("answer").style.display = "none";
         document.getElementById("answerTranslation").style.display = "none";
         document.getElementById("reminder").style.display = "none";
+        badgeEl.style.display = "none";
         current = null;
         return;
     }
@@ -75,9 +109,26 @@ function nextQuestion() {
     document.getElementById("answerTranslation").style.display = "none";
     document.getElementById("reminder").style.display = "none";
 
+    updateDifficultyBadge();
+
     document.getElementById("speechResult").innerHTML = "Your speech will appear here...";
     document.getElementById("expectedAnswer").innerHTML = "";
     document.getElementById("wordCount").innerHTML = "";
+}
+
+function updateDifficultyBadge() {
+    const badgeEl = document.getElementById("difficultyBadge");
+    if (!current || !current.difficulty) {
+        badgeEl.style.display = "none";
+        return;
+    }
+
+    const difficulty = String(current.difficulty).trim();
+    const levelLabel = current.sublevel || current.level || "";
+
+    badgeEl.className = "difficulty-badge " + difficulty.toLowerCase();
+    badgeEl.innerHTML = (levelLabel ? levelLabel + " · " : "") + difficulty;
+    badgeEl.style.display = "inline-block";
 }
 
 function loadVoices() {
