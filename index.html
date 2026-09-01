@@ -41,6 +41,30 @@
             margin-top: 20px;
             font-size: 18px;
         }
+
+        .difficulty-badge {
+            display: none;
+            font-family: 'Poppins', sans-serif;
+            font-size: 13px;
+            font-weight: 600;
+            color: #fff;
+            padding: 4px 12px;
+            border-radius: 20px;
+            margin: 10px 0;
+            letter-spacing: 0.3px;
+        }
+
+        .difficulty-badge.beginner {
+            background-color: #008D36;
+        }
+
+        .difficulty-badge.intermediate {
+            background-color: #E8A400;
+        }
+
+        .difficulty-badge.advanced {
+            background-color: #C62828;
+        }
     </style>
 </head>
 <body>
@@ -116,7 +140,10 @@
     <h2 style="color:#0060AA;">Speaking Practice</h2>
 
     <select id="level"></select>
+    <select id="sublevel"></select>
     <select id="unit"></select>
+
+    <div id="difficultyBadge" class="difficulty-badge"></div>
 
     <button class="btn-listen" onclick="playQuestion()">🔊 Listen Question</button>
     <button class="btn-primary" onclick="showQuestion()">👀 Show Question</button>
