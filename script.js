@@ -215,7 +215,7 @@ function showAnswer() {
 
     const reminderEl = document.getElementById("reminder");
     if (current.reminder) {
-        reminderEl.innerHTML = "💡 " + current.reminder;
+        reminderEl.innerHTML = "<strong>💡Reminder / Tip:</strong> " + current.reminder;
         reminderEl.style.display = "block";
     } else {
         reminderEl.style.display = "none";
