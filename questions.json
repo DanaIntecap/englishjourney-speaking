@@ -9,10 +9,10 @@
     "answerTranslation": "Me llamo Dana.",
     "unit": 1,
     "reminder": "",
-    "tags": "Simple present",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-002",
@@ -24,10 +24,10 @@
     "answerTranslation": "Mi apellido es Rodríguez.",
     "unit": 1,
     "reminder": "",
-    "tags": "Simple present;#Introducing Yourself",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-003",
@@ -39,10 +39,10 @@
     "answerTranslation": "Soy de Guatemala.",
     "unit": 3,
     "reminder": "Don't forget \"from\" and the name of the country",
-    "tags": "Present Simple; Countries and Nationalities; Talking About Origin",
+    "tags": "Verb to be; Countries & Nationalities",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-004",
@@ -54,10 +54,10 @@
     "answerTranslation": "Vivo en la Ciudad de Guatemala.",
     "unit": "",
     "reminder": "Remember to use the preposition IN ",
-    "tags": "Present Simple; Places in Town; Talking About Residence",
+    "tags": "Present Simple; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-005",
@@ -69,10 +69,10 @@
     "answerTranslation": "Tengo 19 años.",
     "unit": 2,
     "reminder": "Use be to talk about age.",
-    "tags": "Present Simple; Personal Information; Talking About Age",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-006",
@@ -84,10 +84,10 @@
     "answerTranslation": "Estoy bien, gracias.",
     "unit": 1,
     "reminder": "Also: I'm good; I'm pretty wgoo; I'm well. Everything is good, thank you!",
-    "tags": "Present Simple; Greetings; Asking About Well-Being",
+    "tags": "Verb to be; Greetings",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-007",
@@ -97,12 +97,12 @@
     "questionTranslation": "¿A qué te dedicas?",
     "answer": "I’m a student.",
     "answerTranslation": "Soy estudiante.",
-    "unit": 1,
+    "unit": 5,
     "reminder": "Use a/an before the occupation.",
-    "tags": "Present Simple; Jobs; Talking About Work or Studies",
+    "tags": "Present Simple; Jobs & Occupations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-008",
@@ -114,10 +114,10 @@
     "answerTranslation": "Soy guatemalteco/a.",
     "unit": 3,
     "reminder": "Use verb to be + nationality (not country)",
-    "tags": "Present Simple; Countries and Nationalities; Talking About Nationality",
+    "tags": "Verb to be; Countries & Nationalities",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-009",
@@ -129,10 +129,10 @@
     "answerTranslation": "Se deletrea M-A-R-I-A. Se deletrea J-O-S-E",
     "unit": 1,
     "reminder": "Another form is: It is J O S E",
-    "tags": "Can; Alphabet and Spelling; Asking for Spelling",
+    "tags": "Modal Can; Spelling & Alphabet",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-010",
@@ -144,10 +144,10 @@
     "answerTranslation": "Hoy es lunes.",
     "unit": 2,
     "reminder": "Use be to talk about dates and days.",
-    "tags": "Present Simple; Days of the Week; Giving Date Information",
+    "tags": "Verb to be; Dates & Celebrations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-011",
@@ -159,10 +159,10 @@
     "answerTranslation": "Mi cumpleaños es el 28 de noviembre.",
     "unit": 2,
     "reminder": "Use ON for full dates",
-    "tags": "Present Simple; Dates and Celebrations; Talking About Birthdays",
+    "tags": "Verb to be; Dates & Celebrations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-012",
@@ -174,10 +174,10 @@
     "answerTranslation": "Mi comida favorita es la pizza.",
     "unit": 4,
     "reminder": "don't use \"The\" for food (not \"The\" pizza)",
-    "tags": "Present Simple; Favorites; Expressing Preferences",
+    "tags": "Verb to be; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-013",
@@ -189,10 +189,10 @@
     "answerTranslation": "Mi número de teléfono es 5678-3456.",
     "unit": 2,
     "reminder": "Give digits one by one",
-    "tags": "Present Simple; Personal Information; Exchanging Contact Information",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-014",
@@ -204,10 +204,10 @@
     "answerTranslation": "Mi correo electrónico es dana@example.com.",
     "unit": 2,
     "reminder": "Remember to use AT (@) DOT (.)",
-    "tags": "Present Simple; Personal Information; Exchanging Contact Information",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-015",
@@ -219,10 +219,10 @@
     "answerTranslation": "Mi profesora es Dana.",
     "unit": 4,
     "reminder": "Use verb to be to identify people.",
-    "tags": "Present Simple; Education; Identifying People",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-016",
@@ -234,10 +234,10 @@
     "answerTranslation": "Mi mejor amigo es Sam.",
     "unit": 4,
     "reminder": "Use verb to be to identify people.",
-    "tags": "Present Simple; Relationships; Talking About Friends",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-017",
@@ -249,10 +249,10 @@
     "answerTranslation": "Mi casa está en la Zona 5.",
     "unit": 3,
     "reminder": "Use IN before zones cities and neighborhoods.",
-    "tags": "Present Simple; Places in Town; Talking About Location",
+    "tags": "Verb to be; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-018",
@@ -264,10 +264,10 @@
     "answerTranslation": "Es el 25 de diciembre.",
     "unit": 2,
     "reminder": "Use ON before complete dates.",
-    "tags": "Present Simple; Holidays and Celebrations; Talking About Dates",
+    "tags": "Verb to be; Dates & Celebrations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-019",
@@ -279,10 +279,10 @@
     "answerTranslation": "Porque estoy estudiando inglés.",
     "unit": 4,
     "reminder": "Use BECAUSE to give reasons.",
-    "tags": "Present Simple; Feelings; Giving Reasons",
+    "tags": "Verb to be; Feelings",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-020",
@@ -294,10 +294,10 @@
     "answerTranslation": "Hago las compras en La Torre.",
     "unit": 4,
     "reminder": "Use GO + place.",
-    "tags": "Present Simple; Shopping; Talking About Shopping Habits",
+    "tags": "Present Simple; Shopping",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-021",
@@ -309,10 +309,10 @@
     "answerTranslation": "Hago las compras los domingos.",
     "unit": 4,
     "reminder": "Use ON with days of the week. Use S at the end of the day",
-    "tags": "Present Simple; Shopping; Talking About Routines",
+    "tags": "Present Simple; Shopping",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-022",
@@ -324,25 +324,25 @@
     "answerTranslation": "Compro frutas verduras y leche.",
     "unit": 4,
     "reminder": "You can mention different food items",
-    "tags": "Simple present",
+    "tags": "Present Simple; Shopping",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-001",
     "level": "A1",
-    "sublevel": "A1.1",
+    "sublevel": "A1.2",
     "question": "Describe yourself using adjectives.",
     "questionTranslation": "Descríbete a tí mismo usando adjetivos",
     "answer": "I am an English student. I am a creative, determined and friendly person. I am also a little stubborn and impatient.",
     "answerTranslation": "Soy una estudiante de inglés. Soy creativa, determinada y amigable.\nTambién soy un poco terco e impaciente.",
     "unit": 1,
     "reminder": "Practice the pronunciation of your adjectives.\nUse verb to be.\nPRO TIP⭐Use \"a little\" or \"a bit\" for negative adjectives.",
-    "tags": "Simple present;#Verb to be",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-002",
@@ -354,10 +354,10 @@
     "answerTranslation": "Mi color favorito es el morado. ... Mis colores favoritos  SON el verde y azul.",
     "unit": 1,
     "reminder": "Use ARE when using plural nouns",
-    "tags": "Simple present;#Verb to be",
+    "tags": "Verb to be; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-003",
@@ -369,10 +369,10 @@
     "answerTranslation": "My actor favorito es Brad Pitt. My actriz favorita es Zendaya.",
     "unit": 1,
     "reminder": "You can subsittute \"My favorite actor/actress\" for \"He is / She is\". She is Zendaya",
-    "tags": "Simple present;#Verb to be",
+    "tags": "Verb to be; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-004",
@@ -384,25 +384,25 @@
     "answerTranslation": "Mi cantante favorito es Ricardo Arjona. Es Olivia Rodrigo.",
     "unit": 1,
     "reminder": "You can substitute \"My favorite singer\" for \"He is / She is\".",
-    "tags": "Verb to be",
+    "tags": "Verb to be; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-005",
     "level": "A1",
-    "sublevel": "A1.1",
+    "sublevel": "A1.2",
     "question": "What kind of business would you like to have?",
     "questionTranslation": "¿Qué tipo de negocio te gustaría tener?",
     "answer": "I would like to have a barber shop. I would love to have a law office.",
     "answerTranslation": "Me gustaría tener una barbería. Me encantaría tener una oficina de leyes.",
     "unit": 3,
     "reminder": "Would is pronounced =\"wud\"\nAlways use \"to+verb\" = I would love to have, I would like to own, I would prefer to have",
-    "tags": "Simple present",
+    "tags": "Would like; Jobs & Occupations",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A11-023",
@@ -414,10 +414,10 @@
     "answerTranslation": "Shakira: Su nombre completo es Shakira Isabel Mebarak. Es de Colombia; es colombiana. Tiene 49 años. Es cantante.\n",
     "unit": 3,
     "reminder": "Her= for women\nHis= for men",
-    "tags": "Verb to be",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-006",
@@ -429,10 +429,10 @@
     "answerTranslation": "Shakira: Su nombre completo es Shakira Isabel Mebarak. Su nombre artístico es Shakira. Es de Colombia; es colombiana. Tiene 49 años. Es cantante.",
     "unit": 1,
     "reminder": "You can also say: She is best known by: Shakira. (Es mejor conocida como Shakira)",
-    "tags": "Verb to be",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-001 ",
@@ -444,10 +444,10 @@
     "answerTranslation": " Estaba en casa viendo televisión. ",
     "unit": 1,
     "reminder": " Use WAS for I/he/she/it and WERE for you/we/they. ",
-    "tags": "Past Simple; Verb To Be; Talking About Past Locations",
+    "tags": "Past Simple; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-002",
@@ -459,10 +459,10 @@
     "answerTranslation": " Mi mejor amigo era Carlos cuando era niño. ",
     "unit": 1,
     "reminder": " Use WAS to describe people in the past. ",
-    "tags": "Past Simple; Verb To Be; Childhood Memories",
+    "tags": "Past Simple; Childhood Memories",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-003",
@@ -474,10 +474,10 @@
     "answerTranslation": " Mi programa de televisión favorito era Tom y Jerry. ",
     "unit": 1,
     "reminder": " Use WAS to talk about favorites in the past. ",
-    "tags": "Past Simple; Verb To Be; Entertainment",
+    "tags": "Past Simple; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-004",
@@ -489,10 +489,10 @@
     "answerTranslation": " Mi programa favorito era Bob Esponja. ",
     "unit": 1,
     "reminder": " Use WAS to talk about favorite shows from childhood. ",
-    "tags": "Past Simple; Verb To Be; Entertainment",
+    "tags": "Past Simple; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-005",
@@ -504,10 +504,10 @@
     "answerTranslation": " Mi película favorita era Toy Story. ",
     "unit": 1,
     "reminder": " Use WAS to talk about favorite movies in the past. ",
-    "tags": "Past Simple; Verb To Be; Movies",
+    "tags": "Past Simple; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-006",
@@ -519,10 +519,10 @@
     "answerTranslation": " Estaba en casa cenando. ",
     "unit": 1,
     "reminder": " Use WAS/WERE to talk about locations in the past. ",
-    "tags": "Past Simple; Verb To Be; Talking About Past Locations",
+    "tags": "Past Simple; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-007",
@@ -534,10 +534,10 @@
     "answerTranslation": " Estaba en el trabajo. ",
     "unit": 1,
     "reminder": " Remember to use WAS/WERE when talking about the past. ",
-    "tags": "Past Simple; Verb To Be; Talking About Past Locations",
+    "tags": "Past Simple; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-008",
@@ -549,10 +549,10 @@
     "answerTranslation": " Trabajé, estudié inglés y descansé en casa. ",
     "unit": 1,
     "reminder": " Use the base verb after DID in questions. ",
-    "tags": "Past Simple; Regular and Irregular Verbs; Daily Activities",
+    "tags": "Past Simple; Daily Activities",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-009",
@@ -564,10 +564,10 @@
     "answerTranslation": " Me desperté a las 6:00 a.m. ",
     "unit": 1,
     "reminder": " Use the irregular verb WAKE → WOKE. ",
-    "tags": "Past Simple; Daily Routines; Time Expressions",
+    "tags": "Past Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-010",
@@ -579,10 +579,10 @@
     "answerTranslation": " Mi clase comenzó a las 8:00 a.m. ",
     "unit": 1,
     "reminder": " Regular verb: START → STARTED. ",
-    "tags": "Time Expressions;#SImple past",
+    "tags": "Past Simple; Time Expressions",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-011",
@@ -594,10 +594,10 @@
     "answerTranslation": " Visité a mi familia y vi películas. ",
     "unit": 1,
     "reminder": " Use simple past verbs to describe completed activities. ",
-    "tags": "Past Simple; Weekend Activities; Free Time",
+    "tags": "Past Simple; Free Time",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-012",
@@ -609,10 +609,10 @@
     "answerTranslation": " Comí en un restaurante cerca de mi casa. ",
     "unit": 1,
     "reminder": " Eat is irregular: EAT → ATE. ",
-    "tags": "Past Simple; Food; Talking About Past Activities",
+    "tags": "Past Simple; Food",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-013",
@@ -624,10 +624,10 @@
     "answerTranslation": " Me desperté a las 5:30 a.m. ",
     "unit": 1,
     "reminder": " Wake up is irregular: WAKE → WOKE. ",
-    "tags": "Past Simple; Daily Routines; Time Expressions",
+    "tags": "Past Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-014",
@@ -639,40 +639,40 @@
     "answerTranslation": "Sí, estaba cansado(a) ayer porque trabajé todo el día.",
     "unit": "",
     "reminder": "",
-    "tags": "Verb to be;#SImple past",
+    "tags": "Past Simple; Feelings",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-016",
     "level": "A2",
-    "sublevel": "A1.1",
+    "sublevel": "A2.1",
     "question": "When was the last time you were extremely happy?",
     "questionTranslation": "¿Cuándo fue la última vez que estuviste extremadamente feliz?",
     "answer": "The last time I was extremely happy was last weekend when I spent time with my family.",
     "answerTranslation": "La última vez que estuve extremadamente feliz fue el fin de semana pasado cuando pasé tiempo con mi familia.",
     "unit": 1,
     "reminder": "",
-    "tags": "Verb to be;#Simple present",
+    "tags": "Past Simple; Feelings",
     "difficulty": "Advanced",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-017",
     "level": "A2",
-    "sublevel": "A1.1",
+    "sublevel": "A2.1",
     "question": "Who was with you on your last birthday",
     "questionTranslation": "¿Quién estuvo contigo en tu último cumpleaños?",
     "answer": "My family and some close friends were with me on my last birthday.",
     "answerTranslation": "Mi familia y algunos amigos cercanos estuvieron conmigo en mi último cumpleaños.",
     "unit": 1,
     "reminder": "",
-    "tags": "Verb to be;#SImple past",
+    "tags": "Past Simple; Dates & Celebrations",
     "difficulty": "Advanced",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-018",
@@ -684,25 +684,25 @@
     "answerTranslation": "Tenía 20 años",
     "unit": 1,
     "reminder": "Verb to be for ages",
-    "tags": "SImple past;#Verb to be",
+    "tags": "Past Simple; Personal Information",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-020",
     "level": "A2",
-    "sublevel": "A1.1",
+    "sublevel": "A2.1",
     "question": "When was your last family  celebration?",
     "questionTranslation": "¿Cuándo fue tu última celebración familiar?",
     "answer": "My last family celebration was in January. It was my uncle's birthday",
     "answerTranslation": "Mi última celebración fue en Enero. Fue el cumpleaños de mi tío.",
     "unit": 1,
     "reminder": "usar el pronombre IT para eventos, fechas, celebraciones",
-    "tags": "Verb to be;#SImple past",
+    "tags": "Past Simple; Dates & Celebrations",
     "difficulty": "Advanced",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-019",
@@ -714,10 +714,10 @@
     "answerTranslation": "Fue realmente bueno. Fue agotador. Fue interesante porque fuimos al teatro.\n",
     "unit": 1,
     "reminder": "",
-    "tags": "SImple past;#Verb to be",
+    "tags": "Past Simple; Free Time",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-021",
@@ -729,10 +729,10 @@
     "answerTranslation": "Estudié inglés, completé algunas tareas de trabajo y vi televisión por la noche.",
     "unit": 3,
     "reminder": "Use simple past verbs.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Daily Activities",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-022",
@@ -744,10 +744,10 @@
     "answerTranslation": "Comí cereal con leche y tomé una taza de café.",
     "unit": 3,
     "reminder": "Use simple past verbs.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Food",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-023",
@@ -759,10 +759,10 @@
     "answerTranslation": "Fui a la playa con mi familia en mis últimas vacaciones.",
     "unit": 3,
     "reminder": "Use simple past verbs.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Travel & Vacations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-024",
@@ -774,10 +774,10 @@
     "answerTranslation": "Estaba en casa cenando con mi familia.",
     "unit": 3,
     "reminder": "Use was/were for locations.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-025",
@@ -789,10 +789,10 @@
     "answerTranslation": "Estaba con mis compañeros de trabajo durante el último terremoto.",
     "unit": 3,
     "reminder": "Use was/were with people.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-026",
@@ -804,10 +804,10 @@
     "answerTranslation": "Fui a un centro comercial y almorcé con algunos amigos.",
     "unit": 3,
     "reminder": "Use simple past verbs.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Free Time",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-027",
@@ -819,10 +819,10 @@
     "answerTranslation": "Me desperté a las 6:00 a.m. hoy.",
     "unit": 3,
     "reminder": "Use simple past verbs.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-028",
@@ -834,10 +834,10 @@
     "answerTranslation": "Mi clase comenzó a las 8:00 a.m.",
     "unit": 3,
     "reminder": "Use simple past verbs.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Time Expressions",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-029",
@@ -849,10 +849,10 @@
     "answerTranslation": "Vi a mi mejor amigo(a) hace dos semanas.",
     "unit": 3,
     "reminder": "Use time expressions in the past.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Time Expressions",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-030",
@@ -864,10 +864,10 @@
     "answerTranslation": "Leí cuatro libros este año.",
     "unit": 3,
     "reminder": "Use simple past verbs.",
-    "tags": "Simple Past",
+    "tags": "Past Simple; Free Time",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-007",
@@ -879,10 +879,10 @@
     "answerTranslation": "Mi mejor amigo/a está estudiando en este momento.",
     "unit": 3,
     "reminder": "Check and use time expressions for the present moment: NOW, AT THE MOMENT, RIGHT NOW, CURRENTLY, THIS WEEK, THIS MONTH, THIS YEAR, AT  THIS MOMENT,",
-    "tags": "Present Continuous; Friends; Right Now",
+    "tags": "Present Continuous; School",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-008",
@@ -894,10 +894,10 @@
     "answerTranslation": "Mi profesor/a está dando una clase.",
     "unit": 3,
     "reminder": "Check and use time expressions for the present moment: NOW, AT THE MOMENT, RIGHT NOW, CURRENTLY, THIS WEEK, THIS MONTH, THIS YEAR, AT  THIS MOMENT,",
-    "tags": "Present Continuous; School; Right Now",
+    "tags": "Present Continuous; School",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-009",
@@ -909,10 +909,10 @@
     "answerTranslation": "Ellos están estudiando inglés.",
     "unit": 3,
     "reminder": "Check and use time expressions for the present moment: NOW, AT THE MOMENT, RIGHT NOW, CURRENTLY, THIS WEEK, THIS MONTH, THIS YEAR, AT  THIS MOMENT,",
-    "tags": "Present Continuous; School; Right Now",
+    "tags": "Present Continuous; Near Future",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-010",
@@ -927,7 +927,7 @@
     "tags": "Present Continuous; Near Future",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-011",
@@ -942,7 +942,7 @@
     "tags": "Present Continuous; Near Future",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-012",
@@ -957,7 +957,7 @@
     "tags": "Present Continuous; Near Future",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-013",
@@ -972,7 +972,7 @@
     "tags": "Present Continuous; Near Future",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-014",
@@ -984,10 +984,10 @@
     "answerTranslation": "Haré mi tarea después de clase.",
     "unit": 3,
     "reminder": "Use Present Continuous for future plans. Do not use \"going to\". Check and use time expressions for the future: LATER, TONIGHT, TOMORROW, THIS WEEKEND, NEXT WEK, NEXT ONTH AFTER CLASS, SOON",
-    "tags": "Present Continuous; Near Future",
+    "tags": "Present Continuous; Health",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-015",
@@ -999,10 +999,10 @@
     "answerTranslation": "La gente está haciendo más ejercicio y comiendo alimentos más saludables.",
     "unit": 3,
     "reminder": "Use Present Continuous to talk about actions and trends happening now. Common expressions: currently, these days, at the moment.",
-    "tags": "Present Continuous; Health; Trends",
+    "tags": "Present Continuous; Education",
     "difficulty": "Advanced",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-016",
@@ -1014,10 +1014,10 @@
     "answerTranslation": "La gente está tomando cursos en línea y practicando con aplicaciones.",
     "unit": 3,
     "reminder": "Use Present Continuous to talk about actions and trends happening now. Common expressions: currently, these days, at the moment.",
-    "tags": "Present Continuous; Education; Trends",
+    "tags": "Present Continuous; Free Time",
     "difficulty": "Advanced",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-017",
@@ -1029,10 +1029,10 @@
     "answerTranslation": "Los jóvenes están viendo videos, jugando videojuegos y usando redes sociales.",
     "unit": 3,
     "reminder": "Use Present Continuous to talk about actions and trends happening now. Common expressions: currently, these days, at the moment.",
-    "tags": "Present Continuous; Freet ime; Trends",
+    "tags": "Present Continuous; Right Now",
     "difficulty": "Advanced",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-018",
@@ -1047,7 +1047,7 @@
     "tags": "Present Continuous; Right Now",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-019",
@@ -1062,7 +1062,7 @@
     "tags": "Present Continuous; Right Now",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-020",
@@ -1077,7 +1077,7 @@
     "tags": "Present Continuous; Right Now",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-021",
@@ -1089,10 +1089,10 @@
     "answerTranslation": "Estoy leyendo un libro interesante.",
     "unit": 3,
     "reminder": "Check and use time expressions for the present moment: NOW, AT THE MOMENT, RIGHT NOW, CURRENTLY, THIS WEEK, THIS MONTH, THIS YEAR, AT  THIS MOMENT,",
-    "tags": "Present Continuous; Right Now",
+    "tags": "Present Continuous; Family",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-022",
@@ -1104,10 +1104,10 @@
     "answerTranslation": "Mi mamá está trabajando en este momento.",
     "unit": 3,
     "reminder": "Check and use time expressions for the present moment: NOW, AT THE MOMENT, RIGHT NOW, CURRENTLY, THIS WEEK, THIS MONTH, THIS YEAR, AT  THIS MOMENT,",
-    "tags": "Present Continuous; Family; Right Now",
+    "tags": "Present Continuous; Family",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-023",
@@ -1119,10 +1119,10 @@
     "answerTranslation": "Mi papá está trabajando en este momento.",
     "unit": 3,
     "reminder": "Check and use time expressions for the present moment: NOW, AT THE MOMENT, RIGHT NOW, CURRENTLY, THIS WEEK, THIS MONTH, THIS YEAR, AT  THIS MOMENT,",
-    "tags": "Present Continuous; Family; Right Now",
+    "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-031",
@@ -1137,7 +1137,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-032",
@@ -1152,7 +1152,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-033",
@@ -1167,7 +1167,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-034",
@@ -1182,7 +1182,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-035",
@@ -1197,7 +1197,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-036",
@@ -1212,7 +1212,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-037",
@@ -1227,7 +1227,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-038",
@@ -1242,7 +1242,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-039",
@@ -1257,7 +1257,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-040",
@@ -1272,7 +1272,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-041",
@@ -1287,7 +1287,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-042",
@@ -1302,7 +1302,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-043",
@@ -1317,7 +1317,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-044",
@@ -1332,7 +1332,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-045",
@@ -1347,7 +1347,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-046",
@@ -1362,7 +1362,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-047",
@@ -1377,7 +1377,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-048",
@@ -1392,7 +1392,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-049",
@@ -1407,7 +1407,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-050",
@@ -1422,7 +1422,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-051",
@@ -1437,7 +1437,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-052",
@@ -1452,7 +1452,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-053",
@@ -1467,7 +1467,7 @@
     "tags": "Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-054",
@@ -1479,10 +1479,10 @@
     "answerTranslation": "Uso mucho inglés fuera del salón de clases. Por ejemplo, practico durante una hora cada día.",
     "unit": 2,
     "reminder": "Use a lot, a little, or don't use any. Then add a specific quantity or example.",
-    "tags": "Quantifiers",
+    "tags": "Quantifiers; Language Learning",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-055",
@@ -1494,10 +1494,10 @@
     "answerTranslation": "Hago muchos viajes. Por ejemplo, hago cinco viajes al año.",
     "unit": 4,
     "reminder": "Use a lot, a little, or don't take any. Then add a specific quantity or example.",
-    "tags": "Quantifiers",
+    "tags": "Quantifiers; Travel & Vacations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-056",
@@ -1509,10 +1509,10 @@
     "answerTranslation": "No, puedo chasquear los dedos.",
     "unit": 4,
     "reminder": "Use CAN for abilities. Short answer: Yes, I can. / No, I can't.",
-    "tags": "",
+    "tags": "Modal Can; Abilities",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-057",
@@ -1524,10 +1524,10 @@
     "answerTranslation": "Sí, puedo aguantar la respiración durante 20 segundos.",
     "unit": 4,
     "reminder": "Use CAN for abilities. Short answer: Yes, I can. / No, I can't.",
-    "tags": "",
+    "tags": "Modal Can; Abilities",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-058",
@@ -1539,10 +1539,10 @@
     "answerTranslation": "Puedes comer deliciosa comida guatemalteca en el mercado central.",
     "unit": 4,
     "reminder": "Use \"you\" to talk about abilities in general)",
-    "tags": "",
+    "tags": "Modal Can; Places & Location",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-059",
@@ -1554,10 +1554,10 @@
     "answerTranslation": "Puedes comprar ropa bonita en un centro comercial.",
     "unit": 4,
     "reminder": "Use \"you\" to talk about abilities in general)",
-    "tags": "",
+    "tags": "Modal Can; Shopping",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-060",
@@ -1569,10 +1569,10 @@
     "answerTranslation": "Puedes comer pollo, pavo, pescado, cerdo, vaca y camarón.",
     "unit": 4,
     "reminder": "Use CAN to talk about possibilities.",
-    "tags": "",
+    "tags": "Modal Can; Food",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-061",
@@ -1584,10 +1584,10 @@
     "answerTranslation": "Puedo hacer ejercicios y escuchar podcasts. Puedo entrenar con la IA... ...",
     "unit": 4,
     "reminder": "Use CAN and CAN'T to talk about abilities and actions.",
-    "tags": "",
+    "tags": "Modal Can; Language Learning",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-062",
@@ -1599,10 +1599,10 @@
     "answerTranslation": "Puedo cocinar arroz y huevos, pero no puedo cocinar sushi.",
     "unit": 4,
     "reminder": "Use CAN and CAN'T to talk about skills and abilities.",
-    "tags": "",
+    "tags": "Modal Can; Food",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-063",
@@ -1614,10 +1614,10 @@
     "answerTranslation": "Puedo conducir un automóvil, pero no puedo conducir una motocicleta.",
     "unit": 4,
     "reminder": "Use CAN and CAN'T to talk about abilities.",
-    "tags": "",
+    "tags": "Modal Can; Abilities",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-064",
@@ -1629,10 +1629,10 @@
     "answerTranslation": "No, puedo nadar.",
     "unit": 4,
     "reminder": "Use CAN for abilities. Short answer: Yes, I can. / No, I can't.",
-    "tags": "",
+    "tags": "Modal Can; Abilities",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-065",
@@ -1644,10 +1644,10 @@
     "answerTranslation": "Puedo montar una bicicleta, pero no puedo montar un caballo.",
     "unit": 4,
     "reminder": "Use CAN and CAN'T to talk about abilities.",
-    "tags": "",
+    "tags": "Modal Can; Abilities",
     "difficulty": "",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-028",
@@ -1659,10 +1659,10 @@
     "answerTranslation": "Mi comida favorita es la pizza.",
     "unit": 1,
     "reminder": "don't use \"The\" for food (not \"The\" pizza)",
-    "tags": "Present Simple; Favorites; Expressing Preferences",
+    "tags": "Verb to be; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-031",
@@ -1674,10 +1674,10 @@
     "answerTranslation": "Sí, hay un teléfono en mi bolsillo.",
     "unit": 4,
     "reminder": "Change phone to another singular object (wallet, key, pen).",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Personal Items",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-032",
@@ -1689,10 +1689,10 @@
     "answerTranslation": "No, no hay una lámpara en mi escritorio.",
     "unit": 4,
     "reminder": "Use There is/There isn't with singular nouns.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Furniture",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-033",
@@ -1704,10 +1704,10 @@
     "answerTranslation": "Hay 5 libros en mi habitación.",
     "unit": 4,
     "reminder": "Change the number and the object: books, magazines, notebooks, etc.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-034",
@@ -1719,10 +1719,10 @@
     "answerTranslation": "Hay 2 computadoras en mi casa.",
     "unit": 4,
     "reminder": "Use There are + number + plural noun.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-035",
@@ -1734,10 +1734,10 @@
     "answerTranslation": "Sí, hay un problema en mi clase.",
     "unit": 4,
     "reminder": "Replace problem with issue, question, activity, project, etc.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; School",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-036",
@@ -1749,10 +1749,10 @@
     "answerTranslation": "Sí, hay algunas ventanas en mi dormitorio.",
     "unit": 4,
     "reminder": "Use There are some... for positive answers and change the plural noun.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Home",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-037",
@@ -1764,10 +1764,10 @@
     "answerTranslation": "No, no hay plantas en mi casa.",
     "unit": 4,
     "reminder": "Use There aren't any... with plural nouns.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Home",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-038",
@@ -1779,10 +1779,10 @@
     "answerTranslation": "Sí, hay algunas mascotas en mi casa.",
     "unit": 4,
     "reminder": "Change pets to cats, dogs, birds, fish, etc.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Animals",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-039",
@@ -1794,10 +1794,10 @@
     "answerTranslation": "Sí, hay algo de leche en mi refrigerador.",
     "unit": 4,
     "reminder": "Use some in affirmative answers and any in negative answers.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Food",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-040",
@@ -1809,10 +1809,10 @@
     "answerTranslation": "Hay 20 personas en mi clase.",
     "unit": 4,
     "reminder": "Change only the number to personalize your answer.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-041",
@@ -1824,10 +1824,10 @@
     "answerTranslation": "Hay 4 personas en mi casa.",
     "unit": 4,
     "reminder": "Remember: There is one person but There are two or more people.",
-    "tags": "Quantifiers; There is/there are",
+    "tags": "There is / There are; Quantifiers",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-042",
@@ -1839,10 +1839,10 @@
     "answerTranslation": "Me despierto a las 6:00 a. m.",
     "unit": 5,
     "reminder": "Use at + time.",
-    "tags": "Daily routines, Simple present, Time",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-043",
@@ -1854,10 +1854,10 @@
     "answerTranslation": "Me preparo y desayuno por las mañanas.",
     "unit": 5,
     "reminder": "Use the simple present for routines.",
-    "tags": "Daily routines, Simple present, Parts of the day",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-044",
@@ -1869,10 +1869,10 @@
     "answerTranslation": "Ceno y me relajo por las noches.",
     "unit": 5,
     "reminder": "Use the simple present for routines.",
-    "tags": "Daily routines, Simple present, Parts of the day",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-045",
@@ -1884,10 +1884,10 @@
     "answerTranslation": "Trabajo y hago ejercicio por las tardes.",
     "unit": 5,
     "reminder": "Use the simple present for routines.",
-    "tags": "Daily routines, Simple present, Parts of the day",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-046",
@@ -1899,10 +1899,10 @@
     "answerTranslation": "Mi mamá prepara el almuerzo en casa.",
     "unit": 5,
     "reminder": "Use who to ask about a person.",
-    "tags": "Daily routines, Simple present, Who questions",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-047",
@@ -1914,10 +1914,10 @@
     "answerTranslation": "Desayuno con mi familia.",
     "unit": 5,
     "reminder": "Answer with with + person.",
-    "tags": "Daily routines, Simple present, Who questions",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-048",
@@ -1929,10 +1929,10 @@
     "answerTranslation": "Me acuesto a las 10:00 p. m.",
     "unit": 5,
     "reminder": "Use at + time.",
-    "tags": "Daily routines, Simple present, Time",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-049",
@@ -1944,10 +1944,10 @@
     "answerTranslation": "Salgo para el trabajo o la escuela a las 7:00 a. m.",
     "unit": 5,
     "reminder": "Use at + time.",
-    "tags": "Daily routines, Simple present, Time",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-050",
@@ -1959,10 +1959,10 @@
     "answerTranslation": "Llego a casa a las 5:00 p. m.",
     "unit": 5,
     "reminder": "Use at + time.",
-    "tags": "Daily routines, Simple present, Time",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-051",
@@ -1974,10 +1974,10 @@
     "answerTranslation": "Voy a casa y me relajo después de terminar el trabajo o la escuela.",
     "unit": 5,
     "reminder": "Use after to describe the next activity.",
-    "tags": "Daily routines, Simple present, Sequence",
+    "tags": "Present Simple; Free Time",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-052",
@@ -1989,10 +1989,10 @@
     "answerTranslation": "Escucho música pop en mi tiempo libre.",
     "unit": 5,
     "reminder": "Answer with a type of music.",
-    "tags": "Free time, Simple present, Music",
+    "tags": "Present Simple; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-053",
@@ -2004,10 +2004,10 @@
     "answerTranslation": "Cocino la cena en casa a las 7:00 p. m.",
     "unit": 5,
     "reminder": "Use at + time.",
-    "tags": "Daily routines, Simple present, Time",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-054",
@@ -2019,25 +2019,25 @@
     "answerTranslation": "Me gusta comer frutas y verduras todos los días.",
     "unit": 5,
     "reminder": "Use like to + verb.",
-    "tags": "Food, Likes and dislikes, Simple present",
+    "tags": "Present Simple; Likes & Preferences",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-015",
     "level": "A2",
-    "sublevel": "A1.1",
+    "sublevel": "A2.1",
     "question": "Were you late for class?",
     "questionTranslation": "¿Llegaste tarde a clase?",
     "answer": "No, I wasn't late for class. I arrived on time.",
     "answerTranslation": "No, no llegué tarde a clase. Llegué a tiempo.",
     "unit": 1,
     "reminder": "",
-    "tags": "Verb to be;#SImple past",
+    "tags": "Past Simple; School",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-017",
@@ -2049,10 +2049,10 @@
     "answerTranslation": "Me llamo Dana.",
     "unit": 1,
     "reminder": "",
-    "tags": "Simple present",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-018",
@@ -2064,10 +2064,10 @@
     "answerTranslation": "Mi apellido es Rodríguez.",
     "unit": 1,
     "reminder": "",
-    "tags": "Simple present;#Introducing Yourself",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-019",
@@ -2079,10 +2079,10 @@
     "answerTranslation": "Soy de Guatemala.",
     "unit": 1,
     "reminder": "Don't forget \"from\" and the name of the country",
-    "tags": "Present Simple; Countries and Nationalities; Talking About Origin",
+    "tags": "Verb to be; Countries & Nationalities",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-020",
@@ -2094,10 +2094,10 @@
     "answerTranslation": "Vivo en la Ciudad de Guatemala.",
     "unit": 1,
     "reminder": "Remember to use the preposition IN",
-    "tags": "Present Simple; Places in Town; Talking About Residence",
+    "tags": "Present Simple; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-021",
@@ -2109,10 +2109,10 @@
     "answerTranslation": "Tengo 19 años.",
     "unit": 1,
     "reminder": "Use be to talk about age.",
-    "tags": "Present Simple; Personal Information; Talking About Age",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-022",
@@ -2124,10 +2124,10 @@
     "answerTranslation": "Estoy bien, gracias.",
     "unit": 1,
     "reminder": "Also: I'm good; I'm pretty wgoo; I'm well. Everything is good, thank you!",
-    "tags": "Present Simple; Greetings; Asking About Well-Being",
+    "tags": "Verb to be; Greetings",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-023",
@@ -2139,10 +2139,10 @@
     "answerTranslation": "Soy estudiante.",
     "unit": 1,
     "reminder": "Use a/an before the occupation.",
-    "tags": "Present Simple; Jobs; Talking About Work or Studies",
+    "tags": "Present Simple; Jobs & Occupations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-024",
@@ -2154,10 +2154,10 @@
     "answerTranslation": "Soy guatemalteco/a.",
     "unit": 1,
     "reminder": "Use verb to be + nationality (not country)",
-    "tags": "Present Simple; Countries and Nationalities; Talking About Nationality",
+    "tags": "Verb to be; Countries & Nationalities",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-025",
@@ -2169,10 +2169,10 @@
     "answerTranslation": "Se deletrea M-A-R-I-A. Se deletrea J-O-S-E",
     "unit": 1,
     "reminder": "Another form is: It is J O S E",
-    "tags": "Can; Alphabet and Spelling; Asking for Spelling",
+    "tags": "Modal Can; Spelling & Alphabet",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-026",
@@ -2184,10 +2184,10 @@
     "answerTranslation": "Hoy es lunes.",
     "unit": 1,
     "reminder": "Use be to talk about dates and days.",
-    "tags": "Present Simple; Days of the Week; Giving Date Information",
+    "tags": "Verb to be; Dates & Celebrations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-027",
@@ -2199,10 +2199,10 @@
     "answerTranslation": "Mi cumpleaños es el 28 de noviembre.",
     "unit": 1,
     "reminder": "Use ON for full dates",
-    "tags": "Present Simple; Dates and Celebrations; Talking About Birthdays",
+    "tags": "Verb to be; Dates & Celebrations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-029",
@@ -2214,10 +2214,10 @@
     "answerTranslation": "Mi número de teléfono es 5678-3456.",
     "unit": 1,
     "reminder": "Give digits one by one",
-    "tags": "Present Simple; Personal Information; Exchanging Contact Information",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-030",
@@ -2229,10 +2229,10 @@
     "answerTranslation": "Mi correo electrónico es dana@example.com.",
     "unit": 1,
     "reminder": "Remember to use AT (@) DOT (.)",
-    "tags": "Present Simple; Personal Information; Exchanging Contact Information",
+    "tags": "Verb to be; Personal Information",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-031",
@@ -2244,10 +2244,10 @@
     "answerTranslation": "Normalmente tomo un descanso después de clase. Siempre salgo a trabajar después de clase. Normalmente desayuno después de clase.",
     "unit": 5,
     "reminder": "",
-    "tags": "Daily routines; Simple present; Adverbs of frequency",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-032",
@@ -2259,10 +2259,10 @@
     "answerTranslation": "Por lo general me conecto a mi clase de inglés después del desayuno. Después del desayuno, siempre lavo los platos.",
     "unit": 5,
     "reminder": "",
-    "tags": "Daily routines; Simple present; Sequence",
+    "tags": "Present Simple; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-033",
@@ -2274,10 +2274,10 @@
     "answerTranslation": "Siempre practico inglés de lunes a viernes. A menudo practico inglés en mi tiempo libre.",
     "unit": 6,
     "reminder": "SUBJ+ADVERB +VERB. Give a little specific detail to complete your sentence.",
-    "tags": "Simple present; Frequency adverbs; Study habits",
+    "tags": "Present Simple; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-034",
@@ -2289,10 +2289,10 @@
     "answerTranslation": "Rara vez hago ejercicio. Normalmente hago ejercicio tres veces por semana. De vez en cuando hago ejercicio por las mañanas.",
     "unit": 6,
     "reminder": "SUBJ+ADVERB +VERB. Give a little specific detail to complete your sentence.",
-    "tags": "Simple present; Frequency adverbs; Health and Fitness",
+    "tags": "Present Simple; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-035",
@@ -2304,10 +2304,10 @@
     "answerTranslation": "Sí. Siempre estoy cansado/a por la mañana. No. Casi nunca estoy cansado/a por las mañanas.",
     "unit": 6,
     "reminder": "SUBJ+VERB TO BE +ADVERB Give a little specific detail to complete your sentence.",
-    "tags": "Verb to be; Adverbs of frequency; Feelings",
+    "tags": "Verb to be; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-036",
@@ -2319,10 +2319,10 @@
     "answerTranslation": "Sí. Normalmente llego temprano a clase. No. Suelo llegar un poco tarde a clase.",
     "unit": 6,
     "reminder": "",
-    "tags": "Verb to be; Adverbs of frequency; Punctuality",
+    "tags": "Verb to be; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-037",
@@ -2334,10 +2334,10 @@
     "answerTranslation": "Normalmente como avena y fruta para el desayuno. Nunca desayuno. Frecuentemente como huevos, frijoles y café para el desayuno.",
     "unit": 6,
     "reminder": "Use \"FOR + MEALTIME\" to talk about the food you eat. Use TAKE, HAVE, EAT before the MEAL. (I have yougurt for breakfast. I take cereal and milk for dinner).",
-    "tags": "Food; Simple present; Adverbs of frequency",
+    "tags": "Present Simple; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-038",
@@ -2349,10 +2349,10 @@
     "answerTranslation": "Normalmente como pollo con arroz y ensalada para el almuerzo. A menudo como pasta y verduras.",
     "unit": 6,
     "reminder": "",
-    "tags": "Food; Simple present; Adverbs of frequency",
+    "tags": "Present Simple; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-039",
@@ -2364,10 +2364,10 @@
     "answerTranslation": "Normalmente ceno un sándwich y fruta. A veces tomo sopa y pan para la cena.",
     "unit": 6,
     "reminder": "",
-    "tags": "Food; Simple present; Adverbs of frequency",
+    "tags": "Present Simple; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-040",
@@ -2379,10 +2379,10 @@
     "answerTranslation": "Rara vez cocino... ¡No me gusta! Siempre cocino... Cocino para mi familia todos los días.",
     "unit": 7,
     "reminder": "SUBJ + ADVERB + VERB. Use adverbs of frequency (always, usually, seldom, never).",
-    "tags": "Simple present; Frequency adverbs; Cooking; Daily routines",
+    "tags": "Present Simple; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-041",
@@ -2394,10 +2394,10 @@
     "answerTranslation": "Sí. Normalmente practico en Mondly todos los días. / No. Rara vez practico en Mondly.",
     "unit": 7,
     "reminder": "Short answers with DO/DON'T. Then add an adverb of frequency or detail.",
-    "tags": "Simple present; Study habits; Frequency adverbs",
+    "tags": "Present Simple; Frequency",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-042",
@@ -2409,10 +2409,10 @@
     "answerTranslation": "Normalmente me traslado en autobús. Normalmente manejo mi carro al trabajo. Por lo general tomo un taxi a la escuela. Siempre camino al trabajo.",
     "unit": 7,
     "reminder": "Use \"BY + transport\" (by bus, by car) or action verbs: walk, drive, take the bus.",
-    "tags": "Transportation; Commuting; Daily routines; Simple present",
+    "tags": "Present Simple; Transportation",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-043",
@@ -2424,10 +2424,10 @@
     "answerTranslation": "Siempre tomo el autobús al trabajo o a la escuela. Nunca tomo el autobús. Normalmente tomo el autobús o el transmetro.",
     "unit": 7,
     "reminder": "SUBJ + ADVERB + TAKE THE BUS. (Local context: Transmetro).",
-    "tags": "Transportation; Frequency adverbs; Simple present",
+    "tags": "Present Simple; Transportation",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-044",
@@ -2439,10 +2439,10 @@
     "answerTranslation": "Nunca viajo en carro. Por lo general viajo en carro cuando voy a la ciudad. / Sí, siempre manejo al trabajo.",
     "unit": 7,
     "reminder": "Use BY CAR or DRIVE. Answer with Yes/No followed by a frequency adverb.",
-    "tags": "Transportation; Travel; Simple present; Frequency adverbs",
+    "tags": "Present Simple; Transportation",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-045",
@@ -2454,10 +2454,10 @@
     "answerTranslation": "Normalmente me toma unos 30 minutos. Toma alrededor de 45 minutos en autobús.",
     "unit": 7,
     "reminder": "Use \"It takes + [time] + to get to [place]\".",
-    "tags": "Transportation; Commuting; Time expressions; Simple present",
+    "tags": "Present Simple; Transportation",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-046",
@@ -2469,10 +2469,10 @@
     "answerTranslation": "A menudo camino a la escuela porque vivo cerca. Nunca camino al trabajo porque está muy lejos.",
     "unit": 7,
     "reminder": "Use \"walk to + place\". Connect ideas with \"because\" (nearby / far).",
-    "tags": "Transportation; Daily routines; Simple present; Giving reasons",
+    "tags": "Present Simple; Transportation",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A12-047",
@@ -2484,10 +2484,10 @@
     "answerTranslation": "Rara vez tomo un taxi o Uber. Solo tomo un Uber cuando es tarde en la noche.",
     "unit": 7,
     "reminder": "Use \"take a taxi / take an Uber\".",
-    "tags": "Transportation; Frequency adverbs; Modern transport",
+    "tags": "Present Simple; Transportation",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-066",
@@ -2499,10 +2499,10 @@
     "answerTranslation": "La persona más activa de mi familia soy yo.",
     "unit": 5,
     "reminder": "Use superlative: the most + adjective (active → the most active).",
-    "tags": "Superlatives; Family; Personality",
+    "tags": "Superlatives; Family",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-067",
@@ -2514,10 +2514,10 @@
     "answerTranslation": "Mi madre es la persona más organizada de mi familia.",
     "unit": 5,
     "reminder": "Use superlative: the most + adjective (organized → the most organized).",
-    "tags": "Superlatives; Family; Personality",
+    "tags": "Superlatives; Family",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-068",
@@ -2529,10 +2529,10 @@
     "answerTranslation": "La persona más alta de mi familia es mi hermano.",
     "unit": 5,
     "reminder": "Use superlative: the + short adjective + -est (tall → tallest).",
-    "tags": "Superlatives; Family; Physical Appearance",
+    "tags": "Superlatives; Family",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-069",
@@ -2544,10 +2544,10 @@
     "answerTranslation": "La persona más joven de mi familia es mi hermana.",
     "unit": 5,
     "reminder": "Use superlative: the + short adjective + -est (young → youngest).",
-    "tags": "Superlatives; Family; Age",
+    "tags": "Superlatives; Family",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-070",
@@ -2559,10 +2559,10 @@
     "answerTranslation": "La persona mayor de mi familia es mi abuela.",
     "unit": 5,
     "reminder": "Use superlative: the + short adjective + -est (old → oldest).",
-    "tags": "Superlatives; Family; Age",
+    "tags": "Superlatives; Family",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-071",
@@ -2574,10 +2574,10 @@
     "answerTranslation": "La persona más segura de sí misma que conozco es mi mejor amigo/a.",
     "unit": 5,
     "reminder": "Use superlative: the most + long adjective (confident → the most confident).",
-    "tags": "Superlatives; Personality; People",
+    "tags": "Superlatives; People & Personality",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-072",
@@ -2589,10 +2589,10 @@
     "answerTranslation": "La persona más confiable para mí es mi mamá.",
     "unit": 5,
     "reminder": "Use superlative: the most + adjective (reliable → the most reliable).",
-    "tags": "Superlatives; Relationships; Personality",
+    "tags": "Superlatives; People & Personality",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-073",
@@ -2604,10 +2604,10 @@
     "answerTranslation": "El momento más productivo para mí es la mañana.",
     "unit": 5,
     "reminder": "Use superlative: the most + adjective. Express routine/daily preferences.",
-    "tags": "Superlatives; Daily Routines; Productivity",
+    "tags": "Superlatives; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-074",
@@ -2619,10 +2619,10 @@
     "answerTranslation": "La IA más avanzada es Claude.",
     "unit": 5,
     "reminder": "Note: IA in Spanish = AI in English. Use superlative: the most advanced.",
-    "tags": "Superlatives; Technology; Opinions",
+    "tags": "Comparatives; Technology",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-075",
@@ -2634,10 +2634,10 @@
     "answerTranslation": "Para mí, ChatGPT es la IA más avanzada.",
     "unit": 5,
     "reminder": "AI = Artificial Intelligence. Use superlative: the most advanced.",
-    "tags": "Superlatives; Technology; Opinions",
+    "tags": "Comparatives; Technology",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-076",
@@ -2649,10 +2649,10 @@
     "answerTranslation": "Lo que más me apasiona es la psicología porque me encanta ayudar a la gente.",
     "unit": 5,
     "reminder": "Be passionate about + noun/gerund. Connect reasons with \"because\".",
-    "tags": "Superlatives; Interests; Giving Reasons",
+    "tags": "Superlatives; Likes & Preferences",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-077",
@@ -2664,10 +2664,10 @@
     "answerTranslation": "Me siento con más energía en la mañana después de desayunar.",
     "unit": 5,
     "reminder": "Use comparative/superlative: \"feel more energetic\" / \"feel most energetic\".",
-    "tags": "Comparatives; Superlatives; Daily Routines",
+    "tags": "Comparatives; Feelings",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-078",
@@ -2679,10 +2679,10 @@
     "answerTranslation": "La persona más sofisticada que conozco es mi profesor(a).",
     "unit": 5,
     "reminder": "Use superlative: the most + adjective (sophisticated → the most sophisticated).",
-    "tags": "Superlatives; People; Personality",
+    "tags": "Superlatives; People & Personality",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-079",
@@ -2694,10 +2694,10 @@
     "answerTranslation": "La cosa más cara que compré fue mi computadora portátil.",
     "unit": 5,
     "reminder": "Past irregular: buy → bought. Superlative: the most expensive.",
-    "tags": "Superlatives; Past Simple; Shopping",
+    "tags": "Superlatives; Shopping",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-080",
@@ -2709,10 +2709,10 @@
     "answerTranslation": "El mejor lugar para vivir es Antigua Guatemala porque es tranquilo y hermoso.",
     "unit": 5,
     "reminder": "Use superlative: good → the best.",
-    "tags": "Superlatives; Places; Opinions",
+    "tags": "Superlatives; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-081",
@@ -2724,10 +2724,10 @@
     "answerTranslation": "El lugar más hermoso de mi departamento es el Lago de Atitlán.",
     "unit": 5,
     "reminder": "Use superlative: the most + adjective (beautiful → the most beautiful).",
-    "tags": "Superlatives; Places; Travel",
+    "tags": "Superlatives; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-082",
@@ -2739,10 +2739,10 @@
     "answerTranslation": "El lunes es más ocupado para mí porque empiezo el trabajo y nuevos proyectos.",
     "unit": 5,
     "reminder": "Use comparative: busy → busier than.",
-    "tags": "Comparatives; Days of the week; Routines",
+    "tags": "Comparatives; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-083",
@@ -2754,10 +2754,10 @@
     "answerTranslation": "La persona más amable que conozco es mi abuela.",
     "unit": 5,
     "reminder": "Use superlative: nice → the nicest.",
-    "tags": "Superlatives; People; Personality",
+    "tags": "Superlatives; People & Personality",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-083",
@@ -2769,10 +2769,10 @@
     "answerTranslation": "Las ensaladas frescas y la sopa casera son más saludables que la comida rápida.",
     "unit": 5,
     "reminder": "Use comparative: healthy → healthier than.",
-    "tags": "Comparatives; Food; Health",
+    "tags": "Comparatives; Food",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-083",
@@ -2784,10 +2784,10 @@
     "answerTranslation": "El inglés es más interesante para mí porque me encanta aprender idiomas.",
     "unit": 5,
     "reminder": "Use comparative: more + long adjective (interesting → more interesting).",
-    "tags": "Comparatives; Education; Preferences",
+    "tags": "Comparatives; School",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-083",
@@ -2799,10 +2799,10 @@
     "answerTranslation": "Mi hermano mayor y mis padres son mayores que yo.",
     "unit": 5,
     "reminder": "Use comparative: old → older than.",
-    "tags": "Comparatives; Family; Age",
+    "tags": "Comparatives; Family",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-083",
@@ -2814,10 +2814,10 @@
     "answerTranslation": "El viernes es más ocupado para mí porque termino todas mis tareas semanales.",
     "unit": 5,
     "reminder": "Use comparative: busy → busier than.",
-    "tags": "Comparatives; Days of the week; Routines",
+    "tags": "Comparatives; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-083",
@@ -2829,10 +2829,10 @@
     "answerTranslation": "La persona más alta que conozco es mi primo Carlos.",
     "unit": 5,
     "reminder": "Use superlative: tall → the tallest.",
-    "tags": "Superlatives; Physical Appearance; People",
+    "tags": "Superlatives; People & Personality",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-083",
@@ -2844,10 +2844,10 @@
     "answerTranslation": "El mejor lugar para trabajar en mi ciudad es una empresa internacional o una escuela.",
     "unit": 5,
     "reminder": "Use superlative: good → the best.",
-    "tags": "Superlatives; Jobs; Work",
+    "tags": "Superlatives; Places & Location",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-084",
@@ -2859,10 +2859,10 @@
     "answerTranslation": "Escuchar música instrumental es más relajante que estudiar.",
     "unit": 5,
     "reminder": "Use comparative: more + long adjective (relaxing → more relaxing).",
-    "tags": "Comparatives; Free Time; Lifestyle",
+    "tags": "Comparatives; Free Time",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-085",
@@ -2874,10 +2874,10 @@
     "answerTranslation": "La comunicación efectiva y el trabajo en equipo son las habilidades más importantes para un trabajo.",
     "unit": 5,
     "reminder": "Use superlative: important → the most important.",
-    "tags": "Superlatives; Work; Skills",
+    "tags": "Superlatives; Jobs & Occupations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-086",
@@ -2889,10 +2889,10 @@
     "answerTranslation": "Tengo que despertarme a las 5:00 a.m. porque tengo que trabajar.",
     "unit": 6,
     "reminder": "Use have to + base verb to express obligation.",
-    "tags": "Have to; Daily Routines; Time",
+    "tags": "Have to; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-087",
@@ -2904,10 +2904,10 @@
     "answerTranslation": "Sí. Tengo que cocinar porque mi familia está en casa los fines de semana.",
     "unit": 6,
     "reminder": "Short answer: Yes, I do / No, I don't + have to.",
-    "tags": "Have to; Routines; Weekend",
+    "tags": "Have to; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-088",
@@ -2919,10 +2919,10 @@
     "answerTranslation": "Tengo que cepillarme los dientes y poner mi alarma antes de ir a dormir.",
     "unit": 6,
     "reminder": "Use have to + base verb. Remember: before + gerund (-ing).",
-    "tags": "Have to; Night Routines; Daily Habits",
+    "tags": "Have to; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-089",
@@ -2934,10 +2934,10 @@
     "answerTranslation": "Por las mañanas, tengo que preparar el desayuno y alistarme para el trabajo.",
     "unit": 6,
     "reminder": "Use have to + base verb. Use expression: in the morning(s).",
-    "tags": "Have to; Morning Routines; Habits",
+    "tags": "Have to; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-090",
@@ -2949,10 +2949,10 @@
     "answerTranslation": "Por la noche, tengo que terminar mi tarea y organizar mi ropa.",
     "unit": 6,
     "reminder": "Use have to + base verb. Notice: at night (not in the night).",
-    "tags": "Have to; Evening Routines; Responsibilities",
+    "tags": "Have to; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-091",
@@ -2964,10 +2964,10 @@
     "answerTranslation": "Por las tardes, tengo que asistir a mis clases y estudiar inglés.",
     "unit": 6,
     "reminder": "Use have to + base verb. Use expression: in the afternoon(s).",
-    "tags": "Have to; Afternoon Routines; Studies",
+    "tags": "Have to; Daily Routines",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-092",
@@ -2979,10 +2979,10 @@
     "answerTranslation": "En el trabajo, tengo que responder correos y asistir a reuniones de equipo.",
     "unit": 6,
     "reminder": "Use have to + base verb. Preposition: at work.",
-    "tags": "Have to; Work; Responsibilities",
+    "tags": "Have to; Jobs & Occupations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-093",
@@ -2997,7 +2997,7 @@
     "tags": "Have to; Weekend Routines; Chores",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-094",
@@ -3012,7 +3012,7 @@
     "tags": "",
     "difficulty": "",
     "active": "",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-095",
@@ -3027,7 +3027,7 @@
     "tags": "",
     "difficulty": "",
     "active": "",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-096",
@@ -3042,7 +3042,7 @@
     "tags": "Modal Verbs; May; Possibility; Weather",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-097",
@@ -3057,7 +3057,7 @@
     "tags": "Modal Verbs; May; Possibility; School",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-098",
@@ -3072,7 +3072,7 @@
     "tags": "Modal Verbs; May; Possibility; Rules",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-099",
@@ -3087,7 +3087,7 @@
     "tags": "Modal Verbs; May; Possibility; Work",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-100",
@@ -3102,7 +3102,7 @@
     "tags": "Modal Verbs; May; Possibility; Vacation",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-101",
@@ -3117,7 +3117,7 @@
     "tags": "Modal Verbs; May; Possibility; Health",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-102",
@@ -3132,7 +3132,7 @@
     "tags": "Modal Verbs; May; Possibility; Daily Life",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-103",
@@ -3147,7 +3147,7 @@
     "tags": "Modal Verbs; Can; Permission; Home",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-104",
@@ -3162,7 +3162,7 @@
     "tags": "Modal Verbs; Can; Rules; School",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-105",
@@ -3177,7 +3177,7 @@
     "tags": "Modal Verbs; Can; Rules; Work",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-106",
@@ -3192,7 +3192,7 @@
     "tags": "Modal Verbs; Can; Permission; School",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-107",
@@ -3207,7 +3207,7 @@
     "tags": "Modal Verbs; Can; Permission; Work",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-108",
@@ -3222,7 +3222,7 @@
     "tags": "Modal Verbs; Can; Rules; Work",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-109",
@@ -3237,7 +3237,7 @@
     "tags": "Past Simple; Residence; Past Habits",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-110",
@@ -3252,7 +3252,7 @@
     "tags": "Past Simple; Verb To Be; Time Expressions",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-111",
@@ -3267,7 +3267,7 @@
     "tags": "Present Simple; Communication; Trends",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-112",
@@ -3282,7 +3282,7 @@
     "tags": "Past Simple; Family; Residence",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-113",
@@ -3297,7 +3297,7 @@
     "tags": "Past Simple; Hobbies; Free Time",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-114",
@@ -3312,7 +3312,7 @@
     "tags": "Past Simple; Movies; Entertainment",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-115",
@@ -3327,7 +3327,7 @@
     "tags": "Past Simple; Daily Routines; People",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-116",
@@ -3342,7 +3342,7 @@
     "tags": "Past Simple; Travel; Vacation",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-117",
@@ -3357,7 +3357,7 @@
     "tags": "Present Simple; Frequency; Food",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-118",
@@ -3372,7 +3372,7 @@
     "tags": "Past Simple; Childhood; Habits",
     "difficulty": "Medium",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-119",
@@ -3387,7 +3387,7 @@
     "tags": "Quantifiers; Health; Daily Habits",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-120",
@@ -3402,7 +3402,7 @@
     "tags": "Past Simple; Quantifiers; Childhood",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-121",
@@ -3417,7 +3417,7 @@
     "tags": "Past Simple; Verb To Be; Past Locations",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": "Dana Ivette Rodríguez del Cid"
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-122",
@@ -3432,7 +3432,7 @@
     "tags": "Past Simple; Daily Routines; Free Time",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-123",
@@ -3447,7 +3447,7 @@
     "tags": "Present Continuous; Right Now",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-124",
@@ -3462,7 +3462,7 @@
     "tags": "Present Continuous; Near Future; Plans",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-125",
@@ -3477,7 +3477,7 @@
     "tags": "Present Simple; Languages; Personal Info",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-126",
@@ -3492,7 +3492,7 @@
     "tags": "Past Simple; People; Activities",
     "difficulty": "Basic",
     "active": "Yes",
-    "contributor": ""
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "questionCode": "A21-127",
@@ -3505,8 +3505,503 @@
     "unit": 7,
     "reminder": "Reminder (I): Use \"has\" for third person singular.\n",
     "tags": "",
+    "difficulty": "Medium",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A21-128",
+    "level": "A2",
+    "sublevel": "A2.1",
+    "question": "What are you wearing? (use 3 adjectives in the correct order)",
+    "questionTranslation": "",
+    "answer": "",
+    "answerTranslation": "",
+    "unit": "",
+    "reminder": "",
+    "tags": "",
     "difficulty": "",
     "active": "",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A21-129",
+    "level": "A2",
+    "sublevel": "A2.1",
+    "question": "Where are you? (use 3 adjectives in the correct order)",
+    "questionTranslation": "",
+    "answer": "",
+    "answerTranslation": "",
+    "unit": "",
+    "reminder": "",
+    "tags": "",
+    "difficulty": "",
+    "active": "",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A21-130",
+    "level": "A2",
+    "sublevel": "A2.1",
+    "question": "What are you wearing? (use 3 adjectives in the correct order)",
+    "questionTranslation": "",
+    "answer": "",
+    "answerTranslation": "",
+    "unit": "",
+    "reminder": "",
+    "tags": "",
+    "difficulty": "",
+    "active": "",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-022",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What do you do in the afternoons?",
+    "questionTranslation": "¿Qué haces por las tardes?",
+    "answer": "In the afternoon, I often work at my office and I sometimes check my personal emails.",
+    "answerTranslation": "Por la tarde, a menudo trabajo en mi oficina y a veces reviso mis correos personales.",
+    "unit": 2,
+    "reminder": "Adverbs of frequency (often, sometimes) go before the main verb.",
+    "tags": "Present Simple; Daily Routines; Adverbs of Frequency",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-023",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What do you do in the evenings?",
+    "questionTranslation": "¿Qué haces por las noches?",
+    "answer": "I regularly cook dinner with my family, and I sometimes watch television before going to sleep.",
+    "answerTranslation": "Regularmente cocino la cena con mi familia y rara vez veo televisión antes de irme a dormir.",
+    "unit": 2,
+    "reminder": "Position adverbs of frequency (regularly, rarely) before the action verb.",
+    "tags": "Present Simple; Daily Routines; Adverbs of Frequency",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-024",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What do you do after class?",
+    "questionTranslation": "¿Qué haces después de clase?",
+    "answer": "After class, I always review my notes and then I usually eat a light dinner.",
+    "answerTranslation": "Después de clase, siempre repaso mis notas y luego usualmente ceno algo ligero.",
+    "unit": 2,
+    "reminder": "Use time prepositions (after) and adverbs of frequency (always, usually).",
+    "tags": "Present Simple; Daily Routines; Adverbs of Frequency",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-025",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you wake up?",
+    "questionTranslation": "¿A qué hora te despiertas?",
+    "answer": "I wake up at 5:30 a.m. every day.",
+    "answerTranslation": "Me despierto a las 5:30 a.m. todos los días.",
+    "unit": 2,
+    "reminder": "Use preposition AT for specific times.",
+    "tags": "Present Simple; Daily Routines; Time Expressions",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-026",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you go to bed?",
+    "questionTranslation": "¿A qué hora te vas a la cama?",
+    "answer": "I go to bed at half past 11.",
+    "answerTranslation": "Me voy a dormir a las once y media.",
+    "unit": 2,
+    "reminder": "Use AT + time expression (at half past...).",
+    "tags": "Present Simple; Daily Routines; Time Expressions",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-027",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you take breakfast?",
+    "questionTranslation": "¿A qué hora desayunas?",
+    "answer": "I usually have breakfast at quarter past 7.",
+    "answerTranslation": "Usualmente desayuno a las 7:15.",
+    "unit": 2,
+    "reminder": "You can use \"have breakfast\" or \"take/eat breakfast\" + AT [time].",
+    "tags": "Present Simple; Meals; Time Expressions",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-028",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you have dinner?",
+    "questionTranslation": "¿A qué hora cenas?",
+    "answer": "I have dinner at 8:00 p.m. ",
+    "answerTranslation": "Ceno a las 8:00 p.m. con mi familia.",
+    "unit": 2,
+    "reminder": "Use AT for clock times.",
+    "tags": "Present Simple; Meals; Time Expressions",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-029",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you eat lunch?",
+    "questionTranslation": "¿A qué hora almuerzas?",
+    "answer": "I eat lunch at half past 12 in the afternoon.",
+    "answerTranslation": "Almuerzo a las 12:30 de la tarde.",
+    "unit": 2,
+    "reminder": "Use AT + time; \"eat lunch\" or \"have lunch\".",
+    "tags": "Present Simple; Meals; Time Expressions",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-030",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you connect to your English class?",
+    "questionTranslation": "¿A qué hora te conectas a tu clase de inglés?",
+    "answer": "I connect to my English class at 7:00 p.m.",
+    "answerTranslation": "Me conecto a mi clase de inglés a las 7:00 p.m. en punto.",
+    "unit": 2,
+    "reminder": "Use preposition TO after connect (connect to) and AT for hours.",
+    "tags": "Present Simple; School; Time Expressions",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-031",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What does your father do?",
+    "questionTranslation": "¿A qué se dedica tu padre?",
+    "answer": "He is an engineer. / He works as an engineer.",
+    "answerTranslation": "Él es ingeniero. / Trabaja como ingeniero.",
+    "unit": 6,
+    "reminder": "Remember to use \"a\" or \"an\" before an occupation (\"an\" before vowel sounds).",
+    "tags": "Present Simple; Family; Jobs",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-032",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What does your mother do?",
+    "questionTranslation": "¿A qué se dedica tu madre?",
+    "answer": "She is a secretary. / She works as a secretary.",
+    "answerTranslation": "Ella es secretaria. / Trabaja como secretaria.",
+    "unit": 6,
+    "reminder": "Remember to use \"a\" or \"an\" before an occupation (\"a\" before consonant sounds).",
+    "tags": "Present Simple; Family; Jobs",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-033",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What do your siblings do?",
+    "questionTranslation": "¿A qué se dedican tus hermanos?",
+    "answer": "My brother is a teacher and my sister is an architect. / My brother works as a teacher and my sister studies medicine.",
+    "answerTranslation": "Mi hermano es profesor y mi hermana es arquitecta. / Mi hermano trabaja como profesor y mi hermana estudia medicina.",
+    "unit": 6,
+    "reminder": "Remember to use \"a\" or \"an\" before each singular occupation.",
+    "tags": "Present Simple; Family; Jobs",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-034",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Do you have any siblings?",
+    "questionTranslation": "¿Tienes hermanos?",
+    "answer": "Yes, I do. I have one brother and two sisters. / No, I don't. I am an only child.",
+    "answerTranslation": "Sí. Tengo un hermano y dos hermanas. / No. Soy hijo(a) único(a).",
+    "unit": 6,
+    "reminder": "Use \"any\" in questions. Short answers: \"Yes, I do\" or \"No, I don't\".",
+    "tags": "Present Simple; Family; Relationships",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-035",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How old is your mother?",
+    "questionTranslation": "¿Cuántos años tiene tu madre?",
+    "answer": "She is 52 years old. / She is in her fifties.",
+    "answerTranslation": "Ella tiene 52 años. / Ella está en sus cincuenta.",
+    "unit": 2,
+    "reminder": "Use the verb BE (is) to express age, not \"have\".",
+    "tags": "Present Simple; Family; Age",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-036",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Describe a family member.",
+    "questionTranslation": "Describe a un miembro de tu familia.",
+    "answer": "My father is tall, kind, and hardworking. He is a doctor. / My mother is friendly and creative. She works as an accountant.",
+    "answerTranslation": "Mi padre es alto, amable y trabajador. Es médico. / Mi madre es amigable y creativa. Trabaja como contadora.",
+    "unit": 6,
+    "reminder": "Combine adjectives of personality/appearance and remember \"a\" or \"an\" before the job.",
+    "tags": "Present Simple; Family; Descriptions",
+    "difficulty": "Medium",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-037",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Who is your father? / Who is your mother?",
+    "questionTranslation": "¿Quién es tu padre? / ¿Quién es tu madre?",
+    "answer": "My father is Carlos. He is a lawyer. / My mother is Elena. She works as an administrator.",
+    "answerTranslation": "Mi padre es Carlos. Es abogado. / Mi madre es Elena. Trabaja como administradora.",
+    "unit": 6,
+    "reminder": "Use \"Who\" to identify people and remember \"a\" or \"an\" before their occupation.",
+    "tags": "Present Simple; Family; Identifying People",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-038",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What do your cousins do?",
+    "questionTranslation": "¿A qué se dedican tus primos?",
+    "answer": "My cousin is an engineer and my other cousin is a designer.",
+    "answerTranslation": "Mi prima es ingeniera y mi otro primo es arquitecto.",
+    "unit": 6,
+    "reminder": "Use \"Who\" to identify people and remember \"a\" or \"an\" before their occupation.",
+    "tags": "Present Simple; Family; Jobs",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A11-039",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What do you like doing?",
+    "questionTranslation": "¿Qué te gusta hacer?",
+    "answer": "I love reading books and I enjoy cooking with my family. / I like traveling and watching movies.",
+    "answerTranslation": "Me encanta leer libros y disfruto cocinar con mi familia. / Me gusta viajar y ver películas.",
+    "unit": 7,
+    "reminder": "Express preferences using: I love + -ing, I enjoy + -ing, or I like + -ing.",
+    "tags": "Present Simple; Hobbies; Likes and Dislikes",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-040",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Do you like lifting weights?",
+    "questionTranslation": "¿Te gusta levantar pesas?",
+    "answer": "Yes, I do. I love lifting weights at the gym. / No, I don't. I don't like lifting weights.",
+    "answerTranslation": "Sí. Me encanta levantar pesas en el gimnasio. / No. No me gusta levantar pesas.",
+    "unit": 7,
+    "reminder": "Short answers: \"Yes, I do\" or \"No, I don't\". You can also say: \"I love lifting...\" or \"I don't like lifting...\".",
+    "tags": "Present Simple; Sports; Likes and Dislikes",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-041",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Do you like cooking?",
+    "questionTranslation": "¿Te gusta cocinar?",
+    "answer": "Yes, I do. I enjoy cooking Italian food. / No, I don't. I don't like cooking at all.",
+    "answerTranslation": "Sí. Disfruto cocinar comida italiana. / No. No me gusta cocinar para nada.",
+    "unit": 7,
+    "reminder": "Short answers: \"Yes, I do\" or \"No, I don't\". Remember to use: I enjoy -ing / I don't like cooking.",
+    "tags": "Present Simple; Daily Activities; Likes and Dislikes",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-042",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Do you like dancing?",
+    "questionTranslation": "¿Te gusta bailar?",
+    "answer": "Yes, I do. I love dancing salsa and bachata. / No, I don't. I don't like dancing.",
+    "answerTranslation": "Sí. Me encanta bailar salsa y bachata. / No. No me gusta bailar.",
+    "unit": 7,
+    "reminder": "Short answers: \"Yes, I do\" or \"No, I don't\". Practice using: I love -ing / I enjoy -ing.",
+    "tags": "Present Simple; Hobbies; Likes and Dislikes",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-043",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Do you like playing video games?",
+    "questionTranslation": "¿Te gusta jugar videojuegos?",
+    "answer": "Yes, I do. I enjoy playing video games on weekends. / No, I don't. I don't like playing video games.",
+    "answerTranslation": "Sí. Disfruto jugar videojuegos los fines de semana. / No. No me gustan los videojuegos.",
+    "unit": 7,
+    "reminder": "Short answers: \"Yes, I do\" or \"No, I don't\". Remember: enjoy + -ing / like + -ing.",
+    "tags": "Present Simple; Free Time; Likes and Dislikes",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-044",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Do you like waking up early?",
+    "questionTranslation": "¿Te gusta despertarte temprano?",
+    "answer": "Yes, I do. I like waking up early to exercise. / No, I don't. I hate waking up early; I don't like it.",
+    "answerTranslation": "Sí. Me gusta levantarme temprano para hacer ejercicio. / No. Odio levantarme temprano; no me gusta.",
+    "unit": 7,
+    "reminder": "Short answers: \"Yes, I do\" or \"No, I don't\". Use verb + -ing after like/love/hate.",
+    "tags": "Present Simple; Routines; Likes and Dislikes",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-045",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What books do you like reading?",
+    "questionTranslation": "¿Qué libros te gusta leer?",
+    "answer": "I enjoy reading mystery novels. / Actually, I don't like reading books very much.",
+    "answerTranslation": "Disfruto leer novelas de misterio. / La verdad, no me gusta mucho leer libros.",
+    "unit": 7,
+    "reminder": "Use: I love -ing / I enjoy -ing. If negative: \"I don't like reading...\".",
+    "tags": "Present Simple; Books; Preferences",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-046",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What do you like watching on TV?",
+    "questionTranslation": "¿Qué te gusta ver en la televisión?",
+    "answer": "I love watching comedy shows and documentaries. / I don't like watching TV; I prefer watching YouTube.",
+    "answerTranslation": "Me encanta ver programas de comedia y documentales. / No me gusta ver televisión; prefiero ver YouTube.",
+    "unit": 7,
+    "reminder": "Use: I love -ing / I enjoy -ing. If negative: \"I don't like watching TV\".",
+    "tags": "Present Simple; Entertainment; Preferences",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-047",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What music do you like listening to?",
+    "questionTranslation": "¿Qué música te gusta escuchar?",
+    "answer": "I enjoy listening to pop and electronic music. / I love listening to rock music.",
+    "answerTranslation": "Disfruto escuchar música pop y electrónica. / Me encanta escuchar música rock.",
+    "unit": 7,
+    "reminder": "Always use the preposition TO with listen: \"listening TO [genre]\". You can also say: \"I love listening to...\".",
+    "tags": "Present Simple; Music; Preferences",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-048",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What food do you like cooking?",
+    "questionTranslation": "¿Qué comida te gusta cocinar?",
+    "answer": "I love cooking pasta and traditional dishes. / I don't like cooking; I prefer ordering delivery.",
+    "answerTranslation": "Me encanta cocinar pasta y platos tradicionales. / No me gusta cocinar; prefiero pedir a domicilio.",
+    "unit": 7,
+    "reminder": "Use: I love cooking... / I enjoy cooking... If negative: \"I don't like cooking\".",
+    "tags": "Present Simple; Food; Preferences",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-049",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What sports do you like watching?",
+    "questionTranslation": "¿Qué deportes te gusta ver?",
+    "answer": "I enjoy watching soccer and basketball games. / I don't like watching sports; I prefer playing them.",
+    "answerTranslation": "Disfruto ver partidos de fútbol y baloncesto. / No me gusta ver deportes; prefiero jugarlos.",
+    "unit": 7,
+    "reminder": "Remember: I love watching... / I enjoy watching... If negative: \"I don't like watching sports\".",
+    "tags": "Present Simple; Sports; Preferences",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-050",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What instruments do you like playing?",
+    "questionTranslation": "¿Qué instrumentos te gusta tocar?",
+    "answer": "I love playing the guitar and the piano. / I don't play any instruments, but I'd like to learn the drums.",
+    "answerTranslation": "Me encanta tocar la guitarra y el piano. / No toco ningún instrumento, pero me gustaría aprender batería.",
+    "unit": 7,
+    "reminder": "Always use THE before musical instruments: \"play THE guitar\", \"play THE piano\". Use I love / I enjoy + -ing.",
+    "tags": "Present Simple; Music; Hobbies",
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": ""
+  },
+  {
+    "questionCode": "A11-051",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Where would you like to go in the city?",
+    "questionTranslation": "¿Adónde te gustaría ir en la ciudad?",
+    "answer": "I would like to go to the airport / mall / cinema / Aurora zoo / park",
+    "answerTranslation": "Me gustaría ir al aeropuerto / centro comercial / cine / zoológico la Aurora / parque.",
+    "unit": 7,
+    "reminder": "You can be specific: I would like to go to the Tikal National Park . Remember the pronunciation of Would is: wud. Remember to use \"to\" + THE+before the place. Example: TO the zoo, to the hospital, to the gas station",
+    "tags": "Would like; Places & Location",
+    "difficulty": "Basic",
+    "active": "Yes",
     "contributor": ""
   }
 ]
