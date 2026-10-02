@@ -5,6 +5,16 @@ let recognition = null;
 let isRecording = false;
 let availableVoices = [];
 
+// Función auxiliar para convertir tags en array limpio (separados por ;)
+function getQuestionTags(item) {
+    if (!item.tags) return [];
+    if (Array.isArray(item.tags)) return item.tags.map(t => String(t).trim()).filter(t => t !== "");
+    return String(item.tags)
+        .split(";")
+        .map(t => t.trim())
+        .filter(t => t !== "");
+}
+
 fetch("questions.json")
 .then(response => response.json())
 .then(result => {
@@ -24,14 +34,17 @@ fetch("questions.json")
         comboUnit.innerHTML += `<option value="${unit}">Unit ${unit}</option>`;
     });
 
+    // Eventos
     comboLevel.addEventListener("change", () => {
         populateSublevels(comboLevel.value);
         filterQuestions();
     });
     comboUnit.addEventListener("change", filterQuestions);
     document.getElementById("sublevel").addEventListener("change", filterQuestions);
+    document.getElementById("tag").addEventListener("change", filterQuestions);
 
     populateSublevels("ALL");
+    populateTags(); // Poblamos el menú de Tags
     filterQuestions();
 })
 .catch(error => {
@@ -56,7 +69,6 @@ function populateSublevels(selectedLevel) {
         comboSublevel.innerHTML += `<option value="${sub}">${sub}</option>`;
     });
 
-    // Keep the previous selection if it's still a valid option for this level
     if (sublevels.includes(currentSelection)) {
         comboSublevel.value = currentSelection;
     } else {
@@ -64,16 +76,39 @@ function populateSublevels(selectedLevel) {
     }
 }
 
+// Llena el desplegable de tags únicos
+function populateTags() {
+    const comboTag = document.getElementById("tag");
+    const allTags = new Set();
+
+    data.forEach(item => {
+        const itemTags = getQuestionTags(item);
+        itemTags.forEach(tag => allTags.add(tag));
+    });
+
+    const sortedTags = Array.from(allTags).sort();
+
+    comboTag.innerHTML = '<option value="ALL">All Tags</option>';
+    sortedTags.forEach(tag => {
+        comboTag.innerHTML += `<option value="${tag}">${tag}</option>`;
+    });
+}
+
 function filterQuestions() {
     const selectedLevel = document.getElementById("level").value;
     const selectedSublevel = document.getElementById("sublevel").value;
     const selectedUnit = document.getElementById("unit").value;
+    const selectedTag = document.getElementById("tag").value;
 
     questions = data.filter(x => {
         const matchLevel = (selectedLevel === "ALL") || (String(x.level || "").trim() === selectedLevel);
         const matchSublevel = (selectedSublevel === "ALL") || (String(x.sublevel || "").trim() === selectedSublevel);
         const matchUnit = (selectedUnit === "ALL") || (String(x.unit || "").trim() === selectedUnit);
-        return matchLevel && matchSublevel && matchUnit;
+        
+        const itemTags = getQuestionTags(x);
+        const matchTag = (selectedTag === "ALL") || itemTags.includes(selectedTag);
+
+        return matchLevel && matchSublevel && matchUnit && matchTag;
     });
 
     shuffle(questions);
