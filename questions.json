@@ -5182,5 +5182,100 @@
     "difficulty": "Basic",
     "active": "Yes",
     "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+    {
+    "questionCode": "A12-058",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "What do you want to accomplish?",
+    "questionTranslation": "¿Qué quieres lograr?",
+    "answer": "I want to pass the English course. / I want to have my own business. / I want to graduate from school.",
+    "answerTranslation": "Quiero aprobar el curso de inglés. / Quiero tener mi propio negocio. / Quiero graduarme de la escuela.",
+    "unit": 6,
+    "reminder": "Use WANT TO + base verb: I want to pass, I want to graduate.",
+    "tags": [
+      "Present Simple",
+      "Goals & Ambitions",
+      "Future Plans"
+    ],
+    "difficulty": "Medium",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A12-059",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "What is something you can afford?",
+    "questionTranslation": "¿Qué es algo que puedes costear?",
+    "answer": "I can afford some pencils, a new bicycle, or a cellphone.",
+    "answerTranslation": "Puedo costear unos lápices, una bicicleta nueva o un teléfono celular.",
+    "unit": 6,
+    "reminder": "Can afford + noun or pronoun: I can afford a bicycle.",
+    "tags": [
+      "Modal Can",
+      "Shopping",
+      "Money"
+    ],
+    "difficulty": "Medium",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A12-060",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Why is it important to sell online? Why is digital marketing important?",
+    "questionTranslation": "¿Por qué es importante vender en línea? ¿Por qué es importante el marketing digital?",
+    "answer": "It improves sales because online you have a website 24/7, and it is open for the entire country.",
+    "answerTranslation": "Mejora las ventas porque en línea tienes un sitio web 24/7 y está abierto para todo el país.",
+    "unit": 6,
+    "reminder": "Use BECAUSE to give reasons. Online platforms are available 24/7.",
+    "tags": [
+      "Present Simple",
+      "Business",
+      "Technology"
+    ],
+    "difficulty": "Medium",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A12-061",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Why is digital marketing important?",
+    "questionTranslation": "¿Por qué es importante el marketing digital?",
+    "answer": "It improves sales and brand reach because a website is available 24/7 for the whole country.",
+    "answerTranslation": "Mejora las ventas y el alcance de marca porque un sitio web está disponible 24/7 para todo el país.",
+    "unit": 6,
+    "reminder": "Use BECAUSE to explain reasons and benefits.",
+    "tags": [
+      "Present Simple",
+      "Business",
+      "Technology"
+    ],
+    "difficulty": "Medium",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A12-062",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Are you someone who usually procrastinates?",
+    "questionTranslation": "¿Eres alguien que suele procrastinar?",
+    "answer": "Yes, I sometimes procrastinate when I have a lot of work. / No, I am not. I usually do my tasks on time.",
+    "answerTranslation": "Sí, a veces procrastino cuando tengo mucho trabajo. / No, no lo soy. Usualmente hago mis tareas a tiempo.",
+    "unit": 6,
+    "reminder": "Use frequency adverbs like \"sometimes\" or \"usually\". \"Procrastinate\" means to delay or postpone action.",
+    "tags": [
+      "Present Simple",
+      "Habits",
+      "Personality"
+    ],
+    "difficulty": "Medium",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   }
 ]
