@@ -5136,7 +5136,8 @@
     "difficulty": "Basic",
     "active": "Yes",
     "contributor": "Dana Ivettte Rodríguez del Cid"
-  },[
+  },
+  [
   {
     "questionCode": "A12-055",
     "level": "A1",
@@ -5147,4 +5148,39 @@
     "answerTranslation": "Mi hermana es Ana. Tiene 25 años. Trabaja en un hospital. / Mi papá es Carlos. Trabaja en un banco.",
     "unit": 6,
     "reminder": "With he / she / it, add -s to the verb: he works, she lives. Use IN or AT for the workplace.",
+    "tags": ["Present Simple", "Family", "Jobs"],
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A12-056",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Where does your best friend live?",
+    "questionTranslation": "¿Dónde vive tu mejor amigo/a?",
+    "answer": "My best friend lives in Guatemala City. / She lives near my house.",
+    "answerTranslation": "Mi mejor amigo/a vive en la Ciudad de Guatemala. / Ella vive cerca de mi casa.",
+    "unit": 6,
+    "reminder": "Use DOES in the question, so the verb has no -s: Where does he live? In the answer, add -s: He lives in...",
+    "tags": ["Present Simple", "Friendship", "Places & Location"],
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "questionCode": "A12-057",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "How many siblings does your best friend have?",
+    "questionTranslation": "¿Cuántos hermanos tiene tu mejor amigo/a?",
+    "answer": "My best friend has two siblings: one brother and one sister. / He doesn't have any siblings.",
+    "answerTranslation": "Mi mejor amigo/a tiene dos hermanos: un hermano y una hermana. / Él no tiene hermanos.",
+    "unit": 6,
+    "reminder": "Use HAS with he / she. In negative sentences use DOESN'T + have (not doesn't has).",
+    "tags": ["Present Simple", "Family", "Friendship"],
+    "difficulty": "Basic",
+    "active": "Yes",
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  }
 ]
