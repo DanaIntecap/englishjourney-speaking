@@ -1749,10 +1749,8 @@
     "answerTranslation": "Uso mucho inglés fuera del salón de clases. Por ejemplo, practico durante una hora cada día.",
     "unit": 2,
     "reminder": "Use a lot, a little, or don't use any. Then add a specific quantity or example.",
-    "tags": [
-      "Quantifiers",
-      "Language Learning"
-    ],
+    "tags": "Quantifiers",
+      "Language Learning",
     "difficulty": "Basic",
     "active": "Yes",
     "contributor": "Dana Ivettte Rodríguez del Cid"
@@ -5062,7 +5060,7 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": "Yes",
     "contributor": ""
   },
   {
@@ -5077,7 +5075,7 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": "Yes",
     "contributor": ""
   },
   {
@@ -5137,7 +5135,6 @@
     "active": "Yes",
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
-  [
   {
     "questionCode": "A12-055",
     "level": "A1",
@@ -5250,11 +5247,9 @@
     "answerTranslation": "Mejora las ventas y el alcance de marca porque un sitio web está disponible 24/7 para todo el país.",
     "unit": 6,
     "reminder": "Use BECAUSE to explain reasons and benefits.",
-    "tags": [
-      "Present Simple",
+    "tags": "Present Simple",
       "Business",
-      "Technology"
-    ],
+      "Technology",
     "difficulty": "Medium",
     "active": "Yes",
     "contributor": "Dana Ivettte Rodríguez del Cid"
