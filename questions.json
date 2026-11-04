@@ -1749,7 +1749,7 @@
     "answerTranslation": "Uso mucho inglés fuera del salón de clases. Por ejemplo, practico durante una hora cada día.",
     "unit": 2,
     "reminder": "Use a lot, a little, or don't use any. Then add a specific quantity or example.",
-  "tags": [
+    "tags": [
       "Quantifiers",
       "Language Learning"
     ],
@@ -5147,7 +5147,11 @@
     "answerTranslation": "Mi hermana es Ana. Tiene 25 años. Trabaja en un hospital. / Mi papá es Carlos. Trabaja en un banco.",
     "unit": 6,
     "reminder": "With he / she / it, add -s to the verb: he works, she lives. Use IN or AT for the workplace.",
-    "tags": ["Present Simple", "Family", "Jobs"],
+    "tags": [
+      "Present Simple",
+      "Family",
+      "Jobs"
+    ],
     "difficulty": "Basic",
     "active": "Yes",
     "contributor": "Dana Ivettte Rodríguez del Cid"
@@ -5162,7 +5166,11 @@
     "answerTranslation": "Mi mejor amigo/a vive en la Ciudad de Guatemala. / Ella vive cerca de mi casa.",
     "unit": 6,
     "reminder": "Use DOES in the question, so the verb has no -s: Where does he live? In the answer, add -s: He lives in...",
-    "tags": ["Present Simple", "Friendship", "Places & Location"],
+    "tags": [
+      "Present Simple",
+      "Friendship",
+      "Places & Location"
+    ],
     "difficulty": "Basic",
     "active": "Yes",
     "contributor": "Dana Ivettte Rodríguez del Cid"
@@ -5177,12 +5185,16 @@
     "answerTranslation": "Mi mejor amigo/a tiene dos hermanos: un hermano y una hermana. / Él no tiene hermanos.",
     "unit": 6,
     "reminder": "Use HAS with he / she. In negative sentences use DOESN'T + have (not doesn't has).",
-    "tags": ["Present Simple", "Family", "Friendship"],
+    "tags": [
+      "Present Simple",
+      "Family",
+      "Friendship"
+    ],
     "difficulty": "Basic",
     "active": "Yes",
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
-    {
+  {
     "questionCode": "A12-058",
     "level": "A1",
     "sublevel": "A1.2",
