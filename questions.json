@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "questionCode": "A11-001",
     "level": "A1",
     "sublevel": "A1.1",
@@ -14,10 +15,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 2,
     "questionCode": "A11-002",
     "level": "A1",
     "sublevel": "A1.1",
@@ -32,10 +34,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 3,
     "questionCode": "A11-003",
     "level": "A1",
     "sublevel": "A1.1",
@@ -50,10 +53,11 @@
       "Countries & Nationalities"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 4,
     "questionCode": "A11-004",
     "level": "A1",
     "sublevel": "A1.1",
@@ -68,10 +72,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 5,
     "questionCode": "A11-005",
     "level": "A1",
     "sublevel": "A1.1",
@@ -86,10 +91,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 6,
     "questionCode": "A11-006",
     "level": "A1",
     "sublevel": "A1.1",
@@ -104,10 +110,11 @@
       "Greetings"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 7,
     "questionCode": "A11-007",
     "level": "A1",
     "sublevel": "A1.1",
@@ -122,10 +129,11 @@
       "Jobs & Occupations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 8,
     "questionCode": "A11-008",
     "level": "A1",
     "sublevel": "A1.1",
@@ -140,10 +148,11 @@
       "Countries & Nationalities"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 9,
     "questionCode": "A11-009",
     "level": "A1",
     "sublevel": "A1.1",
@@ -158,10 +167,11 @@
       "Spelling & Alphabet"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 10,
     "questionCode": "A11-010",
     "level": "A1",
     "sublevel": "A1.1",
@@ -176,10 +186,11 @@
       "Dates & Celebrations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 11,
     "questionCode": "A11-011",
     "level": "A1",
     "sublevel": "A1.1",
@@ -194,10 +205,11 @@
       "Dates & Celebrations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 12,
     "questionCode": "A11-012",
     "level": "A1",
     "sublevel": "A1.1",
@@ -212,10 +224,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 13,
     "questionCode": "A11-013",
     "level": "A1",
     "sublevel": "A1.1",
@@ -230,10 +243,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 14,
     "questionCode": "A11-014",
     "level": "A1",
     "sublevel": "A1.1",
@@ -248,10 +262,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 15,
     "questionCode": "A11-015",
     "level": "A1",
     "sublevel": "A1.1",
@@ -266,10 +281,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 16,
     "questionCode": "A11-016",
     "level": "A1",
     "sublevel": "A1.1",
@@ -284,10 +300,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 17,
     "questionCode": "A11-017",
     "level": "A1",
     "sublevel": "A1.1",
@@ -302,10 +319,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 18,
     "questionCode": "A11-018",
     "level": "A1",
     "sublevel": "A1.1",
@@ -320,10 +338,11 @@
       "Dates & Celebrations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 19,
     "questionCode": "A11-019",
     "level": "A1",
     "sublevel": "A1.1",
@@ -338,10 +357,11 @@
       "Feelings"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 20,
     "questionCode": "A11-020",
     "level": "A1",
     "sublevel": "A1.1",
@@ -356,10 +376,11 @@
       "Shopping"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 21,
     "questionCode": "A11-021",
     "level": "A1",
     "sublevel": "A1.1",
@@ -374,10 +395,11 @@
       "Shopping"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 22,
     "questionCode": "A11-022",
     "level": "A1",
     "sublevel": "A1.1",
@@ -392,10 +414,11 @@
       "Shopping"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 23,
     "questionCode": "A12-001",
     "level": "A1",
     "sublevel": "A1.2",
@@ -410,10 +433,11 @@
       "Personal Information"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 24,
     "questionCode": "A12-002",
     "level": "A1",
     "sublevel": "A1.2",
@@ -428,10 +452,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 25,
     "questionCode": "A12-003",
     "level": "A1",
     "sublevel": "A1.2",
@@ -446,10 +471,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 26,
     "questionCode": "A12-004",
     "level": "A1",
     "sublevel": "A1.2",
@@ -464,10 +490,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 27,
     "questionCode": "A12-005",
     "level": "A1",
     "sublevel": "A1.2",
@@ -482,10 +509,11 @@
       "Jobs & Occupations"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 28,
     "questionCode": "A11-023",
     "level": "A1",
     "sublevel": "A1.1",
@@ -500,10 +528,11 @@
       "Personal Information"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 29,
     "questionCode": "A12-006",
     "level": "A1",
     "sublevel": "A1.2",
@@ -518,10 +547,11 @@
       "Personal Information"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 30,
     "questionCode": "A21-001",
     "level": "A2",
     "sublevel": "A2.1",
@@ -536,10 +566,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 31,
     "questionCode": "A21-002",
     "level": "A2",
     "sublevel": "A2.1",
@@ -554,10 +585,11 @@
       "Childhood Memories"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 32,
     "questionCode": "A21-003",
     "level": "A2",
     "sublevel": "A2.1",
@@ -572,10 +604,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 33,
     "questionCode": "A21-004",
     "level": "A2",
     "sublevel": "A2.1",
@@ -590,10 +623,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 34,
     "questionCode": "A21-005",
     "level": "A2",
     "sublevel": "A2.1",
@@ -608,10 +642,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 35,
     "questionCode": "A21-006",
     "level": "A2",
     "sublevel": "A2.1",
@@ -626,10 +661,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 36,
     "questionCode": "A21-007",
     "level": "A2",
     "sublevel": "A2.1",
@@ -644,10 +680,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 37,
     "questionCode": "A21-008",
     "level": "A2",
     "sublevel": "A2.1",
@@ -662,10 +699,11 @@
       "Daily Activities"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 38,
     "questionCode": "A21-009",
     "level": "A2",
     "sublevel": "A2.1",
@@ -680,10 +718,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 39,
     "questionCode": "A21-010",
     "level": "A2",
     "sublevel": "A2.1",
@@ -698,10 +737,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 40,
     "questionCode": "A21-011",
     "level": "A2",
     "sublevel": "A2.1",
@@ -716,10 +756,11 @@
       "Free Time"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 41,
     "questionCode": "A21-012",
     "level": "A2",
     "sublevel": "A2.1",
@@ -734,10 +775,11 @@
       "Food"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 42,
     "questionCode": "A21-013",
     "level": "A2",
     "sublevel": "A2.1",
@@ -752,10 +794,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 43,
     "questionCode": "A21-014",
     "level": "A2",
     "sublevel": "A2.1",
@@ -770,10 +813,11 @@
       "Feelings"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 44,
     "questionCode": "A21-016",
     "level": "A2",
     "sublevel": "A2.1",
@@ -788,10 +832,11 @@
       "Feelings"
     ],
     "difficulty": "Advanced",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 45,
     "questionCode": "A21-017",
     "level": "A2",
     "sublevel": "A2.1",
@@ -806,10 +851,11 @@
       "Dates & Celebrations"
     ],
     "difficulty": "Advanced",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 46,
     "questionCode": "A21-018",
     "level": "A2",
     "sublevel": "A2.1",
@@ -824,10 +870,11 @@
       "Personal Information"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 47,
     "questionCode": "A21-020",
     "level": "A2",
     "sublevel": "A2.1",
@@ -842,10 +889,11 @@
       "Dates & Celebrations"
     ],
     "difficulty": "Advanced",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 48,
     "questionCode": "A21-019",
     "level": "A2",
     "sublevel": "A2.1",
@@ -860,10 +908,11 @@
       "Free Time"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 49,
     "questionCode": "A21-021",
     "level": "A2",
     "sublevel": "A2.1",
@@ -878,10 +927,11 @@
       "Daily Activities"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 50,
     "questionCode": "A21-022",
     "level": "A2",
     "sublevel": "A2.1",
@@ -896,10 +946,11 @@
       "Food"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 51,
     "questionCode": "A21-023",
     "level": "A2",
     "sublevel": "A2.1",
@@ -914,10 +965,11 @@
       "Travel & Vacations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 52,
     "questionCode": "A21-024",
     "level": "A2",
     "sublevel": "A2.1",
@@ -932,10 +984,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 53,
     "questionCode": "A21-025",
     "level": "A2",
     "sublevel": "A2.1",
@@ -950,10 +1003,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 54,
     "questionCode": "A21-026",
     "level": "A2",
     "sublevel": "A2.1",
@@ -968,10 +1022,11 @@
       "Free Time"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 55,
     "questionCode": "A21-027",
     "level": "A2",
     "sublevel": "A2.1",
@@ -986,10 +1041,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 56,
     "questionCode": "A21-028",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1004,10 +1060,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 57,
     "questionCode": "A21-029",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1022,10 +1079,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 58,
     "questionCode": "A21-030",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1040,10 +1098,11 @@
       "Free Time"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 59,
     "questionCode": "A12-007",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1058,10 +1117,11 @@
       "School"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 60,
     "questionCode": "A12-008",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1076,10 +1136,11 @@
       "School"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 61,
     "questionCode": "A12-009",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1094,10 +1155,11 @@
       "Near Future"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 62,
     "questionCode": "A12-010",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1112,10 +1174,11 @@
       "Near Future"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 63,
     "questionCode": "A12-011",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1130,10 +1193,11 @@
       "Near Future"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 64,
     "questionCode": "A12-012",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1148,10 +1212,11 @@
       "Near Future"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 65,
     "questionCode": "A12-013",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1166,10 +1231,11 @@
       "Near Future"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 66,
     "questionCode": "A12-014",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1184,10 +1250,11 @@
       "Health"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 67,
     "questionCode": "A12-015",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1202,10 +1269,11 @@
       "Education"
     ],
     "difficulty": "Advanced",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 68,
     "questionCode": "A12-016",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1220,10 +1288,11 @@
       "Free Time"
     ],
     "difficulty": "Advanced",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 69,
     "questionCode": "A12-017",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1238,10 +1307,11 @@
       "Right Now"
     ],
     "difficulty": "Advanced",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 70,
     "questionCode": "A12-018",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1256,10 +1326,11 @@
       "Right Now"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 71,
     "questionCode": "A12-019",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1274,10 +1345,11 @@
       "Right Now"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 72,
     "questionCode": "A12-020",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1292,10 +1364,11 @@
       "Right Now"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 73,
     "questionCode": "A12-021",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1310,10 +1383,11 @@
       "Family"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 74,
     "questionCode": "A12-022",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1328,10 +1402,11 @@
       "Family"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 75,
     "questionCode": "A12-023",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1345,10 +1420,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 76,
     "questionCode": "A21-031",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1362,10 +1438,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 77,
     "questionCode": "A21-032",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1379,10 +1456,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 78,
     "questionCode": "A21-033",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1396,10 +1474,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 79,
     "questionCode": "A21-034",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1413,10 +1492,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 80,
     "questionCode": "A21-035",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1430,10 +1510,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 81,
     "questionCode": "A21-036",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1447,10 +1528,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 82,
     "questionCode": "A21-037",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1464,10 +1546,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 83,
     "questionCode": "A21-038",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1481,10 +1564,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 84,
     "questionCode": "A21-039",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1498,10 +1582,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 85,
     "questionCode": "A21-040",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1515,10 +1600,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 86,
     "questionCode": "A21-041",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1532,10 +1618,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 87,
     "questionCode": "A21-042",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1549,10 +1636,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 88,
     "questionCode": "A21-043",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1566,10 +1654,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 89,
     "questionCode": "A21-044",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1583,10 +1672,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 90,
     "questionCode": "A21-045",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1600,10 +1690,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 91,
     "questionCode": "A21-046",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1617,10 +1708,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 92,
     "questionCode": "A21-047",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1634,10 +1726,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 93,
     "questionCode": "A21-048",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1651,10 +1744,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 94,
     "questionCode": "A21-049",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1668,10 +1762,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 95,
     "questionCode": "A21-050",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1685,10 +1780,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 96,
     "questionCode": "A21-051",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1702,10 +1798,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 97,
     "questionCode": "A21-052",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1719,10 +1816,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 98,
     "questionCode": "A21-053",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1736,10 +1834,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 99,
     "questionCode": "A21-054",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1754,10 +1853,11 @@
       "Language Learning"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 100,
     "questionCode": "A21-055",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1772,10 +1872,11 @@
       "Travel & Vacations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 101,
     "questionCode": "A21-056",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1790,10 +1891,11 @@
       "Abilities"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 102,
     "questionCode": "A21-057",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1808,10 +1910,11 @@
       "Abilities"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 103,
     "questionCode": "A21-058",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1826,10 +1929,11 @@
       "Places & Location"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 104,
     "questionCode": "A21-059",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1844,10 +1948,11 @@
       "Shopping"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 105,
     "questionCode": "A21-060",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1862,10 +1967,11 @@
       "Food"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 106,
     "questionCode": "A21-061",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1880,10 +1986,11 @@
       "Language Learning"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 107,
     "questionCode": "A21-062",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1898,10 +2005,11 @@
       "Food"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 108,
     "questionCode": "A21-063",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1916,10 +2024,11 @@
       "Abilities"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 109,
     "questionCode": "A21-064",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1934,10 +2043,11 @@
       "Abilities"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 110,
     "questionCode": "A21-065",
     "level": "A2",
     "sublevel": "A2.1",
@@ -1952,10 +2062,11 @@
       "Abilities"
     ],
     "difficulty": "",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 111,
     "questionCode": "A12-028",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1970,10 +2081,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 112,
     "questionCode": "A12-031",
     "level": "A1",
     "sublevel": "A1.2",
@@ -1988,10 +2100,11 @@
       "Personal Items"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 113,
     "questionCode": "A12-032",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2006,10 +2119,11 @@
       "Furniture"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 114,
     "questionCode": "A12-033",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2024,10 +2138,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 115,
     "questionCode": "A12-034",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2042,10 +2157,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 116,
     "questionCode": "A12-035",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2060,10 +2176,11 @@
       "School"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 117,
     "questionCode": "A12-036",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2078,10 +2195,11 @@
       "Home"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 118,
     "questionCode": "A12-037",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2096,10 +2214,11 @@
       "Home"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 119,
     "questionCode": "A12-038",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2114,10 +2233,11 @@
       "Animals"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 120,
     "questionCode": "A12-039",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2132,10 +2252,11 @@
       "Food"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 121,
     "questionCode": "A12-040",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2150,10 +2271,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 122,
     "questionCode": "A12-041",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2168,10 +2290,11 @@
       "Quantifiers"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 123,
     "questionCode": "A12-042",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2186,10 +2309,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 124,
     "questionCode": "A12-043",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2204,10 +2328,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 125,
     "questionCode": "A12-044",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2222,10 +2347,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 126,
     "questionCode": "A12-045",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2240,10 +2366,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 127,
     "questionCode": "A12-046",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2258,10 +2385,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 128,
     "questionCode": "A12-047",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2276,10 +2404,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 129,
     "questionCode": "A12-048",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2294,10 +2423,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 130,
     "questionCode": "A12-049",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2312,10 +2442,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 131,
     "questionCode": "A12-050",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2330,10 +2461,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 132,
     "questionCode": "A12-051",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2348,10 +2480,11 @@
       "Free Time"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 133,
     "questionCode": "A12-052",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2366,10 +2499,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 134,
     "questionCode": "A12-053",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2384,10 +2518,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 135,
     "questionCode": "A12-054",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2402,10 +2537,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 136,
     "questionCode": "A21-015",
     "level": "A2",
     "sublevel": "A2.1",
@@ -2420,10 +2556,11 @@
       "School"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 137,
     "questionCode": "A12-017",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2438,10 +2575,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 138,
     "questionCode": "A12-018",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2456,10 +2594,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 139,
     "questionCode": "A12-019",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2474,10 +2613,11 @@
       "Countries & Nationalities"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 140,
     "questionCode": "A12-020",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2492,10 +2632,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 141,
     "questionCode": "A12-021",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2510,10 +2651,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 142,
     "questionCode": "A12-022",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2528,10 +2670,11 @@
       "Greetings"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 143,
     "questionCode": "A12-023",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2546,10 +2689,11 @@
       "Jobs & Occupations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 144,
     "questionCode": "A12-024",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2564,10 +2708,11 @@
       "Countries & Nationalities"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 145,
     "questionCode": "A12-025",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2582,10 +2727,11 @@
       "Spelling & Alphabet"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 146,
     "questionCode": "A12-026",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2600,10 +2746,11 @@
       "Dates & Celebrations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 147,
     "questionCode": "A12-027",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2618,10 +2765,11 @@
       "Dates & Celebrations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 148,
     "questionCode": "A12-029",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2636,10 +2784,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 149,
     "questionCode": "A12-030",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2654,10 +2803,11 @@
       "Personal Information"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 150,
     "questionCode": "A12-031",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2672,10 +2822,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 151,
     "questionCode": "A12-032",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2690,10 +2841,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 152,
     "questionCode": "A12-033",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2708,10 +2860,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 153,
     "questionCode": "A12-034",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2726,10 +2879,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 154,
     "questionCode": "A12-035",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2744,10 +2898,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 155,
     "questionCode": "A12-036",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2762,10 +2917,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 156,
     "questionCode": "A12-037",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2780,10 +2936,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 157,
     "questionCode": "A12-038",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2798,10 +2955,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 158,
     "questionCode": "A12-039",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2816,10 +2974,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 159,
     "questionCode": "A12-040",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2834,10 +2993,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 160,
     "questionCode": "A12-041",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2852,10 +3012,11 @@
       "Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 161,
     "questionCode": "A12-042",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2870,10 +3031,11 @@
       "Transportation"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 162,
     "questionCode": "A12-043",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2888,10 +3050,11 @@
       "Transportation"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 163,
     "questionCode": "A12-044",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2906,10 +3069,11 @@
       "Transportation"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 164,
     "questionCode": "A12-045",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2924,10 +3088,11 @@
       "Transportation"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 165,
     "questionCode": "A12-046",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2942,10 +3107,11 @@
       "Transportation"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 166,
     "questionCode": "A12-047",
     "level": "A1",
     "sublevel": "A1.2",
@@ -2960,10 +3126,11 @@
       "Transportation"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 167,
     "questionCode": "A21-066",
     "level": "A2",
     "sublevel": "A2.1",
@@ -2978,10 +3145,11 @@
       "Family"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 168,
     "questionCode": "A21-067",
     "level": "A2",
     "sublevel": "A2.1",
@@ -2996,10 +3164,11 @@
       "Family"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 169,
     "questionCode": "A21-068",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3014,10 +3183,11 @@
       "Family"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 170,
     "questionCode": "A21-069",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3032,10 +3202,11 @@
       "Family"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 171,
     "questionCode": "A21-070",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3050,10 +3221,11 @@
       "Family"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 172,
     "questionCode": "A21-071",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3068,10 +3240,11 @@
       "People & Personality"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 173,
     "questionCode": "A21-072",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3086,10 +3259,11 @@
       "People & Personality"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 174,
     "questionCode": "A21-073",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3104,10 +3278,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 175,
     "questionCode": "A21-074",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3122,10 +3297,11 @@
       "Technology"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 176,
     "questionCode": "A21-075",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3140,10 +3316,11 @@
       "Technology"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 177,
     "questionCode": "A21-076",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3158,10 +3335,11 @@
       "Likes & Preferences"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 178,
     "questionCode": "A21-077",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3176,10 +3354,11 @@
       "Feelings"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 179,
     "questionCode": "A21-078",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3194,10 +3373,11 @@
       "People & Personality"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 180,
     "questionCode": "A21-079",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3212,10 +3392,11 @@
       "Shopping"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 181,
     "questionCode": "A21-080",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3230,10 +3411,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 182,
     "questionCode": "A21-081",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3248,10 +3430,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 183,
     "questionCode": "A21-082",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3266,10 +3449,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 184,
     "questionCode": "A21-083",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3284,11 +3468,12 @@
       "People & Personality"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "questionCode": "A21-083",
+    "id": 185,
+    "questionCode": "A21-128",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "What food is healthier than fast food?",
@@ -3302,11 +3487,12 @@
       "Food"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "questionCode": "A21-083",
+    "id": 186,
+    "questionCode": "A21-129",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "Which subject is more interesting for you, English, or math?",
@@ -3320,11 +3506,12 @@
       "School"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "questionCode": "A21-083",
+    "id": 187,
+    "questionCode": "A21-130",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "Who is older than  you in your family?",
@@ -3338,11 +3525,12 @@
       "Family"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "questionCode": "A21-083",
+    "id": 188,
+    "questionCode": "A21-131",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "Which day is busier for you, Monday, or Friday?",
@@ -3356,11 +3544,12 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "questionCode": "A21-083",
+    "id": 189,
+    "questionCode": "A21-132",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "Who is the tallest person you know?",
@@ -3374,11 +3563,12 @@
       "People & Personality"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "questionCode": "A21-083",
+    "id": 190,
+    "questionCode": "A21-133",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "What is the best place to work in your city?",
@@ -3392,10 +3582,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 191,
     "questionCode": "A21-084",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3410,10 +3601,11 @@
       "Free Time"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 192,
     "questionCode": "A21-085",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3428,10 +3620,11 @@
       "Jobs & Occupations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 193,
     "questionCode": "A21-086",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3446,10 +3639,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 194,
     "questionCode": "A21-087",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3464,10 +3658,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 195,
     "questionCode": "A21-088",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3482,10 +3677,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 196,
     "questionCode": "A21-089",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3500,10 +3696,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 197,
     "questionCode": "A21-090",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3518,10 +3715,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 198,
     "questionCode": "A21-091",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3536,10 +3734,11 @@
       "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 199,
     "questionCode": "A21-092",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3554,10 +3753,11 @@
       "Jobs & Occupations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 200,
     "questionCode": "A21-093",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3573,10 +3773,11 @@
       "Chores"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 201,
     "questionCode": "A21-094",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3588,10 +3789,11 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 202,
     "questionCode": "A21-095",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3603,10 +3805,11 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 203,
     "questionCode": "A21-096",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3623,10 +3826,11 @@
       "Weather"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 204,
     "questionCode": "A21-097",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3643,10 +3847,11 @@
       "School"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 205,
     "questionCode": "A21-098",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3663,10 +3868,11 @@
       "Rules"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 206,
     "questionCode": "A21-099",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3683,10 +3889,11 @@
       "Work"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 207,
     "questionCode": "A21-100",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3703,10 +3910,11 @@
       "Vacation"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 208,
     "questionCode": "A21-101",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3723,10 +3931,11 @@
       "Health"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 209,
     "questionCode": "A21-102",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3743,10 +3952,11 @@
       "Daily Life"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 210,
     "questionCode": "A21-103",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3763,10 +3973,11 @@
       "Home"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 211,
     "questionCode": "A21-104",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3783,10 +3994,11 @@
       "School"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 212,
     "questionCode": "A21-105",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3803,10 +4015,11 @@
       "Work"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 213,
     "questionCode": "A21-106",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3823,10 +4036,11 @@
       "School"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 214,
     "questionCode": "A21-107",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3843,10 +4057,11 @@
       "Work"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 215,
     "questionCode": "A21-108",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3863,10 +4078,11 @@
       "Work"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 216,
     "questionCode": "A21-109",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3882,10 +4098,11 @@
       "Past Habits"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 217,
     "questionCode": "A21-110",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3901,10 +4118,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 218,
     "questionCode": "A21-111",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3920,10 +4138,11 @@
       "Trends"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 219,
     "questionCode": "A21-112",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3939,10 +4158,11 @@
       "Residence"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 220,
     "questionCode": "A21-113",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3958,10 +4178,11 @@
       "Free Time"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 221,
     "questionCode": "A21-114",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3977,10 +4198,11 @@
       "Entertainment"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 222,
     "questionCode": "A21-115",
     "level": "A2",
     "sublevel": "A2.1",
@@ -3996,10 +4218,11 @@
       "People"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 223,
     "questionCode": "A21-116",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4015,10 +4238,11 @@
       "Vacation"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 224,
     "questionCode": "A21-117",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4034,10 +4258,11 @@
       "Food"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 225,
     "questionCode": "A21-118",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4053,10 +4278,11 @@
       "Habits"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 226,
     "questionCode": "A21-119",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4072,10 +4298,11 @@
       "Daily Habits"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 227,
     "questionCode": "A21-120",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4091,10 +4318,11 @@
       "Childhood"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 228,
     "questionCode": "A21-121",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4110,10 +4338,11 @@
       "Past Locations"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 229,
     "questionCode": "A21-122",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4129,10 +4358,11 @@
       "Free Time"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 230,
     "questionCode": "A21-123",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4147,10 +4377,11 @@
       "Right Now"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 231,
     "questionCode": "A21-124",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4166,10 +4397,11 @@
       "Plans"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 232,
     "questionCode": "A21-125",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4185,10 +4417,11 @@
       "Personal Info"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 233,
     "questionCode": "A21-126",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4204,10 +4437,11 @@
       "Activities"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 234,
     "questionCode": "A21-127",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4219,10 +4453,11 @@
     "reminder": "Reminder (I): Use \"has\" for third person singular.",
     "tags": [],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 235,
     "questionCode": "A21-128",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4234,10 +4469,11 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 236,
     "questionCode": "A21-129",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4249,10 +4485,11 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 237,
     "questionCode": "A21-130",
     "level": "A2",
     "sublevel": "A2.1",
@@ -4264,10 +4501,11 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 238,
     "questionCode": "A11-022",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4283,10 +4521,11 @@
       "Adverbs of Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 239,
     "questionCode": "A11-023",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4302,10 +4541,11 @@
       "Adverbs of Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 240,
     "questionCode": "A11-024",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4321,10 +4561,11 @@
       "Adverbs of Frequency"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 241,
     "questionCode": "A11-025",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4340,10 +4581,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 242,
     "questionCode": "A11-026",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4359,10 +4601,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 243,
     "questionCode": "A11-027",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4378,10 +4621,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 244,
     "questionCode": "A11-028",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4397,10 +4641,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 245,
     "questionCode": "A11-029",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4416,10 +4661,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 246,
     "questionCode": "A11-030",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4435,10 +4681,11 @@
       "Time Expressions"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 247,
     "questionCode": "A11-031",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4454,10 +4701,11 @@
       "Jobs"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 248,
     "questionCode": "A11-032",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4473,10 +4721,11 @@
       "Jobs"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 249,
     "questionCode": "A11-033",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4492,10 +4741,11 @@
       "Jobs"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 250,
     "questionCode": "A11-034",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4511,10 +4761,11 @@
       "Relationships"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 251,
     "questionCode": "A11-035",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4530,10 +4781,11 @@
       "Age"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 252,
     "questionCode": "A11-036",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4549,10 +4801,11 @@
       "Descriptions"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 253,
     "questionCode": "A11-037",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4568,10 +4821,11 @@
       "Identifying People"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 254,
     "questionCode": "A11-038",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4587,10 +4841,11 @@
       "Jobs"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 255,
     "questionCode": "A11-039",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4606,10 +4861,11 @@
       "Likes and Dislikes"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 256,
     "questionCode": "A11-040",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4625,10 +4881,11 @@
       "Likes and Dislikes"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 257,
     "questionCode": "A11-041",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4644,10 +4901,11 @@
       "Likes and Dislikes"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 258,
     "questionCode": "A11-042",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4663,10 +4921,11 @@
       "Likes and Dislikes"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 259,
     "questionCode": "A11-043",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4682,10 +4941,11 @@
       "Likes and Dislikes"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 260,
     "questionCode": "A11-044",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4701,10 +4961,11 @@
       "Likes and Dislikes"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 261,
     "questionCode": "A11-045",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4720,10 +4981,11 @@
       "Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 262,
     "questionCode": "A11-046",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4739,10 +5001,11 @@
       "Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 263,
     "questionCode": "A11-047",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4758,10 +5021,11 @@
       "Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 264,
     "questionCode": "A11-048",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4777,10 +5041,11 @@
       "Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 265,
     "questionCode": "A11-049",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4796,10 +5061,11 @@
       "Preferences"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 266,
     "questionCode": "A11-050",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4815,10 +5081,11 @@
       "Hobbies"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 267,
     "questionCode": "A11-051",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4833,10 +5100,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": ""
   },
   {
+    "id": 268,
     "questionCode": "B12-001",
     "level": "B1",
     "sublevel": "B1.2",
@@ -4848,10 +5116,11 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": ""
   },
   {
+    "id": 269,
     "questionCode": "B12-002",
     "level": "B1",
     "sublevel": "B1.2",
@@ -4863,10 +5132,11 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": ""
   },
   {
+    "id": 270,
     "questionCode": "B12-003",
     "level": "B1",
     "sublevel": "B1.2",
@@ -4878,10 +5148,11 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": ""
   },
   {
+    "id": 271,
     "questionCode": "B12-004",
     "level": "B1",
     "sublevel": "B1.2",
@@ -4893,55 +5164,71 @@
     "reminder": "",
     "tags": [],
     "difficulty": "",
-    "active": "",
+    "active": false,
     "contributor": ""
   },
   {
+    "id": 272,
     "questionCode": "A12-040",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you clean your room?",
     "questionTranslation": "¿Con qué frecuencia limpias tu habitación?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I clean my room once a week. / I usually clean my room on Saturdays.",
+    "answerTranslation": "Limpio mi habitación una vez por semana. / Usualmente limpio mi habitación los sábados.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "Use frequency expressions: once a week, twice a month, or frequency adverbs.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Daily Routines"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 273,
     "questionCode": "A12-041",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do the dishes?",
     "questionTranslation": "¿Con qué frecuencia lavas los platos?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I do the dishes every day after dinner.",
+    "answerTranslation": "Lavo los platos todos los días después de cenar.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "\"Do the dishes\" means to wash plates and utensils. Use EVERY DAY / ONCE A DAY.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Daily Routines"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 274,
     "questionCode": "A12-042",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you connect early to your class?",
     "questionTranslation": "¿Con qué frecuencia te conectas temprano a tu clase?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I always connect ten minutes early to my class.",
+    "answerTranslation": "Siempre me conecto diez minutos temprano a mi clase.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "Place ALWAYS before the verb: I always connect... Use \"early to\".",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "School"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 275,
     "questionCode": "A12-043",
     "level": "A1",
     "sublevel": "A1.2",
@@ -4950,137 +5237,178 @@
     "answer": "I practice Mondly every day. / I usually practice Mondly three times a week.",
     "answerTranslation": "Practico Mondly todos los días. / Usualmente practico Mondly tres veces por semana.",
     "unit": 6,
-    "reminder": "Use frequency adverbs (always, usually, sometimes, never) or expressions of frequency (every day, once a week).",
+    "reminder": "Use frequency expressions: every day, three times a week.",
     "tags": [
       "Present Simple",
       "Frequency",
-      "Habits"
+      "Daily Routines"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 276,
     "questionCode": "A12-044",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you drink coffee in the morning?",
     "questionTranslation": "¿Con qué frecuencia tomas café por la mañana?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I always drink coffee in the morning before starting work.",
+    "answerTranslation": "Siempre tomo café por la mañana antes de empezar a trabajar.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "Use ALWAYS or USUALLY before the main verb DRINK. Use \"in the morning\".",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Food"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 277,
     "questionCode": "A12-045",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do the grocery shopping?",
     "questionTranslation": "¿Con qué frecuencia haces las compras del supermercado?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I do the grocery shopping once a week on Sundays.",
+    "answerTranslation": "Hago las compras del supermercado una vez por semana los domingos.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "Use \"do the grocery shopping\" + frequency expression (once a week / on weekends).",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Shopping"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 278,
     "questionCode": "A12-046",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do exercise?",
     "questionTranslation": "¿Con qué frecuencia haces ejercicio?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I do exercise three times a week at the gym.",
+    "answerTranslation": "Hago ejercicio tres veces por semana en el gimnasio.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "Use \"do exercise\" or \"work out\". Frequency: three times a week / every day.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Health"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 279,
     "questionCode": "A12-047",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you read a book?",
     "questionTranslation": "¿Con qué frecuencia lees un libro?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I seldom read a book, but I read articles online every day.",
+    "answerTranslation": "Rara vez leo un libro, pero leo artículos en línea todos los días.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "Use frequency adverbs: seldom, rarely, sometimes, or every month.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Free Time"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 280,
     "questionCode": "A12-048",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you check the news?",
     "questionTranslation": "¿Con qué frecuencia revisas las noticias?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I check the news twice a day on my phone.",
+    "answerTranslation": "Reviso las noticias dos veces al día en mi teléfono.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "Use \"twice a day / every morning\". Use ON my phone / ON the internet.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Daily Routines"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 281,
     "questionCode": "A12-049",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you walk the dog?",
     "questionTranslation": "¿Con qué frecuencia paseas al perro?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I walk the dog twice a day, in the morning and evening.",
+    "answerTranslation": "Paseo al perro dos veces al día, por la mañana y por la noche.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "",
-    "contributor": ""
+    "reminder": "\"Walk the dog\" means to take your dog for a walk. Use twice a day / every day.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Daily Routines"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 282,
     "questionCode": "A12-050",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you water the plants?",
     "questionTranslation": "¿Con qué frecuencia riegas las plantas?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I water the plants twice a week.",
+    "answerTranslation": "Riego las plantas dos veces por semana.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "Yes",
-    "contributor": ""
+    "reminder": "\"Water\" can be a verb: to water the plants. Use twice a week / on weekends.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Daily Routines"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 283,
     "questionCode": "A12-051",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do your homework?",
     "questionTranslation": "¿Con qué frecuencia haces tu tarea?",
-    "answer": "",
-    "answerTranslation": "",
+    "answer": "I always do my homework right after class.",
+    "answerTranslation": "Siempre hago mi tarea justo después de clase.",
     "unit": 6,
-    "reminder": "",
-    "tags": [],
-    "difficulty": "",
-    "active": "Yes",
-    "contributor": ""
+    "reminder": "Use DO for homework (not MAKE). Place ALWAYS before the main verb DO.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "School"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 284,
     "questionCode": "A12-052",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5096,11 +5424,32 @@
       "Health"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 285,
     "questionCode": "A12-053",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "What are the benefits of organic food?",
+    "questionTranslation": "¿Cuáles son los beneficios de la comida orgánica?",
+    "answer": "Organic food is healthier, free of chemicals, and better for the environment.",
+    "answerTranslation": "La comida orgánica es más saludable, libre de químicos y mejor para el medio ambiente.",
+    "unit": 4,
+    "reminder": "Use comparative adjectives (healthier, better) and BE + adjective.",
+    "tags": [
+      "Present Simple",
+      "Food",
+      "Health"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 286,
+    "questionCode": "A12-054",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Do you often talk with your best friend?",
@@ -5108,36 +5457,18 @@
     "answer": "Yes, I do. I talk with my best friend every day. / No, I don't. We only talk on weekends.",
     "answerTranslation": "Sí. Hablo con mi mejor amigo(a) todos los días. / No. Solo hablamos los fines de semana.",
     "unit": 6,
-    "reminder": "Short answers: \"Yes, I do\" / \"No, I don't\". Use frequency expressions like \"every day\".",
+    "reminder": "Short answers: Yes, I do / No, I don't. Then give a complete sentence.",
     "tags": [
       "Present Simple",
       "Frequency",
-      "Friendship"
+      "People"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "questionCode": "A12-054",
-    "level": "A1",
-    "sublevel": "A1.2",
-    "question": "How often do you meet with your friends?",
-    "questionTranslation": "¿Con qué frecuencia te reúnes con tus amigos?",
-    "answer": "I usually meet with my friends on weekends. / I meet with them once a week.",
-    "answerTranslation": "Usualmente me reúno con mis amigos los fines de semana. / Me reúno con ellos una vez por semana.",
-    "unit": 6,
-    "reminder": "Use expressions of frequency: \"once a week\", \"on weekends\", or adverbs like \"usually\".",
-    "tags": [
-      "Present Simple",
-      "Frequency",
-      "Free Time"
-    ],
-    "difficulty": "Basic",
-    "active": "Yes",
-    "contributor": "Dana Ivettte Rodríguez del Cid"
-  },
-  {
+    "id": 287,
     "questionCode": "A12-055",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5153,10 +5484,11 @@
       "Jobs"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 288,
     "questionCode": "A12-056",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5172,10 +5504,11 @@
       "Places & Location"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 289,
     "questionCode": "A12-057",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5191,29 +5524,27 @@
       "Friendship"
     ],
     "difficulty": "Basic",
-    "active": "Yes",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 290,
     "questionCode": "A12-058",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you want to accomplish?",
-    "questionTranslation": "¿Qué quieres lograr?",
-    "answer": "I want to pass the English course. / I want to have my own business. / I want to graduate from school.",
-    "answerTranslation": "Quiero aprobar el curso de inglés. / Quiero tener mi propio negocio. / Quiero graduarme de la escuela.",
-    "unit": 6,
-    "reminder": "Use WANT TO + base verb: I want to pass, I want to graduate.",
-    "tags": [
-      "Present Simple",
-      "Goals & Ambitions",
-      "Future Plans"
-    ],
-    "difficulty": "Medium",
-    "active": "Yes",
-    "contributor": "Dana Ivettte Rodríguez del Cid"
+    "questionTranslation": "I want to pass/win the English course\nI want to have my own business\nI want to graduate from school",
+    "answer": "",
+    "answerTranslation": "",
+    "unit": null,
+    "reminder": "",
+    "tags": [],
+    "difficulty": "",
+    "active": false,
+    "contributor": ""
   },
   {
+    "id": 291,
     "questionCode": "A12-059",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5228,11 +5559,12 @@
       "Shopping",
       "Money"
     ],
-    "difficulty": "Medium",
-    "active": "Yes",
+    "difficulty": "Advanced",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 292,
     "questionCode": "A12-060",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5247,38 +5579,20 @@
       "Business",
       "Technology"
     ],
-    "difficulty": "Medium",
-    "active": "Yes",
+    "difficulty": "Advanced",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
+    "id": 293,
     "questionCode": "A12-061",
-    "level": "A1",
-    "sublevel": "A1.2",
-    "question": "Why is digital marketing important?",
-    "questionTranslation": "¿Por qué es importante el marketing digital?",
-    "answer": "It improves sales and brand reach because a website is available 24/7 for the whole country.",
-    "answerTranslation": "Mejora las ventas y el alcance de marca porque un sitio web está disponible 24/7 para todo el país.",
-    "unit": 6,
-    "reminder": "Use BECAUSE to explain reasons and benefits.",
-    "tags": [
-      "Present Simple",
-      "Business",
-      "Technology"
-    ],
-    "difficulty": "Medium",
-    "active": "Yes",
-    "contributor": "Dana Ivettte Rodríguez del Cid"
-  },
-  {
-    "questionCode": "A12-062",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Are you someone who usually procrastinates?",
     "questionTranslation": "¿Eres alguien que suele procrastinar?",
-    "answer": "Yes, I sometimes procrastinate when I have a lot of work. / No, I am not. I usually do my tasks on time.",
+    "answer": "Yes, I sometimes procrastinate / No, I am not. I usually do my tasks on time.",
     "answerTranslation": "Sí, a veces procrastino cuando tengo mucho trabajo. / No, no lo soy. Usualmente hago mis tareas a tiempo.",
-    "unit": 6,
+    "unit": 7,
     "reminder": "Use frequency adverbs like \"sometimes\" or \"usually\". \"Procrastinate\" means to delay or postpone action.",
     "tags": [
       "Present Simple",
@@ -5286,7 +5600,267 @@
       "Personality"
     ],
     "difficulty": "Medium",
-    "active": "Yes",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 294,
+    "questionCode": "A12-062",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Where does your English class take place?",
+    "questionTranslation": "¿Dónde se lleva a cabo tu clase de inglés?",
+    "answer": "My English class takes place online. / It takes place at the institute.",
+    "answerTranslation": "Mi clase de inglés se lleva a cabo en línea. / Se lleva a cabo en el instituto.",
+    "unit": 6,
+    "reminder": "\"Take place\" means to happen or occur in a specific place. Use AT or ONLINE.",
+    "tags": [
+      "Present Simple",
+      "School",
+      "Places & Location"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 295,
+    "questionCode": "A12-063",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "What do you do during the week?",
+    "questionTranslation": "¿Qué haces durante la semana?",
+    "answer": "During the week, I work, study English, and spend time with my family.",
+    "answerTranslation": "Durante la semana trabajo, estudio inglés y paso tiempo con mi familia.",
+    "unit": 6,
+    "reminder": "Use Present Simple for daily routines and activities. Use \"during the week\".",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "Free Time"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 296,
+    "questionCode": "A12-064",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "What's your routine? What do you do every day?",
+    "questionTranslation": "¿Cuál es tu rutina? ¿Qué haces todos los días?",
+    "answer": "I wake up early, have breakfast, work, and study in the evening.",
+    "answerTranslation": "Me despierto temprano, desayuno, trabajo y estudio por la tarde.",
+    "unit": 6,
+    "reminder": "List actions in order using the Present Simple (wake up, work, study).",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "Habits"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 297,
+    "questionCode": "A12-065",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "What do you always do on the weekends?",
+    "questionTranslation": "¿Qué haces siempre los fines de semana?",
+    "answer": "I always relax, clean my house, and visit my family on the weekends.",
+    "answerTranslation": "Siempre descanso, limpio mi casa y visito a mi familia los fines de semana.",
+    "unit": 6,
+    "reminder": "Frequency adverb ALWAYS goes before the main verb (except with BE): I always relax...",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Free Time"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 298,
+    "questionCode": "A12-066",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "What do you always go on the weekends?",
+    "questionTranslation": "¿Adónde vas siempre los fines de semana?",
+    "answer": "I always go to the supermarket or visit my grandparents on the weekends.",
+    "answerTranslation": "Siempre voy al supermercado o visito a mis abuelos los fines de semana.",
+    "unit": 6,
+    "reminder": "Use ALWAYS before the main verb GO: I always go to...",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Places & Location"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 299,
+    "questionCode": "A12-067",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Who do you seldom talk to?",
+    "questionTranslation": "¿Con quién hablas rara vez?",
+    "answer": "I seldom talk to my former coworkers or distant relatives.",
+    "answerTranslation": "Rara vez hablo con mis antiguos compañeros de trabajo o familiares lejanos.",
+    "unit": 6,
+    "reminder": "\"Seldom\" means rarely / almost never. Place it before the main verb: I seldom talk to...",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "People"
+    ],
+    "difficulty": "Medium",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 300,
+    "questionCode": "A12-068",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "What is something you hardly ever do in your free time?",
+    "questionTranslation": "¿Qué es algo que casi nunca haces en tu tiempo libre?",
+    "answer": "I hardly ever play video games or watch horror movies in my free time.",
+    "answerTranslation": "Casi nunca juego videojuegos ni veo películas de terror en mi tiempo libre.",
+    "unit": 6,
+    "reminder": "\"Hardly ever\" means almost never. Place it before the verb: I hardly ever do/play...",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Free Time"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 301,
+    "questionCode": "A12-069",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Why do you sometimes feel tired?",
+    "questionTranslation": "¿Por qué a veces te sientes cansado(a)?",
+    "answer": "I sometimes feel tired because I work long hours and wake up very early.",
+    "answerTranslation": "A veces me siento cansado(a) porque trabajo muchas horas y me despierto muy temprano.",
+    "unit": 6,
+    "reminder": "Use BECAUSE to give reasons. Use SOMETIMES before the verb: I sometimes feel...",
+    "tags": [
+      "Present Simple",
+      "Feelings",
+      "Habits"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 302,
+    "questionCode": "A12-070",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Who do you usually visit on holidays?",
+    "questionTranslation": "¿A quién visitas usualmente en los días festivos?",
+    "answer": "I usually visit my grandparents and extended family on holidays.",
+    "answerTranslation": "Usualmente visito a mis abuelos y a mi familia extendida en los días festivos.",
+    "unit": 6,
+    "reminder": "Frequency adverb USUALLY goes before the verb: I usually visit... Use ON holidays.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Family"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 303,
+    "questionCode": "A12-071",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "Who do you often talk to on the phone?",
+    "questionTranslation": "¿Con quién hablas a menudo por teléfono?",
+    "answer": "I often talk to my best friend and my mother on the phone.",
+    "answerTranslation": "A menudo hablo con mi mejor amigo/a y mi mamá por teléfono.",
+    "unit": 6,
+    "reminder": "Frequency adverb OFTEN goes before the verb: I often talk to... Use ON the phone.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Communication"
+    ],
+    "difficulty": "Medium",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 304,
+    "questionCode": "A12-072",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "When do you sometimes watch TV?",
+    "questionTranslation": "¿Cuándo ves televisión a veces?",
+    "answer": "I sometimes watch TV at night before going to sleep.",
+    "answerTranslation": "A veces veo televisión por la noche antes de ir a dormir.",
+    "unit": 6,
+    "reminder": "Use SOMETIMES before the main verb: I sometimes watch... Use AT night / IN the evening.",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Free Time"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 305,
+    "questionCode": "A12-073",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "How often do you eat breakfast?",
+    "questionTranslation": "¿Con qué frecuencia desayunas?",
+    "answer": "I always eat breakfast at 7:00 a.m. / I eat breakfast every morning.",
+    "answerTranslation": "Siempre desayuno a las 7:00 a.m. / Desayuno todas las mañanas.",
+    "unit": 6,
+    "reminder": "Use frequency adverbs (always, usually) or time expressions (every morning, every day).",
+    "tags": [
+      "Present Simple",
+      "Frequency",
+      "Food"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 306,
+    "questionCode": "A12-074",
+    "level": "A1",
+    "sublevel": "A1.2",
+    "question": "How far is your house from school or work?",
+    "questionTranslation": "¿Qué tan lejos está tu casa de la escuela o del trabajo?",
+    "answer": "My house is about 5 kilometers from work. / It is a 20-minute drive.",
+    "answerTranslation": "Mi casa está a unos 5 kilómetros del trabajo. / Está a 20 minutos en carro.",
+    "unit": 7,
+    "reminder": "Use \"How far is...\" to ask about distance. Answer with distance (km/miles) or time.",
+    "tags": [
+      "Questions with How",
+      "Distance",
+      "Places & Location"
+    ],
+    "difficulty": "Medium",
+    "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   }
 ]
