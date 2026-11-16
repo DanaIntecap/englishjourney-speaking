@@ -2561,7 +2561,7 @@
   },
   {
     "id": 137,
-    "questionCode": "A12-017",
+    "questionCode": "A12-075",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "what is your name?",
@@ -2580,7 +2580,7 @@
   },
   {
     "id": 138,
-    "questionCode": "A12-018",
+    "questionCode": "A12-076",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What is your lastname?",
@@ -2599,7 +2599,7 @@
   },
   {
     "id": 139,
-    "questionCode": "A12-019",
+    "questionCode": "A12-077",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Where are you from?",
@@ -2618,7 +2618,7 @@
   },
   {
     "id": 140,
-    "questionCode": "A12-020",
+    "questionCode": "A12-078",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Where do you live?",
@@ -2637,7 +2637,7 @@
   },
   {
     "id": 141,
-    "questionCode": "A12-021",
+    "questionCode": "A12-079",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How old are you?",
@@ -2656,7 +2656,7 @@
   },
   {
     "id": 142,
-    "questionCode": "A12-022",
+    "questionCode": "A12-080",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How are you? / How is it going? / How are you doing?",
@@ -2675,7 +2675,7 @@
   },
   {
     "id": 143,
-    "questionCode": "A12-023",
+    "questionCode": "A12-081",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you do?",
@@ -2808,7 +2808,7 @@
   },
   {
     "id": 150,
-    "questionCode": "A12-031",
+    "questionCode": "A12-082",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you do after classes?",
@@ -2827,7 +2827,7 @@
   },
   {
     "id": 151,
-    "questionCode": "A12-032",
+    "questionCode": "A12-083",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you do after breakfast",
@@ -2846,7 +2846,7 @@
   },
   {
     "id": 152,
-    "questionCode": "A12-033",
+    "questionCode": "A12-084",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you practice English?",
@@ -2865,7 +2865,7 @@
   },
   {
     "id": 153,
-    "questionCode": "A12-034",
+    "questionCode": "A12-085",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do exercise?",
@@ -2884,7 +2884,7 @@
   },
   {
     "id": 154,
-    "questionCode": "A12-035",
+    "questionCode": "A12-086",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Are you frequently tired in the morning?",
@@ -2903,7 +2903,7 @@
   },
   {
     "id": 155,
-    "questionCode": "A12-036",
+    "questionCode": "A12-087",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Are you usually early for class?",
@@ -2922,7 +2922,7 @@
   },
   {
     "id": 156,
-    "questionCode": "A12-037",
+    "questionCode": "A12-088",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you usually eat for breakfast?",
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 157,
-    "questionCode": "A12-038",
+    "questionCode": "A12-089",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you usually eat for lunch?",
@@ -2960,7 +2960,7 @@
   },
   {
     "id": 158,
-    "questionCode": "A12-039",
+    "questionCode": "A12-090",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you usually eat for dinner?",
@@ -2979,7 +2979,7 @@
   },
   {
     "id": 159,
-    "questionCode": "A12-040",
+    "questionCode": "A12-091",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you cook?",
@@ -2998,7 +2998,7 @@
   },
   {
     "id": 160,
-    "questionCode": "A12-041",
+    "questionCode": "A12-092",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Do you practice Mondly often?",
@@ -3017,7 +3017,7 @@
   },
   {
     "id": 161,
-    "questionCode": "A12-042",
+    "questionCode": "A12-093",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How do you commute to work or school?",
@@ -3036,7 +3036,7 @@
   },
   {
     "id": 162,
-    "questionCode": "A12-043",
+    "questionCode": "A12-094",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you take the bus?",
@@ -3055,7 +3055,7 @@
   },
   {
     "id": 163,
-    "questionCode": "A12-044",
+    "questionCode": "A12-095",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Do you travel often by car?",
@@ -3074,7 +3074,7 @@
   },
   {
     "id": 164,
-    "questionCode": "A12-045",
+    "questionCode": "A12-096",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How long does it take you to get to work or school?",
@@ -3093,7 +3093,7 @@
   },
   {
     "id": 165,
-    "questionCode": "A12-046",
+    "questionCode": "A12-097",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you walk to work or school?",
@@ -3112,7 +3112,7 @@
   },
   {
     "id": 166,
-    "questionCode": "A12-047",
+    "questionCode": "A12-098",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you take a taxi or Uber?",
@@ -4458,7 +4458,7 @@
   },
   {
     "id": 235,
-    "questionCode": "A21-128",
+    "questionCode": "A21-134",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "What are you wearing? (use 3 adjectives in the correct order)",
@@ -4474,7 +4474,7 @@
   },
   {
     "id": 236,
-    "questionCode": "A21-129",
+    "questionCode": "A21-135",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "Where are you? (use 3 adjectives in the correct order)",
@@ -4490,7 +4490,7 @@
   },
   {
     "id": 237,
-    "questionCode": "A21-130",
+    "questionCode": "A21-136",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "What are you wearing? (use 3 adjectives in the correct order)",
@@ -4506,7 +4506,7 @@
   },
   {
     "id": 238,
-    "questionCode": "A11-022",
+    "questionCode": "A11-052",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What do you do in the afternoons?",
@@ -4526,7 +4526,7 @@
   },
   {
     "id": 239,
-    "questionCode": "A11-023",
+    "questionCode": "A11-053",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What do you do in the evenings?",
@@ -4725,7 +4725,7 @@
   },
   {
     "id": 249,
-    "questionCode": "A11-031",
+    "questionCode": "A11-054",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What does your father do?",
@@ -4745,7 +4745,7 @@
   },
   {
     "id": 250,
-    "questionCode": "A11-032",
+    "questionCode": "A11-055",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What does your mother do?",
@@ -5208,7 +5208,7 @@
   },
   {
     "id": 274,
-    "questionCode": "A12-040",
+    "questionCode": "A12-099",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you clean your room?",
@@ -5228,7 +5228,7 @@
   },
   {
     "id": 275,
-    "questionCode": "A12-041",
+    "questionCode": "A12-100",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do the dishes?",
@@ -5248,7 +5248,7 @@
   },
   {
     "id": 276,
-    "questionCode": "A12-042",
+    "questionCode": "A12-101",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you connect early to your class?",
@@ -5268,7 +5268,7 @@
   },
   {
     "id": 277,
-    "questionCode": "A12-043",
+    "questionCode": "A12-102",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you practice Mondly?",
@@ -5288,7 +5288,7 @@
   },
   {
     "id": 278,
-    "questionCode": "A12-044",
+    "questionCode": "A12-103",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you drink coffee in the morning?",
@@ -5308,7 +5308,7 @@
   },
   {
     "id": 279,
-    "questionCode": "A12-045",
+    "questionCode": "A12-104",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do the grocery shopping?",
@@ -5328,7 +5328,7 @@
   },
   {
     "id": 280,
-    "questionCode": "A12-046",
+    "questionCode": "A12-105",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do exercise?",
@@ -5348,7 +5348,7 @@
   },
   {
     "id": 281,
-    "questionCode": "A12-047",
+    "questionCode": "A12-106",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you read a book?",
@@ -5368,7 +5368,7 @@
   },
   {
     "id": 282,
-    "questionCode": "A12-048",
+    "questionCode": "A12-107",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you check the news?",
@@ -5388,7 +5388,7 @@
   },
   {
     "id": 283,
-    "questionCode": "A12-049",
+    "questionCode": "A12-108",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you walk the dog?",
@@ -5408,7 +5408,7 @@
   },
   {
     "id": 284,
-    "questionCode": "A12-050",
+    "questionCode": "A12-109",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you water the plants?",
@@ -5428,7 +5428,7 @@
   },
   {
     "id": 285,
-    "questionCode": "A12-051",
+    "questionCode": "A12-110",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do your homework?",
@@ -5448,7 +5448,7 @@
   },
   {
     "id": 286,
-    "questionCode": "A12-052",
+    "questionCode": "A12-111",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What are the benefits of organic food?",
@@ -5468,7 +5468,7 @@
   },
   {
     "id": 287,
-    "questionCode": "A12-053",
+    "questionCode": "A12-112",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What are the benefits of organic food?",
@@ -5488,7 +5488,7 @@
   },
   {
     "id": 288,
-    "questionCode": "A12-054",
+    "questionCode": "A12-113",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Do you often talk with your best friend?",
@@ -5904,7 +5904,7 @@
   },
   {
     "id": 309,
-    "questionCode": "A11-033",
+    "questionCode": "A11-056",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "How many minutes does an hour have?",
@@ -5923,7 +5923,7 @@
   },
   {
     "id": 310,
-    "questionCode": "A11-034",
+    "questionCode": "A11-057",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "How many seconds does a minute have?",
@@ -5942,7 +5942,7 @@
   },
   {
     "id": 311,
-    "questionCode": "A11-035",
+    "questionCode": "A11-058",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What's the time, please?",
@@ -5961,7 +5961,7 @@
   },
   {
     "id": 312,
-    "questionCode": "A11-036",
+    "questionCode": "A11-059",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you get up?",
@@ -5980,7 +5980,7 @@
   },
   {
     "id": 313,
-    "questionCode": "A11-037",
+    "questionCode": "A11-060",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you study English?",
@@ -6000,7 +6000,7 @@
   },
   {
     "id": 314,
-    "questionCode": "A11-038",
+    "questionCode": "A11-061",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go to school?",
@@ -6020,7 +6020,7 @@
   },
   {
     "id": 315,
-    "questionCode": "A11-039",
+    "questionCode": "A11-062",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you eat breakfast?",
@@ -6040,7 +6040,7 @@
   },
   {
     "id": 316,
-    "questionCode": "A11-040",
+    "questionCode": "A11-063",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go to college?",
@@ -6060,7 +6060,7 @@
   },
   {
     "id": 317,
-    "questionCode": "A11-041",
+    "questionCode": "A11-064",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you do homework?",
@@ -6080,7 +6080,7 @@
   },
   {
     "id": 318,
-    "questionCode": "A11-042",
+    "questionCode": "A11-065",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go to bed?",
@@ -6099,7 +6099,7 @@
   },
   {
     "id": 319,
-    "questionCode": "A11-043",
+    "questionCode": "A11-066",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go to work?",
@@ -6119,7 +6119,7 @@
   },
   {
     "id": 320,
-    "questionCode": "A11-044",
+    "questionCode": "A11-067",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you practice English?",
@@ -6139,7 +6139,7 @@
   },
   {
     "id": 321,
-    "questionCode": "A11-045",
+    "questionCode": "A11-068",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you watch TV?",
@@ -6159,7 +6159,7 @@
   },
   {
     "id": 322,
-    "questionCode": "A11-046",
+    "questionCode": "A11-069",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go home?",
