@@ -4511,7 +4511,7 @@
     "sublevel": "A1.1",
     "question": "What do you do in the afternoons?",
     "questionTranslation": "¿Qué haces por las tardes?",
-    "answer": "In the afternoon, I often work at my office and I sometimes check my personal emails.",
+    "answer": "In the afternoon, I often work or do exercise",
     "answerTranslation": "Por la tarde, a menudo trabajo en mi oficina y a veces reviso mis correos personales.",
     "unit": 5,
     "reminder": "Adverbs of frequency (often, sometimes) go before the main verb.",
@@ -4531,8 +4531,8 @@
     "sublevel": "A1.1",
     "question": "What do you do in the evenings?",
     "questionTranslation": "¿Qué haces por las noches?",
-    "answer": "I regularly cook dinner with my family, and I sometimes watch television before going to sleep.",
-    "answerTranslation": "Regularmente cocino la cena con mi familia y rara vez veo televisión antes de irme a dormir.",
+    "answer": "I cook dinner, and I sometimes watch television.",
+    "answerTranslation": "Cocino la cena y a veces veo televisión.",
     "unit": 5,
     "reminder": "Position adverbs of frequency (regularly, rarely) before the action verb.",
     "tags": [
@@ -4551,8 +4551,8 @@
     "sublevel": "A1.1",
     "question": "What do you do after class?",
     "questionTranslation": "¿Qué haces después de clase?",
-    "answer": "After class, I always review my notes and then I usually eat a light dinner.",
-    "answerTranslation": "Después de clase, siempre repaso mis notas y luego usualmente ceno algo ligero.",
+    "answer": "After class, I always eat dinner. After class, I do homework.",
+    "answerTranslation": "Después de clase, siempre ceno. Después de clase, hago la tarea.",
     "unit": 5,
     "reminder": "Use time prepositions (after) and adverbs of frequency (always, usually).",
     "tags": [
@@ -4672,7 +4672,7 @@
     "question": "What time do you connect to your English class?",
     "questionTranslation": "¿A qué hora te conectas a tu clase de inglés?",
     "answer": "I connect to my English class at 7:00 p.m.",
-    "answerTranslation": "Me conecto a mi clase de inglés a las 7:00 p.m. en punto.",
+    "answerTranslation": "Me conecto a mi clase de inglés a las 7:00 p.m.",
     "unit": 5,
     "reminder": "Use preposition TO after connect (connect to) and AT for hours.",
     "tags": [
@@ -4689,9 +4689,48 @@
     "questionCode": "A11-031",
     "level": "A1",
     "sublevel": "A1.1",
+    "question": "What time do you study English?",
+    "questionTranslation": "¿A qué hora estudias inglés?",
+    "answer": "I study English from 8:00 to 10:00.",
+    "answerTranslation": "Estudio inglés de 8:00 a 10:00.",
+    "unit": 5,
+    "reminder": "Use FROM... TO... to express a time range.",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "School"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 248,
+    "questionCode": "A11-032",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How many hours does a day have?",
+    "questionTranslation": "¿Cuántas horas tiene un día?",
+    "answer": "A day has 24 hours. / It has 24 hours.",
+    "answerTranslation": "Un día tiene 24 horas. / Tiene 24 horas.",
+    "unit": 5,
+    "reminder": "Use \"does... have\" in questions and \"has\" in statements with singular subjects.",
+    "tags": [
+      "Questions with How",
+      "Time Expressions"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 249,
+    "questionCode": "A11-031",
+    "level": "A1",
+    "sublevel": "A1.1",
     "question": "What does your father do?",
     "questionTranslation": "¿A qué se dedica tu padre?",
-    "answer": "He is an engineer. / He works as an engineer.",
+    "answer": "He is an engineer,  or  He works as an engineer.",
     "answerTranslation": "Él es ingeniero. / Trabaja como ingeniero.",
     "unit": 6,
     "reminder": "Remember to use \"a\" or \"an\" before an occupation (\"an\" before vowel sounds).",
@@ -4705,7 +4744,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 248,
+    "id": 250,
     "questionCode": "A11-032",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4725,7 +4764,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 249,
+    "id": 251,
     "questionCode": "A11-033",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4745,7 +4784,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 250,
+    "id": 252,
     "questionCode": "A11-034",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4765,7 +4804,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 251,
+    "id": 253,
     "questionCode": "A11-035",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4785,14 +4824,14 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 252,
+    "id": 254,
     "questionCode": "A11-036",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "Describe a family member.",
     "questionTranslation": "Describe a un miembro de tu familia.",
-    "answer": "My father is tall, kind, and hardworking. He is a doctor. / My mother is friendly and creative. She works as an accountant.",
-    "answerTranslation": "Mi padre es alto, amable y trabajador. Es médico. / Mi madre es amigable y creativa. Trabaja como contadora.",
+    "answer": "My father is José. He is 42 years old. He is a doctor. / My mother is works as a shop assistant.",
+    "answerTranslation": "Mi papá es José. Tiene 42 años. Es médico. / Mi mamá trabaja como administradora.",
     "unit": 6,
     "reminder": "Combine adjectives of personality/appearance and remember \"a\" or \"an\" before the job.",
     "tags": [
@@ -4805,7 +4844,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 253,
+    "id": 255,
     "questionCode": "A11-037",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4825,14 +4864,14 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 254,
+    "id": 256,
     "questionCode": "A11-038",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What do your cousins do?",
     "questionTranslation": "¿A qué se dedican tus primos?",
-    "answer": "My cousin is an engineer and my other cousin is a designer.",
-    "answerTranslation": "Mi prima es ingeniera y mi otro primo es arquitecto.",
+    "answer": "My cousin is an engineer and my other cousin is am architect.",
+    "answerTranslation": "Mi primo es ingeniero y mi otro primo es arquitecto.",
     "unit": 6,
     "reminder": "Use \"Who\" to identify people and remember \"a\" or \"an\" before their occupation.",
     "tags": [
@@ -4845,14 +4884,14 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 255,
+    "id": 257,
     "questionCode": "A11-039",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What do you like doing?",
     "questionTranslation": "¿Qué te gusta hacer?",
-    "answer": "I love reading books and I enjoy cooking with my family. / I like traveling and watching movies.",
-    "answerTranslation": "Me encanta leer libros y disfruto cocinar con mi familia. / Me gusta viajar y ver películas.",
+    "answer": "I love reading books and I cooking with my family. / I like traveling and watching movies.",
+    "answerTranslation": "Me encanta leer libros y cocinar con mi familia. / Me gusta viajar y pasar tiempo con mis amigos.",
     "unit": 7,
     "reminder": "Express preferences using: I love + -ing, I enjoy + -ing, or I like + -ing.",
     "tags": [
@@ -4865,7 +4904,7 @@
     "contributor": ""
   },
   {
-    "id": 256,
+    "id": 258,
     "questionCode": "A11-040",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4880,19 +4919,19 @@
       "Sports",
       "Likes and Dislikes"
     ],
-    "difficulty": "Basic",
+    "difficulty": "Medium",
     "active": true,
     "contributor": ""
   },
   {
-    "id": 257,
+    "id": 259,
     "questionCode": "A11-041",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "Do you like cooking?",
     "questionTranslation": "¿Te gusta cocinar?",
-    "answer": "Yes, I do. I enjoy cooking Italian food. / No, I don't. I don't like cooking at all.",
-    "answerTranslation": "Sí. Disfruto cocinar comida italiana. / No. No me gusta cocinar para nada.",
+    "answer": "Yes, I do. I enjoy cooking Italian food. / No, I don't. I don't like cooking.",
+    "answerTranslation": "Sí. Disfruto cocinar comida italiana. / No. No me gusta cocinar.",
     "unit": 7,
     "reminder": "Short answers: \"Yes, I do\" or \"No, I don't\". Remember to use: I enjoy -ing / I don't like cooking.",
     "tags": [
@@ -4905,7 +4944,7 @@
     "contributor": ""
   },
   {
-    "id": 258,
+    "id": 260,
     "questionCode": "A11-042",
     "level": "A1",
     "sublevel": "A1.1",
@@ -4925,14 +4964,14 @@
     "contributor": ""
   },
   {
-    "id": 259,
+    "id": 261,
     "questionCode": "A11-043",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "Do you like playing video games?",
     "questionTranslation": "¿Te gusta jugar videojuegos?",
-    "answer": "Yes, I do. I enjoy playing video games on weekends. / No, I don't. I don't like playing video games.",
-    "answerTranslation": "Sí. Disfruto jugar videojuegos los fines de semana. / No. No me gustan los videojuegos.",
+    "answer": "Yes, I do. I love playing video games. / No, I don't. I don't like playing video games.",
+    "answerTranslation": "Sí. Me encanta jugar videojuegos. / No. No me gusta jugar videojuegos.",
     "unit": 7,
     "reminder": "Short answers: \"Yes, I do\" or \"No, I don't\". Remember: enjoy + -ing / like + -ing.",
     "tags": [
@@ -4945,14 +4984,14 @@
     "contributor": ""
   },
   {
-    "id": 260,
+    "id": 262,
     "questionCode": "A11-044",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "Do you like waking up early?",
     "questionTranslation": "¿Te gusta despertarte temprano?",
-    "answer": "Yes, I do. I like waking up early to exercise. / No, I don't. I hate waking up early; I don't like it.",
-    "answerTranslation": "Sí. Me gusta levantarme temprano para hacer ejercicio. / No. Odio levantarme temprano; no me gusta.",
+    "answer": "Yes, I do. I like waking up early. / No, I don't. I hate waking up early; I don't like it.",
+    "answerTranslation": "Sí. Me gusta levantarme temprano. / No. Odio levantarme temprano; no me gusta.",
     "unit": 7,
     "reminder": "Short answers: \"Yes, I do\" or \"No, I don't\". Use verb + -ing after like/love/hate.",
     "tags": [
@@ -4965,14 +5004,14 @@
     "contributor": ""
   },
   {
-    "id": 261,
+    "id": 263,
     "questionCode": "A11-045",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What books do you like reading?",
     "questionTranslation": "¿Qué libros te gusta leer?",
-    "answer": "I enjoy reading mystery novels. / Actually, I don't like reading books very much.",
-    "answerTranslation": "Disfruto leer novelas de misterio. / La verdad, no me gusta mucho leer libros.",
+    "answer": "I enjoy reading mystery novels. / I don't like reading books.",
+    "answerTranslation": "Disfruto leer novelas de misterio. / No me gusta leer libros.",
     "unit": 7,
     "reminder": "Use: I love -ing / I enjoy -ing. If negative: \"I don't like reading...\".",
     "tags": [
@@ -4980,19 +5019,19 @@
       "Books",
       "Preferences"
     ],
-    "difficulty": "Basic",
+    "difficulty": "Medium",
     "active": true,
     "contributor": ""
   },
   {
-    "id": 262,
+    "id": 264,
     "questionCode": "A11-046",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What do you like watching on TV?",
     "questionTranslation": "¿Qué te gusta ver en la televisión?",
     "answer": "I love watching comedy shows and documentaries. / I don't like watching TV; I prefer watching YouTube.",
-    "answerTranslation": "Me encanta ver programas de comedia y documentales. / No me gusta ver televisión; prefiero ver YouTube.",
+    "answerTranslation": "Me encanta ver programas de comedia y documentales. / No me gusta ver televisión; prefiero ver películas.",
     "unit": 7,
     "reminder": "Use: I love -ing / I enjoy -ing. If negative: \"I don't like watching TV\".",
     "tags": [
@@ -5000,12 +5039,12 @@
       "Entertainment",
       "Preferences"
     ],
-    "difficulty": "Basic",
+    "difficulty": "Medium",
     "active": true,
     "contributor": ""
   },
   {
-    "id": 263,
+    "id": 265,
     "questionCode": "A11-047",
     "level": "A1",
     "sublevel": "A1.1",
@@ -5020,19 +5059,19 @@
       "Music",
       "Preferences"
     ],
-    "difficulty": "Basic",
+    "difficulty": "Medium",
     "active": true,
     "contributor": ""
   },
   {
-    "id": 264,
+    "id": 266,
     "questionCode": "A11-048",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What food do you like cooking?",
     "questionTranslation": "¿Qué comida te gusta cocinar?",
-    "answer": "I love cooking pasta and traditional dishes. / I don't like cooking; I prefer ordering delivery.",
-    "answerTranslation": "Me encanta cocinar pasta y platos tradicionales. / No me gusta cocinar; prefiero pedir a domicilio.",
+    "answer": "I love cooking desserts and traditional food. / I don't like cooking",
+    "answerTranslation": "e encanta cocinar postres y comida tradicional. / No me gusta cocinar.",
     "unit": 7,
     "reminder": "Use: I love cooking... / I enjoy cooking... If negative: \"I don't like cooking\".",
     "tags": [
@@ -5045,14 +5084,14 @@
     "contributor": ""
   },
   {
-    "id": 265,
+    "id": 267,
     "questionCode": "A11-049",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What sports do you like watching?",
     "questionTranslation": "¿Qué deportes te gusta ver?",
-    "answer": "I enjoy watching soccer and basketball games. / I don't like watching sports; I prefer playing them.",
-    "answerTranslation": "Disfruto ver partidos de fútbol y baloncesto. / No me gusta ver deportes; prefiero jugarlos.",
+    "answer": "I enjoy watching soccer . / I don't like watching sports.",
+    "answerTranslation": "Disfruto ver fútbol. / No me gusta ver deportes.",
     "unit": 7,
     "reminder": "Remember: I love watching... / I enjoy watching... If negative: \"I don't like watching sports\".",
     "tags": [
@@ -5065,14 +5104,14 @@
     "contributor": ""
   },
   {
-    "id": 266,
+    "id": 268,
     "questionCode": "A11-050",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What instruments do you like playing?",
     "questionTranslation": "¿Qué instrumentos te gusta tocar?",
-    "answer": "I love playing the guitar and the piano. / I don't play any instruments, but I'd like to learn the drums.",
-    "answerTranslation": "Me encanta tocar la guitarra y el piano. / No toco ningún instrumento, pero me gustaría aprender batería.",
+    "answer": "I love playing the guitar and the piano. / I don't like playing instruments.",
+    "answerTranslation": "Me encanta tocar la guitarra y el piano. / No me gusta tocar instrumentos.",
     "unit": 7,
     "reminder": "Always use THE before musical instruments: \"play THE guitar\", \"play THE piano\". Use I love / I enjoy + -ing.",
     "tags": [
@@ -5080,19 +5119,19 @@
       "Music",
       "Hobbies"
     ],
-    "difficulty": "Basic",
+    "difficulty": "Medium",
     "active": true,
     "contributor": ""
   },
   {
-    "id": 267,
+    "id": 269,
     "questionCode": "A11-051",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "Where would you like to go in the city?",
     "questionTranslation": "¿Adónde te gustaría ir en la ciudad?",
-    "answer": "I would like to go to the airport / mall / cinema / Aurora zoo / park",
-    "answerTranslation": "Me gustaría ir al aeropuerto / centro comercial / cine / zoológico la Aurora / parque.",
+    "answer": "I would like to go to the airport / mall / cinema / Aurora zoo /",
+    "answerTranslation": "Me encanta tocar la guitarra y el piano. / No me gusta tocar instrumentos.",
     "unit": 7,
     "reminder": "You can be specific: I would like to go to the Tikal National Park . Remember the pronunciation of Would is: wud. Remember to use \"to\" + THE+before the place. Example: TO the zoo, to the hospital, to the gas station",
     "tags": [
@@ -5104,7 +5143,7 @@
     "contributor": ""
   },
   {
-    "id": 268,
+    "id": 270,
     "questionCode": "B12-001",
     "level": "B1",
     "sublevel": "B1.2",
@@ -5120,7 +5159,7 @@
     "contributor": ""
   },
   {
-    "id": 269,
+    "id": 271,
     "questionCode": "B12-002",
     "level": "B1",
     "sublevel": "B1.2",
@@ -5136,7 +5175,7 @@
     "contributor": ""
   },
   {
-    "id": 270,
+    "id": 272,
     "questionCode": "B12-003",
     "level": "B1",
     "sublevel": "B1.2",
@@ -5152,7 +5191,7 @@
     "contributor": ""
   },
   {
-    "id": 271,
+    "id": 273,
     "questionCode": "B12-004",
     "level": "B1",
     "sublevel": "B1.2",
@@ -5168,7 +5207,7 @@
     "contributor": ""
   },
   {
-    "id": 272,
+    "id": 274,
     "questionCode": "A12-040",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5188,7 +5227,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 273,
+    "id": 275,
     "questionCode": "A12-041",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5208,7 +5247,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 274,
+    "id": 276,
     "questionCode": "A12-042",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5228,7 +5267,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 275,
+    "id": 277,
     "questionCode": "A12-043",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5248,7 +5287,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 276,
+    "id": 278,
     "questionCode": "A12-044",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5268,7 +5307,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 277,
+    "id": 279,
     "questionCode": "A12-045",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5288,7 +5327,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 278,
+    "id": 280,
     "questionCode": "A12-046",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5308,7 +5347,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 279,
+    "id": 281,
     "questionCode": "A12-047",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5328,7 +5367,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 280,
+    "id": 282,
     "questionCode": "A12-048",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5348,7 +5387,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 281,
+    "id": 283,
     "questionCode": "A12-049",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5368,7 +5407,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 282,
+    "id": 284,
     "questionCode": "A12-050",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5388,7 +5427,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 283,
+    "id": 285,
     "questionCode": "A12-051",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5408,7 +5447,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 284,
+    "id": 286,
     "questionCode": "A12-052",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5428,7 +5467,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 285,
+    "id": 287,
     "questionCode": "A12-053",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5448,7 +5487,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 286,
+    "id": 288,
     "questionCode": "A12-054",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5468,7 +5507,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 287,
+    "id": 289,
     "questionCode": "A12-055",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5488,7 +5527,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 288,
+    "id": 290,
     "questionCode": "A12-056",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5508,7 +5547,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 289,
+    "id": 291,
     "questionCode": "A12-057",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5528,7 +5567,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 290,
+    "id": 292,
     "questionCode": "A12-058",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5544,7 +5583,7 @@
     "contributor": ""
   },
   {
-    "id": 291,
+    "id": 293,
     "questionCode": "A12-059",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5564,7 +5603,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 292,
+    "id": 294,
     "questionCode": "A12-060",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5584,7 +5623,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 293,
+    "id": 295,
     "questionCode": "A12-061",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5604,7 +5643,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 294,
+    "id": 296,
     "questionCode": "A12-062",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5624,7 +5663,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 295,
+    "id": 297,
     "questionCode": "A12-063",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5644,7 +5683,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 296,
+    "id": 298,
     "questionCode": "A12-064",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5664,7 +5703,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 297,
+    "id": 299,
     "questionCode": "A12-065",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5684,7 +5723,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 298,
+    "id": 300,
     "questionCode": "A12-066",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5704,7 +5743,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 299,
+    "id": 301,
     "questionCode": "A12-067",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5724,7 +5763,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 300,
+    "id": 302,
     "questionCode": "A12-068",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5744,7 +5783,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 301,
+    "id": 303,
     "questionCode": "A12-069",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5764,7 +5803,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 302,
+    "id": 304,
     "questionCode": "A12-070",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5784,7 +5823,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 303,
+    "id": 305,
     "questionCode": "A12-071",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5804,7 +5843,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 304,
+    "id": 306,
     "questionCode": "A12-072",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5824,7 +5863,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 305,
+    "id": 307,
     "questionCode": "A12-073",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5844,7 +5883,7 @@
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
-    "id": 306,
+    "id": 308,
     "questionCode": "A12-074",
     "level": "A1",
     "sublevel": "A1.2",
@@ -5860,6 +5899,281 @@
       "Places & Location"
     ],
     "difficulty": "Medium",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 309,
+    "questionCode": "A11-033",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How many minutes does an hour have?",
+    "questionTranslation": "¿Cuántos minutos tiene una hora?",
+    "answer": "An hour has 60 minutes. / It has 60 minutes.",
+    "answerTranslation": "Una hora tiene 60 minutos. / Tiene 60 minutos.",
+    "unit": 5,
+    "reminder": "Notice: \"hour\" begins with a silent 'h', use \"an hour\".",
+    "tags": [
+      "Questions with How",
+      "Time Expressions"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 310,
+    "questionCode": "A11-034",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How many seconds does a minute have?",
+    "questionTranslation": "¿Cuántos segundos tiene un minuto?",
+    "answer": "A minute has 60 seconds. / It has 60 seconds.",
+    "answerTranslation": "Un minuto tiene 60 segundos. / Tiene 60 segundos.",
+    "unit": 5,
+    "reminder": "Use \"How many\" with countable plural nouns (seconds, minutes, hours).",
+    "tags": [
+      "Questions with How",
+      "Time Expressions"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 311,
+    "questionCode": "A11-035",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What's the time, please?",
+    "questionTranslation": "¿Qué hora es, por favor?",
+    "answer": "It is 3:00 p.m. / It's half past three.",
+    "answerTranslation": "Son las 3:00 p.m. / Son las tres y media.",
+    "unit": 5,
+    "reminder": "Use \"It is\" or \"It's\" to tell the time.",
+    "tags": [
+      "Telling Time",
+      "Time Expressions"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 312,
+    "questionCode": "A11-036",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you get up?",
+    "questionTranslation": "¿A qué hora te levantas?",
+    "answer": "I get up at 6:00 a.m.",
+    "answerTranslation": "Me levanto a las 6:00 a.m.",
+    "unit": 5,
+    "reminder": "Use AT before specific times (at 6:00 a.m.).",
+    "tags": [
+      "Present Simple",
+      "Daily Routines"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 313,
+    "questionCode": "A11-037",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you study English?",
+    "questionTranslation": "¿A qué hora estudias inglés?",
+    "answer": "I study English at 7:00 p.m.",
+    "answerTranslation": "Estudio inglés a las 7:00 p.m.",
+    "unit": 5,
+    "reminder": "Use AT before specific times.",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "School"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 314,
+    "questionCode": "A11-038",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you go to school?",
+    "questionTranslation": "¿A qué hora vas a la escuela?",
+    "answer": "I go to school at 7:30 a.m.",
+    "answerTranslation": "Voy a la escuela a las 7:30 a.m.",
+    "unit": 5,
+    "reminder": "Use AT before specific times.",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "School"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 315,
+    "questionCode": "A11-039",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you eat breakfast?",
+    "questionTranslation": "¿A qué hora desayunas?",
+    "answer": "I eat breakfast at 8:00 a.m.",
+    "answerTranslation": "Desayuno a las 8:00 a.m.",
+    "unit": 5,
+    "reminder": "You can also say: \"I have breakfast at...\".",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "Food"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 316,
+    "questionCode": "A11-040",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you go to college?",
+    "questionTranslation": "¿A qué hora vas a la universidad?",
+    "answer": "I go to college at 1:30 p.m.",
+    "answerTranslation": "Voy a la universidad a la 1:30 p.m.",
+    "unit": 5,
+    "reminder": "Use AT before specific times.",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "School"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 317,
+    "questionCode": "A11-041",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you do homework?",
+    "questionTranslation": "¿A qué hora haces la tarea?",
+    "answer": "I do homework at 4:00 p.m.",
+    "answerTranslation": "Hago la tarea a las 4:00 p.m.",
+    "unit": 5,
+    "reminder": "Use DO for homework (not make).",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "School"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 318,
+    "questionCode": "A11-042",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you go to bed?",
+    "questionTranslation": "¿A qué hora te vas a la cama / a dormir?",
+    "answer": "I go to bed at 10:30 p.m.",
+    "answerTranslation": "Me voy a la cama a las 10:30 p.m.",
+    "unit": 5,
+    "reminder": "Use AT before specific times.",
+    "tags": [
+      "Present Simple",
+      "Daily Routines"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 319,
+    "questionCode": "A11-043",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you go to work?",
+    "questionTranslation": "¿A qué hora vas al trabajo?",
+    "answer": "I go to work at 8:00 a.m.",
+    "answerTranslation": "Voy al trabajo a las 8:00 a.m.",
+    "unit": 5,
+    "reminder": "Use AT before specific times.",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "Jobs & Occupations"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 320,
+    "questionCode": "A11-044",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you practice English?",
+    "questionTranslation": "¿A qué hora practicas inglés?",
+    "answer": "I practice English at 6:00 p.m.",
+    "answerTranslation": "Practico inglés a las 6:00 p.m.",
+    "unit": 5,
+    "reminder": "Use AT before specific times.",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "School"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 321,
+    "questionCode": "A11-045",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you watch TV?",
+    "questionTranslation": "¿A qué hora ves televisión?",
+    "answer": "I watch TV at 8:30 p.m.",
+    "answerTranslation": "Veo televisión a las 8:30 p.m.",
+    "unit": 5,
+    "reminder": "Use AT before specific times.",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "Free Time"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 322,
+    "questionCode": "A11-046",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What time do you go home?",
+    "questionTranslation": "¿A qué hora te vas a casa?",
+    "answer": "I go home at 5:00 p.m.",
+    "answerTranslation": "Me voy a casa a las 5:00 p.m.",
+    "unit": 5,
+    "reminder": "Notice: \"go home\" does not take \"to\".",
+    "tags": [
+      "Present Simple",
+      "Daily Routines",
+      "Places & Location"
+    ],
+    "difficulty": "Basic",
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   }
