@@ -9,7 +9,7 @@
     "answer": "My name is Dana.",
     "answerTranslation": "Me llamo Dana.",
     "unit": 1,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Verb to be",
       "Personal Information"
@@ -28,7 +28,7 @@
     "answer": "My last name is Rodriguez.",
     "answerTranslation": "Mi apellido es Rodríguez.",
     "unit": 1,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Verb to be",
       "Personal Information"
@@ -99,7 +99,7 @@
     "questionCode": "A11-006",
     "level": "A1",
     "sublevel": "A1.1",
-    "question": "How are you? / How is it going? / How are you doing?",
+    "question": "How are you?",
     "questionTranslation": "¿Cómo estás? / ¿Cómo te va? / ¿Cómo te está yendo?",
     "answer": "I’m fine, thanks.",
     "answerTranslation": "Estoy bien, gracias.",
@@ -807,7 +807,7 @@
     "answer": "Yes, I was tired yesterday because I worked all day.",
     "answerTranslation": "Sí, estaba cansado(a) ayer porque trabajé todo el día.",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Past Simple",
       "Feelings"
@@ -826,7 +826,7 @@
     "answer": "The last time I was extremely happy was last weekend when I spent time with my family.",
     "answerTranslation": "La última vez que estuve extremadamente feliz fue el fin de semana pasado cuando pasé tiempo con mi familia.",
     "unit": 1,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Past Simple",
       "Feelings"
@@ -845,7 +845,7 @@
     "answer": "My family and some close friends were with me on my last birthday.",
     "answerTranslation": "Mi familia y algunos amigos cercanos estuvieron conmigo en mi último cumpleaños.",
     "unit": 1,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Past Simple",
       "Dates & Celebrations"
@@ -902,7 +902,7 @@
     "answer": "It was really good. It was exhausting. It was interesting because we went to the theater.",
     "answerTranslation": "Fue realmente bueno. Fue agotador. Fue interesante porque fuimos al teatro.",
     "unit": 1,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Past Simple",
       "Free Time"
@@ -1890,7 +1890,7 @@
       "Modal Can",
       "Abilities"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -1909,7 +1909,7 @@
       "Modal Can",
       "Abilities"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -1928,7 +1928,7 @@
       "Modal Can",
       "Places & Location"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -1947,7 +1947,7 @@
       "Modal Can",
       "Shopping"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -1966,7 +1966,7 @@
       "Modal Can",
       "Food"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -1985,7 +1985,7 @@
       "Modal Can",
       "Language Learning"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -2004,7 +2004,7 @@
       "Modal Can",
       "Food"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -2023,7 +2023,7 @@
       "Modal Can",
       "Abilities"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -2042,7 +2042,7 @@
       "Modal Can",
       "Abilities"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -2061,7 +2061,7 @@
       "Modal Can",
       "Abilities"
     ],
-    "difficulty": "",
+    "difficulty": null,
     "active": true,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -2550,7 +2550,7 @@
     "answer": "No, I wasn't late for class. I arrived on time.",
     "answerTranslation": "No, no llegué tarde a clase. Llegué a tiempo.",
     "unit": 1,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Past Simple",
       "School"
@@ -2561,7 +2561,7 @@
   },
   {
     "id": 137,
-    "questionCode": "A12-075",
+    "questionCode": "A12-017",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "what is your name?",
@@ -2569,7 +2569,7 @@
     "answer": "My name is Dana.",
     "answerTranslation": "Me llamo Dana.",
     "unit": 1,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Verb to be",
       "Personal Information"
@@ -2580,7 +2580,7 @@
   },
   {
     "id": 138,
-    "questionCode": "A12-076",
+    "questionCode": "A12-018",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What is your lastname?",
@@ -2588,7 +2588,7 @@
     "answer": "My last name is Rodriguez.",
     "answerTranslation": "Mi apellido es Rodríguez.",
     "unit": 1,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Verb to be",
       "Personal Information"
@@ -2599,7 +2599,7 @@
   },
   {
     "id": 139,
-    "questionCode": "A12-077",
+    "questionCode": "A12-019",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Where are you from?",
@@ -2618,7 +2618,7 @@
   },
   {
     "id": 140,
-    "questionCode": "A12-078",
+    "questionCode": "A12-020",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Where do you live?",
@@ -2637,7 +2637,7 @@
   },
   {
     "id": 141,
-    "questionCode": "A12-079",
+    "questionCode": "A12-021",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How old are you?",
@@ -2656,7 +2656,7 @@
   },
   {
     "id": 142,
-    "questionCode": "A12-080",
+    "questionCode": "A12-022",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How are you? / How is it going? / How are you doing?",
@@ -2675,7 +2675,7 @@
   },
   {
     "id": 143,
-    "questionCode": "A12-081",
+    "questionCode": "A12-023",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you do?",
@@ -2808,7 +2808,7 @@
   },
   {
     "id": 150,
-    "questionCode": "A12-082",
+    "questionCode": "A12-031",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you do after classes?",
@@ -2816,7 +2816,7 @@
     "answer": "I usually take a break after class. I always leave for work after class. I normally take breakfast after class.",
     "answerTranslation": "Normalmente tomo un descanso después de clase. Siempre salgo a trabajar después de clase. Normalmente desayuno después de clase.",
     "unit": 5,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Present Simple",
       "Daily Routines"
@@ -2827,7 +2827,7 @@
   },
   {
     "id": 151,
-    "questionCode": "A12-083",
+    "questionCode": "A12-032",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you do after breakfast",
@@ -2835,7 +2835,7 @@
     "answer": "I generally connect to my English class after breakfast. After breakfast, I always wash the dishes.",
     "answerTranslation": "Por lo general me conecto a mi clase de inglés después del desayuno. Después del desayuno, siempre lavo los platos.",
     "unit": 5,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Present Simple",
       "Daily Routines"
@@ -2846,7 +2846,7 @@
   },
   {
     "id": 152,
-    "questionCode": "A12-084",
+    "questionCode": "A12-033",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you practice English?",
@@ -2865,7 +2865,7 @@
   },
   {
     "id": 153,
-    "questionCode": "A12-085",
+    "questionCode": "A12-034",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do exercise?",
@@ -2884,7 +2884,7 @@
   },
   {
     "id": 154,
-    "questionCode": "A12-086",
+    "questionCode": "A12-035",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Are you frequently tired in the morning?",
@@ -2903,7 +2903,7 @@
   },
   {
     "id": 155,
-    "questionCode": "A12-087",
+    "questionCode": "A12-036",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Are you usually early for class?",
@@ -2911,7 +2911,7 @@
     "answer": "Yes, I am. I am normally early for class. No, I'm not. I'm usually a little late for class.",
     "answerTranslation": "Sí. Normalmente llego temprano a clase. No. Suelo llegar un poco tarde a clase.",
     "unit": 6,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Verb to be",
       "Frequency"
@@ -2922,7 +2922,7 @@
   },
   {
     "id": 156,
-    "questionCode": "A12-088",
+    "questionCode": "A12-037",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you usually eat for breakfast?",
@@ -2941,7 +2941,7 @@
   },
   {
     "id": 157,
-    "questionCode": "A12-089",
+    "questionCode": "A12-038",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you usually eat for lunch?",
@@ -2949,7 +2949,7 @@
     "answer": "I normally eat chicken with rice, and salad for lunch I often eat pasta and vegetables.",
     "answerTranslation": "Normalmente como pollo con arroz y ensalada para el almuerzo. A menudo como pasta y verduras.",
     "unit": 6,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Present Simple",
       "Frequency"
@@ -2960,7 +2960,7 @@
   },
   {
     "id": 158,
-    "questionCode": "A12-090",
+    "questionCode": "A12-039",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What do you usually eat for dinner?",
@@ -2968,7 +2968,7 @@
     "answer": "I normally eat a sandwich and some fruit. I often have soup with some bread.",
     "answerTranslation": "Normalmente ceno un sándwich y fruta. A veces tomo sopa y pan para la cena.",
     "unit": 6,
-    "reminder": "",
+    "reminder": null,
     "tags": [
       "Present Simple",
       "Frequency"
@@ -2979,7 +2979,7 @@
   },
   {
     "id": 159,
-    "questionCode": "A12-091",
+    "questionCode": "A12-040",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you cook?",
@@ -2998,7 +2998,7 @@
   },
   {
     "id": 160,
-    "questionCode": "A12-092",
+    "questionCode": "A12-041",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Do you practice Mondly often?",
@@ -3017,7 +3017,7 @@
   },
   {
     "id": 161,
-    "questionCode": "A12-093",
+    "questionCode": "A12-042",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How do you commute to work or school?",
@@ -3036,7 +3036,7 @@
   },
   {
     "id": 162,
-    "questionCode": "A12-094",
+    "questionCode": "A12-043",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you take the bus?",
@@ -3055,7 +3055,7 @@
   },
   {
     "id": 163,
-    "questionCode": "A12-095",
+    "questionCode": "A12-044",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Do you travel often by car?",
@@ -3074,7 +3074,7 @@
   },
   {
     "id": 164,
-    "questionCode": "A12-096",
+    "questionCode": "A12-045",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How long does it take you to get to work or school?",
@@ -3093,7 +3093,7 @@
   },
   {
     "id": 165,
-    "questionCode": "A12-097",
+    "questionCode": "A12-046",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you walk to work or school?",
@@ -3112,7 +3112,7 @@
   },
   {
     "id": 166,
-    "questionCode": "A12-098",
+    "questionCode": "A12-047",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you take a taxi or Uber?",
@@ -3786,9 +3786,9 @@
     "answer": "He or she has to do exercise and to eat fruits and vegetables. That person has to drink a lot of water.",
     "answerTranslation": "Él o ella tiene que hacer ejercicio y comer frutas y verduras. Esa persona tiene que beber mucha agua.",
     "unit": 6,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -3802,9 +3802,9 @@
     "answer": "He or she has to particitipate in English classes; She has to listen to audios in English, like podcasts and songs. That person has to watch movies in English.",
     "answerTranslation": "Él o ella tiene que participar en clases de inglés; ella tiene que escuchar audios en inglés, como podcasts y canciones. Esa persona tiene que ver películas en inglés.",
     "unit": 6,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
@@ -4458,7 +4458,7 @@
   },
   {
     "id": 235,
-    "questionCode": "A21-134",
+    "questionCode": "A21-128",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "What are you wearing? (use 3 adjectives in the correct order)",
@@ -4466,15 +4466,15 @@
     "answer": "",
     "answerTranslation": "",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "id": 236,
-    "questionCode": "A21-135",
+    "questionCode": "A21-129",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "Where are you? (use 3 adjectives in the correct order)",
@@ -4482,15 +4482,15 @@
     "answer": "",
     "answerTranslation": "",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "id": 237,
-    "questionCode": "A21-136",
+    "questionCode": "A21-130",
     "level": "A2",
     "sublevel": "A2.1",
     "question": "What are you wearing? (use 3 adjectives in the correct order)",
@@ -4498,15 +4498,15 @@
     "answer": "",
     "answerTranslation": "",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
     "contributor": "Dana Ivettte Rodríguez del Cid"
   },
   {
     "id": 238,
-    "questionCode": "A11-052",
+    "questionCode": "A11-022",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What do you do in the afternoons?",
@@ -4526,7 +4526,7 @@
   },
   {
     "id": 239,
-    "questionCode": "A11-053",
+    "questionCode": "A11-023",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What do you do in the evenings?",
@@ -4725,7 +4725,7 @@
   },
   {
     "id": 249,
-    "questionCode": "A11-054",
+    "questionCode": "A11-031",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What does your father do?",
@@ -4745,7 +4745,7 @@
   },
   {
     "id": 250,
-    "questionCode": "A11-055",
+    "questionCode": "A11-032",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What does your mother do?",
@@ -4901,7 +4901,7 @@
     ],
     "difficulty": "Basic",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 258,
@@ -4921,7 +4921,7 @@
     ],
     "difficulty": "Medium",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 259,
@@ -4941,7 +4941,7 @@
     ],
     "difficulty": "Basic",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 260,
@@ -4961,7 +4961,7 @@
     ],
     "difficulty": "Basic",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 261,
@@ -4981,7 +4981,7 @@
     ],
     "difficulty": "Basic",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 262,
@@ -5001,7 +5001,7 @@
     ],
     "difficulty": "Basic",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 263,
@@ -5021,7 +5021,7 @@
     ],
     "difficulty": "Medium",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 264,
@@ -5041,7 +5041,7 @@
     ],
     "difficulty": "Medium",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 265,
@@ -5061,7 +5061,7 @@
     ],
     "difficulty": "Medium",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 266,
@@ -5081,7 +5081,7 @@
     ],
     "difficulty": "Basic",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 267,
@@ -5101,7 +5101,7 @@
     ],
     "difficulty": "Basic",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 268,
@@ -5121,7 +5121,7 @@
     ],
     "difficulty": "Medium",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 269,
@@ -5140,7 +5140,7 @@
     ],
     "difficulty": "Basic",
     "active": true,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 270,
@@ -5152,11 +5152,11 @@
     "answer": "",
     "answerTranslation": "",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 271,
@@ -5168,11 +5168,11 @@
     "answer": "",
     "answerTranslation": "",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 272,
@@ -5184,11 +5184,11 @@
     "answer": "",
     "answerTranslation": "",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 273,
@@ -5200,15 +5200,15 @@
     "answer": "",
     "answerTranslation": "",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 274,
-    "questionCode": "A12-099",
+    "questionCode": "A12-040",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you clean your room?",
@@ -5228,7 +5228,7 @@
   },
   {
     "id": 275,
-    "questionCode": "A12-100",
+    "questionCode": "A12-041",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do the dishes?",
@@ -5248,7 +5248,7 @@
   },
   {
     "id": 276,
-    "questionCode": "A12-101",
+    "questionCode": "A12-042",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you connect early to your class?",
@@ -5268,7 +5268,7 @@
   },
   {
     "id": 277,
-    "questionCode": "A12-102",
+    "questionCode": "A12-043",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you practice Mondly?",
@@ -5288,7 +5288,7 @@
   },
   {
     "id": 278,
-    "questionCode": "A12-103",
+    "questionCode": "A12-044",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you drink coffee in the morning?",
@@ -5308,7 +5308,7 @@
   },
   {
     "id": 279,
-    "questionCode": "A12-104",
+    "questionCode": "A12-045",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do the grocery shopping?",
@@ -5328,7 +5328,7 @@
   },
   {
     "id": 280,
-    "questionCode": "A12-105",
+    "questionCode": "A12-046",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do exercise?",
@@ -5348,7 +5348,7 @@
   },
   {
     "id": 281,
-    "questionCode": "A12-106",
+    "questionCode": "A12-047",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you read a book?",
@@ -5368,7 +5368,7 @@
   },
   {
     "id": 282,
-    "questionCode": "A12-107",
+    "questionCode": "A12-048",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you check the news?",
@@ -5388,7 +5388,7 @@
   },
   {
     "id": 283,
-    "questionCode": "A12-108",
+    "questionCode": "A12-049",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you walk the dog?",
@@ -5408,7 +5408,7 @@
   },
   {
     "id": 284,
-    "questionCode": "A12-109",
+    "questionCode": "A12-050",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you water the plants?",
@@ -5428,7 +5428,7 @@
   },
   {
     "id": 285,
-    "questionCode": "A12-110",
+    "questionCode": "A12-051",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "How often do you do your homework?",
@@ -5448,7 +5448,7 @@
   },
   {
     "id": 286,
-    "questionCode": "A12-111",
+    "questionCode": "A12-052",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What are the benefits of organic food?",
@@ -5468,7 +5468,7 @@
   },
   {
     "id": 287,
-    "questionCode": "A12-112",
+    "questionCode": "A12-053",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "What are the benefits of organic food?",
@@ -5488,7 +5488,7 @@
   },
   {
     "id": 288,
-    "questionCode": "A12-113",
+    "questionCode": "A12-054",
     "level": "A1",
     "sublevel": "A1.2",
     "question": "Do you often talk with your best friend?",
@@ -5576,11 +5576,11 @@
     "answer": "",
     "answerTranslation": "",
     "unit": null,
-    "reminder": "",
+    "reminder": null,
     "tags": [],
-    "difficulty": "",
+    "difficulty": null,
     "active": false,
-    "contributor": ""
+    "contributor": null
   },
   {
     "id": 293,
@@ -5904,7 +5904,7 @@
   },
   {
     "id": 309,
-    "questionCode": "A11-056",
+    "questionCode": "A11-033",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "How many minutes does an hour have?",
@@ -5923,7 +5923,7 @@
   },
   {
     "id": 310,
-    "questionCode": "A11-057",
+    "questionCode": "A11-034",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "How many seconds does a minute have?",
@@ -5942,7 +5942,7 @@
   },
   {
     "id": 311,
-    "questionCode": "A11-058",
+    "questionCode": "A11-035",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What's the time, please?",
@@ -5961,7 +5961,7 @@
   },
   {
     "id": 312,
-    "questionCode": "A11-059",
+    "questionCode": "A11-036",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you get up?",
@@ -5980,7 +5980,7 @@
   },
   {
     "id": 313,
-    "questionCode": "A11-060",
+    "questionCode": "A11-037",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you study English?",
@@ -6000,7 +6000,7 @@
   },
   {
     "id": 314,
-    "questionCode": "A11-061",
+    "questionCode": "A11-038",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go to school?",
@@ -6020,7 +6020,7 @@
   },
   {
     "id": 315,
-    "questionCode": "A11-062",
+    "questionCode": "A11-039",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you eat breakfast?",
@@ -6040,7 +6040,7 @@
   },
   {
     "id": 316,
-    "questionCode": "A11-063",
+    "questionCode": "A11-040",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go to college?",
@@ -6060,7 +6060,7 @@
   },
   {
     "id": 317,
-    "questionCode": "A11-064",
+    "questionCode": "A11-041",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you do homework?",
@@ -6080,7 +6080,7 @@
   },
   {
     "id": 318,
-    "questionCode": "A11-065",
+    "questionCode": "A11-042",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go to bed?",
@@ -6099,7 +6099,7 @@
   },
   {
     "id": 319,
-    "questionCode": "A11-066",
+    "questionCode": "A11-043",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go to work?",
@@ -6119,7 +6119,7 @@
   },
   {
     "id": 320,
-    "questionCode": "A11-067",
+    "questionCode": "A11-044",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you practice English?",
@@ -6139,7 +6139,7 @@
   },
   {
     "id": 321,
-    "questionCode": "A11-068",
+    "questionCode": "A11-045",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you watch TV?",
@@ -6159,7 +6159,7 @@
   },
   {
     "id": 322,
-    "questionCode": "A11-069",
+    "questionCode": "A11-046",
     "level": "A1",
     "sublevel": "A1.1",
     "question": "What time do you go home?",
@@ -6171,6 +6171,350 @@
     "tags": [
       "Present Simple",
       "Daily Routines",
+      "Places & Location"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 323,
+    "questionCode": "A11-036",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How are you?",
+    "questionTranslation": "¿Cómo estás?",
+    "answer": "I'm well. I am a little tired.",
+    "answerTranslation": "Estoy bien. Estoy un poco cansado(a).",
+    "unit": 1,
+    "reminder": "Use \"a little\" before adjectives.",
+    "tags": [
+      "Verb to be",
+      "Greetings"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 324,
+    "questionCode": "A11-037",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How is it going?",
+    "questionTranslation": "¿Cómo te va?",
+    "answer": "I'm good thanks, and you?",
+    "answerTranslation": "Estoy bien, gracias, ¿y tú?",
+    "unit": 1,
+    "reminder": "Also: I'm fine, thanks.",
+    "tags": [
+      "Verb to be",
+      "Greetings"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 325,
+    "questionCode": "A11-038",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How are you doing?",
+    "questionTranslation": "¿Cómo te está yendo?",
+    "answer": "I'm doing great!",
+    "answerTranslation": "¡Me está yendo genial!",
+    "unit": 1,
+    "reminder": "Everything is good, thank you!",
+    "tags": [
+      "Verb to be",
+      "Greetings"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 326,
+    "questionCode": "A11-039",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Can you spell your first name?",
+    "questionTranslation": "¿Puedes deletrear tu primer nombre?",
+    "answer": "It is spelled M-A-R-I-A.",
+    "answerTranslation": "Se deletrea M-A-R-I-A.",
+    "unit": 1,
+    "reminder": "Another form is: It is M A R I A.",
+    "tags": [
+      "Modal Can",
+      "Spelling & Alphabet"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 327,
+    "questionCode": "A11-040",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How do you spell your middle name?",
+    "questionTranslation": "¿Cómo se deletrea tu segundo nombre?",
+    "answer": "It's spelled J-O-S-E.",
+    "answerTranslation": "Se deletrea J-O-S-E.",
+    "unit": 1,
+    "reminder": "Another form is: It is J O S E.",
+    "tags": [
+      "Present Simple",
+      "Spelling & Alphabet"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 328,
+    "questionCode": "A11-041",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How do you spell your last name?",
+    "questionTranslation": "¿Cómo se deletrea tu apellido?",
+    "answer": "It's spelled R-O-D-R-I-G-U-E-Z.",
+    "answerTranslation": "Se deletrea R-O-D-R-I-G-U-E-Z.",
+    "unit": 1,
+    "reminder": "Another form is: It is R O D R I G U E Z.",
+    "tags": [
+      "Present Simple",
+      "Spelling & Alphabet"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 329,
+    "questionCode": "A11-047",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "When is Christmas?",
+    "questionTranslation": "¿Cuándo es Navidad?",
+    "answer": "Christmas is on December 25th.",
+    "answerTranslation": "La Navidad es el 25 de diciembre.",
+    "unit": 2,
+    "reminder": "Use ON for full dates. Capitalize holidays.",
+    "tags": [
+      "Verb to be",
+      "Dates & Celebrations"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 330,
+    "questionCode": "A11-048",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "When is Independence Day in Guatemala?",
+    "questionTranslation": "¿Cuándo es el Día de la Independencia en Guatemala?",
+    "answer": "IT is on September 15th.",
+    "answerTranslation": "Es el 15 de septiembre.",
+    "unit": 2,
+    "reminder": "Use ON for full dates. Capitalize holidays.",
+    "tags": [
+      "Verb to be",
+      "Dates & Celebrations"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 331,
+    "questionCode": "A11-049",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "When is Revolution Day?",
+    "questionTranslation": "¿Cuándo es el Día de la Revolución?",
+    "answer": "Revolution Day is on October 20th.",
+    "answerTranslation": "El Día de la Revolución es el 20 de octubre.",
+    "unit": 2,
+    "reminder": "Use ON for full dates. Capitalize holidays.",
+    "tags": [
+      "Verb to be",
+      "Dates & Celebrations"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 332,
+    "questionCode": "A11-050",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What is your favorite day?",
+    "questionTranslation": "¿Cuál es tu día favorito?",
+    "answer": "My favorite day is Saturday.",
+    "answerTranslation": "Mi día favorito es el sábado.",
+    "unit": 2,
+    "reminder": "Capitalize days of the week. Do not use \"the\" before days.",
+    "tags": [
+      "Verb to be",
+      "Dates & Celebrations",
+      "Likes & Preferences"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 333,
+    "questionCode": "A11-051",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What is your favorite color?",
+    "questionTranslation": "¿Cuál es tu color favorito?",
+    "answer": "My favorite color is blue.",
+    "answerTranslation": "Mi color favorito es el azul.",
+    "unit": 1,
+    "reminder": "Use IS for singular and ARE for plural.",
+    "tags": [
+      "Verb to be",
+      "Likes & Preferences"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 334,
+    "questionCode": "A11-052",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Tell me 3 countries.",
+    "questionTranslation": "Dime 3 países.",
+    "answer": "Three countries are Guatemala, Mexico, and Japan.",
+    "answerTranslation": "Tres países son Guatemala, México y Japón.",
+    "unit": 3,
+    "reminder": "Capitalize country names.",
+    "tags": [
+      "Verb to be",
+      "Countries & Nationalities"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 335,
+    "questionCode": "A11-053",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Tell me 3 nationalities.",
+    "questionTranslation": "Dime 3 nacionalidades.",
+    "answer": "Three nationalities are Guatemalan, Mexican, and Japanese.",
+    "answerTranslation": "Tres nacionalidades son guatemalteco, mexicano y japonés.",
+    "unit": 3,
+    "reminder": "Capitalize nationalities in English.",
+    "tags": [
+      "Verb to be",
+      "Countries & Nationalities"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 336,
+    "questionCode": "A11-054",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Count from 11 to 20.",
+    "questionTranslation": "Cuenta del 11 al 20.",
+    "answer": "Eleven, twelve, thirteen, fourteen, fifteen, sixteen, seventeen, eighteen, nineteen, twenty.",
+    "answerTranslation": "Once, doce, trece, catorce, quince, dieciséis, diecisiete, dieciocho, diecinueve, veinte.",
+    "unit": 2,
+    "reminder": "Pay attention to the \"-teen\" ending from 13 to 19.",
+    "tags": [
+      "Numbers",
+      "Vocabulary"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 337,
+    "questionCode": "A11-055",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "Count from 20 to 30.",
+    "questionTranslation": "Cuenta del 20 al 30.",
+    "answer": "Twenty, twenty-one, twenty-two, twenty-three, twenty-four, twenty-five, twenty-six, twenty-seven, twenty-eight, twenty-nine, thirty.",
+    "answerTranslation": "Veinte, veintiuno, veintidós, veintitrés, veinticuatro, veinticinco, veintiséis, veintisiete, veintiocho, veintinueve, treinta.",
+    "unit": 2,
+    "reminder": "Use a hyphen (-) between twenty and the next digit (twenty-one).",
+    "tags": [
+      "Numbers",
+      "Vocabulary"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 338,
+    "questionCode": "A11-056",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "How many days are there in January?",
+    "questionTranslation": "¿Cuántos días tiene enero?",
+    "answer": "There are 31 days in January.",
+    "answerTranslation": "Hay 31 días en enero.",
+    "unit": 2,
+    "reminder": "Use \"There are\" for plural nouns. Capitalize months.",
+    "tags": [
+      "There is / There are",
+      "Dates & Celebrations"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 339,
+    "questionCode": "A11-057",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What is the first day of the week?",
+    "questionTranslation": "¿Cuál es el primer día de la semana?",
+    "answer": "The first day of the week is Sunday.",
+    "answerTranslation": "El primer día de la semana es el domingo.",
+    "unit": 2,
+    "reminder": "Capitalize days of the week. Use \"the first\" for ordinal numbers.",
+    "tags": [
+      "Verb to be",
+      "Dates & Celebrations"
+    ],
+    "difficulty": "Basic",
+    "active": true,
+    "contributor": "Dana Ivettte Rodríguez del Cid"
+  },
+  {
+    "id": 340,
+    "questionCode": "A11-058",
+    "level": "A1",
+    "sublevel": "A1.1",
+    "question": "What is your address?",
+    "questionTranslation": "¿Cuál es tu dirección?",
+    "answer": "My address is 5th Street 12-30, Zone 10, Guatemala City.",
+    "answerTranslation": "Mi dirección es 5ta Calle 12-30, Zona 10, Ciudad de Guatemala.",
+    "unit": 3,
+    "reminder": "Use street/avenue, number, and zone.",
+    "tags": [
+      "Verb to be",
+      "Personal Information",
       "Places & Location"
     ],
     "difficulty": "Basic",
